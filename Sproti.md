@@ -1,168 +1,165 @@
-Umsókn til Tækniþróunarsjóðs
+Application for Technology Development
 ============================
 
-Haust 2016
-----------
+Autumn 2016
+-----------
 
-Verkefnislýsing
-===============
+Project Description
+===================
 
 Sproti
 ------
 
-### Heiti fyrirtækis: HiDef Textiles
+### Company name: HiDef Textiles
 
-### Heiti verkefnis: HiDef Knits
+### Project title: HiDef Knits
 
 ![](figures/HiDefKnitsLogo.png)
 
-Leiðbeiningar
--------------
-
-Vinsamlegast hafið eftirfarandi atriði í huga við gerð verkefnislýsingar
-Umsækjandi þarf að svara öllum liðum hér að neðan, að öðrum kosti verður umsókn
-vísað frá. Þar sem stendur „Texti“ er hægt að skrifa texta, setja inn myndir eða
-gera töflur. Umsóknin má ekki vera lengri en 20 blaðsíður að frátalinni forsíðu,
-samantekt, efnisyfirliti og heimildaskrá. Hvorki er leyfilegt að breyta breidd
-spássíu né hafa leturstærð minni en 11 punkta Calibri (body) eða sambærilegt. Ef
-umsókn er send inn á öðru en MS Word formi t.d. PDF skal umsækjandi huga vel að
-blaðsíðufjölda áður en umsókn er send inn. Þeir sem ekki hafa aðgang að MS Word
-er bent á að nota OneDrive. Frekari upplýsingar og reglur er að finna á vefsíðu
-Rannís. Umsóknafrestur er til kl. 16.00 á lokadegi umsóknarfrests sem er að öllu
-jöfnu 15. febrúar og 15. september nema þegar þessir dagar bera upp á helgi eða
-almennan frídag. Umsóknafrestur færist þá til næsta almenna vinnudags.
-
-Samantekt
-=========
-
-Texti (Samantekt á að vera að hámarki 1 bls.)
-
-1 Lýsing á verkefninu
-=====================
-
-1.1. Markmið
+Instructions
 ------------
 
-*Lýsið verkefninu og markmiðum þess. Hverjar eru áætlaðar niðurstöður/afurðir
-verkefnisins, hvers eðlis eru afurðirnar (t.d. tæki, búnaður, hugbúnaður,
-þjónusta).*
+Please following items in the preparation of project descriptions.
+The applicant must answer all the items below, otherwise the application
+dismissed. That reads "Text" you can write text, insert images or
+tabletting. The application can not be longer than 20 pages, excluding the cover,
+summary, table of contents and bibliography. It is forbidden to change the width
+margin nor have the font size smaller than 11-point Calibri (Body) or equivalent. If
+application is made for other than MS Word format example PDF, the applicant must pay close attention to
+page number before submitting the application. Those who do not have access to MS Word
+are advised to use OneDrive. Additional information and rules can be found on the website
+Rannís. The application deadline is at. 16.00 per application deadline is entirely
+equation 15 February and 15 September except where these days carry a weekend or
+public holiday. The application deadline moves to the next ordinary working day.
 
-Texti
+Summary
+=======
 
-1.2. Staða þekkingar
---------------------
+Text (Summary of a maximum 1 page).
 
-*Gerið grein fyrir stöðu þekkingar (e. state of the art) innanlands og erlendis
-á þeim sviðum sem verkefnið nær til og hvernig verkefnið getur bætt við
-núverandi þekkingu á viðkomandi sviði.*
+1 Description of the project
+============================
 
-Texti
+1.1. Objectives
+---------------
 
-1.3. Staða verkefnis
---------------------
+* Describe the project and its objectives. What are the estimated results / products
+project nature are the products (such as tools, equipment, software, service). *
 
-*Gerið grein fyrir þeirri vinnu sem hefur átt sér stað áður en ákveðið var að
-hefja verkefnið. Hefur tæknileg eða markaðsleg forkönnun verið gerð? Hefur
-frelsi til athafna verið kannað með leit í einkaleyfisgagnagrunnum?*
+text
 
-Texti
+1.2. State of the art
+---------------------
 
-2 Nýnæmi
-========
+* Please describe the state of knowledge (e. State of the art) domestically and abroad
+in the areas for the project and how the project can add existing knowledge in the relevant field. *
 
-2.1. Staða markaðar
+text
+
+1.3. project status
 -------------------
 
-*Gerið grein fyrir væntanlegum markaðsgeira og stöðu markaðar. Gerið grein fyrir
-þörf á markaði (innanlands og/eða erlendis) og á hvaða hátt afurðin svarar
-henni. Lýsið samkeppnisaðilum og á hvaða hátt afurðin er frábrugðin afurðum
-annarra samkeppnisaðila.*
+* Give an account of the work that has taken place before the decision to
+start the project. Have a technical or market pilot study been conducted? have
+freedom of action have been investigated in search of patent databases? *
 
-Texti
+text
 
-2.2. Áskoranir
---------------
+2 Novelty
+=========
 
-*Lýsið tæknilegum og hönnunarlegum áskorunum sem eru fólgnar í þróun
-afurðarinnar.*
+2.1. Market situation
+---------------------
 
-Texti
+* Please describe the potential market segment and market position. Please describe the
+the need of the market (domestic and / or foreign) and the manner in which the product answers
+it. Describe the competitors and the way the product is different from the products
+other competitors. *
 
-2.3. Afleidd tækifæri (Spin-off)
---------------------------------
+text
 
-*Lýsið mögulegum afleiddum tækifærum sem geta orðið til, t.d. vegna nýrrar
-þekkingar í verkefninu og/eða vegna notkunar afurðarinnar.*
+2.2. Challenges
+---------------
 
-Texti
+* Describe technical and design challenges bearings, which involve the development
+product. *
 
-2.4. Hugverkastefna
--------------------
+text
 
-*Lýsið áætlun fyrirtækisins um hvernig farið verður með mögulegar óefnislegar
-eignir (einkaleyfi, vörumerkjavernd, hönnunarvernd) sem fást úr verkefninu.*
+2.3. Derived opportunity (Spin-off)
+-----------------------------------
 
-Texti
+* Describe the potential secondary opportunities that can lead to, for example, for new
+knowledge of the project and / or the use of the product. *
 
-3 Skipulag og stjórnun
-======================
+text
 
-3.1. Stjórnun
--------------
+2.4. Intellectual property policy
+---------------------------------
 
-*Gerið grein fyrir því hvernig verkefninu er stýrt, hverjir stýra því og ábyrgð
-hvers þátttakanda. Tilgreinið verkefnisstjóra, hverjir sitja í stjórn
-verkefnisins og verkaskiptingu hennar.*
+* Describe your business plan on how to be a possible intangible
+property (patent, trademark protection, design) obtained from the project. *
 
-Texti
+text
 
-3.2. Samstarf
--------------
+3 Organization and Management
+=============================
 
-*Ef um er að ræða samstarfsverkefni, gerið grein fyrir eðli samstarfsins og
-gildi þess fyrir verkefnið. Gerið grein fyrir hlutverki allra samstarfsaðila í
-verkefninu. Lýsið samstarfi bæði við innlenda og erlenda samstarfsaðila.*
+3.1. Management
+---------------
 
-Texti
+* Give an account of how the project is managed, who control and responsibility
+each participant. Specify the project manager, who is in control
+project and its division of labor. *
 
-3.3. Kostnaður og fjármögnun
-----------------------------
+text
 
-*Gerið grein fyrir kostnaði og fjármögnun verkefnisins. Hvernig verður brugðist
-við ef áætluð fjármögnun til verkefnisins stenst ekki?*
+3.2. Cooperation
+----------------
 
-Texti
+* If the case of a cooperative, describe the nature of the partnership and
+value for the project. Please describe the role of all partners
+project. Describe cooperation both with domestic and foreign partners. *
 
-4 Verðmæti
-==========
+text
 
-4.1. Viðskipaleg markmið
+3.3. Budget
+-----------
+
+* Please describe the costs and funding. How will react if the projected funding for the project does not? *
+
+text
+
+4 Value
+=======
+
+4.1. Business objectives
 ------------------------
 
-*Lýsið viðskiptalegum markmiðum. Gerið grein fyrir veltu sem afurðin getur
-skapað umsækjendum á markaði fyrstu 5-10 árin eftir að afurð kemur fyrst á
-markað. Hvaða markaðshlutdeild er stefnt að.*
+* Describe your business objectives. Please describe the turnover of the product may
+applicants made the market the first 5-10 years after the product comes first
+market. What market share is planned. *
 
-Texti
+text
 
-4.2. Leið á markað
+4.2. Way to market
 ------------------
 
-*Gerið grein fyrir hvernig á að koma afurð á markað (þ.á.m. aðferðafræði,
-áætlaðri markaðshlutdeild, fjármögnun og framleiðslugetu). Lýsið markaðstengslum
-og bolmagni umsækjenda til að koma afurðinni á markað. Hver er helsta
-markaðslega óvissan í verkefninu?*
+* Give an account of how to bring a product to market (including methodology,
+estimated market share, financing and production). Describe the market context
+and capacity of the applicants to bring the product to market. What is the main
+commercially uncertainty in the project? *
 
-Texti
+text
 
-4.3. Almenn verðmætasköpun
---------------------------
+4.3. General value
+------------------
 
-*Lýsið á hvaða hátt niðurstöður verkefnisins geta aukið verðmætasköpun á Íslandi
-umfram tekjur af afurðinni (hagræðing eða auknar tekjur annarra innlendra aðila
-vegna notkunar afurðarinnar).*
+* Describe the manner in which the results of the project can increase value creation in Iceland
+excess income of the product (efficiency or increased revenues by other residents
+the use of the product). *
 
-Texti
+text
 
-5 Heimildaskrá
-==============
+5 References
+============
