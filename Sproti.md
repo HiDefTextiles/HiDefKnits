@@ -206,7 +206,7 @@ products, either pattern order for them to work yourself or knitted garment.**
 
 text
 
-1.3. project status
+1.3. Project status
 -------------------
 
 -   *Give an account of the work that has taken place before the decision to
@@ -242,15 +242,6 @@ armhole to lower edge). However, HiDef Knits is designed with more flexibility,
 and choice of constructional components. Therefore, an Icelandic lopapeysa would
 only be one possible configuration of many for possible garment design within
 HiDef Knits.
-
-The emphasis of HiDef Knits is being an intuitive easy-to-use design tool, that
-even the not so computer savvy grandmother would be able to use or even be
-useful for those limited or no experience in knitting to design a garment that
-they could outsource the knitting to.
-
-The use of HiDef Knits is to enable hobby knitters to publish their designs for
-others to make. Where the output of HiDef Knits could be a valuable income
-source for those users who to choose to sell their pattern to others.
 
 2.2. Challenges
 ---------------
@@ -361,7 +352,14 @@ text
     creation in Iceland excess income of the product (efficiency or increased
     revenues by other residents the use of the product).*
 
-text
+The emphasis of HiDef Knits is being an intuitive easy-to-use design tool, that
+even the not so computer savvy grandmother would be able to use or even be
+useful for those limited or no experience in knitting to design a garment that
+they could outsource the knitting to.
+
+The use of HiDef Knits is to enable hobby knitters to publish their designs for
+others to make. Where the output of HiDef Knits could be a valuable income
+source for those users who to choose to sell their pattern to others.
 
 5 References
 ============
