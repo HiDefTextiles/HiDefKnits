@@ -72,10 +72,9 @@ site [Ravelry](http://www.raverly.com) that has over 6.21 million registered
 users. Ravelry connects knitting and crochets enthusiasts and professionals. It
 is both a social platform where users can share and discuss their knitwork, but
 also a venue for distributing knitting patterns, both for free and for sale,
-within the site.
-
-There are also a very lively groups on facebook, such as *Handóðir prjónarar*
-with over 17 thousand (mostly) Icelandic members.
+within the site. 
+There are also a very lively groups on facebook, such as
+*Handóðir prjónarar* with over 17 thousand (mostly) Icelandic members.
 
 Knitters take great pride in their work and most practitioners know of all the
 untold hours of knitting disasters and unwanted frogging[[2]](#_ftn2), where a
@@ -122,13 +121,15 @@ center back to wrist.
 
 ![](figures/measurements.png)
 
-[Figure ]1 Measurements   Based on these body measurements it’s important to
-incorporate ease (i.e. extra width) in the pattern design in order for the
-wearer to move comfortably in a garment. For instance, 5cm ease for body
-circumference is sufficient, but 10cm is preferred when designing outerwear. The
-HiDef Knits software will make the necessary ease additions that are appropriate
-to each pattern shape based on the user’s choice of style, namely: standard,
-roomy, tight, form fitting (i.e. negative ease) or user defined.
+**Figure 1 Measurements**
+
+Based on these body measurements it’s important to incorporate ease (i.e. extra
+width) in the pattern design in order for the wearer to move comfortably in a
+garment. For instance, 5cm ease for body circumference is sufficient, but 10cm
+is preferred when designing outerwear. The HiDef Knits software will make the
+necessary ease additions that are appropriate to each pattern shape based on the
+user’s choice of style, namely: standard, roomy, tight, form fitting (i.e.
+negative ease) or user defined.
 
 From here the software offers constructional elements for the user to play
 around with. Figure 2 depicts several classic torso silhouettes (i.e. front and
@@ -304,9 +305,9 @@ is familiar with the design process for knitwear through ICESHEEP. Helga has
 also been known from designing and visualizing her own fair-isle patterns
 through MATLAB programming.
 
-**Ólafur Þór Magnússon**, text
+**Ólafur Þór Magnússon**, text on 3D modelling
 
-**Brennan Novak**, text
+**Brennan Novak**, text on UI/UX design and open-source software.
 
 **Áslaug Einarsdóttir** is an advisory to the board. Áslaug is retired, but in
 the past she worked as a tailor in her father’s Einar Einarsson tailoring
