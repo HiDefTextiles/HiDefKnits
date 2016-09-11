@@ -228,24 +228,10 @@ text
     the product is different from the products other competitors.*
 
 As mentioned before in section XX, of the 170 Icelandic knitters polled, the
-majority of knitwear designers use pen and paper to create their designs. There
-is software available helping with fair-isle design, that is to say creating
-multi-color imagery in knitwear. Unfortunately, most applications do not take
-the design process further in terms of stitches etc. However, there is a
-web-based application called [Prjónamunstur.is](http://prjonamunstur.is/) that
-is a good tool for designing an Icelandic lopapeysa with your own fair-isle
-pattern. There is even a 3D rendering of the pattern, and with a downloadable
-PDF instruction of your design. Although this is similar to what HiDef Knits
-will provide. Prjónamynstur’s drawback is that it only produces fair-isle
-pullovers that have a circular yoke and only based on 3 body measurements
-(shoulder circumference, sleeve length, and length from armhole to lower edge).
-However, HiDef Knits will be designed with more flexibility, and choice of
-constructional components. Therefore, an Icelandic lopapeysa would only be one
-possible configuration of many for possible garment design within HiDef Knits.
-Moreover, Prjónamunstur hasn’t been updated since March, 2003 and requires
-Microsoft SilverLight to run, e.g. making it obsolete for latest versions of
-Chrome.
+majority of knitwear designers use pen and graph paper to create their designs. 
 
+There are several software solutions that aid with fair-isle design, 
+that is to say creating multi-color imagery in knitwear.
 [Knit Visualizer by Knit Foundry](http://knitfoundry.com/software.html) is a
 knitting software that has not been updated since December, 2008. It is
 essentially a chart wizard that translates chart symbols to knitting
@@ -287,8 +273,25 @@ software that haven't released an update in the past few years.
 HiDef Knits would be a web-based application, only requiring an updated browser.
 Note none of these programs offer a 3D rendering of textures based on your 
 created stitch chart. 
-Not to mention there is no support for garment design whatsoever, 
-which is the main selling point of HiDef Knits. 
+
+Unfortunately, none of these aformentioned software applications take 
+the design process further, in particular in terms of pattern grading 
+(i.e. sizing), which is the main selling point of HiDef Knits. 
+However, there is a web-based application called 
+[Prjónamunstur.is](http://prjonamunstur.is/) that is a good tool for 
+designing an Icelandic lopapeysa with your own fair-isle pattern. 
+There is even a 3D rendering of the pattern, and with a downloadable
+PDF instruction of your design available in several lanuages. 
+Although this is similar to what HiDef Knits will provide. 
+Prjónamynstur’s drawback is that it only produces fair-isle pullovers that 
+have a circular yoke and only based on 3 body measurements
+(shoulder circumference, sleeve length, and length from armhole to lower edge).
+However, HiDef Knits will be designed with more flexibility, and choice of
+constructional components. Therefore, an Icelandic lopapeysa would only be one
+possible configuration of many for possible garment design within HiDef Knits.
+Moreover, Prjónamunstur hasn’t been updated since March, 2015 and requires
+Microsoft SilverLight to run, e.g. making it obsolete for latest versions of
+Chrome.
 
 Commercial fashion industry use computer aided design (CAD) software. At the
 forefront is Kaledo (previously known as PrimaVision) by Lectra, with customers
@@ -307,6 +310,26 @@ done with normal woven fabrics. However, when dealing with handknits, each piece
 is knit from one continuous yarn, and only cut at the very end. Thus its shaping
 is determined by the choice of decreases and increases, and the choice of bind
 off techniques that are all detailed in the knitting pattern.
+
+[Garment Designer](http://www.cochenille.com/garment-designer/) by 
+Cochenille Design Studio is a relatively affordable software solution for 
+garment design, priced at $199. However, current version was released in 2005
+and ridden in errors, despite being sold as compatible with Windows 10. 
+Plugins are available (for Win XP to 8.1) at extra cost, around $25 a pop.
+The garment design is limited to a drop-down pane of prefined shapes and sizes.
+It's possible to adjust some measurements, but the overall shape is predefined 
+with limit options in terms of flexibility of design. 
+Moreover, if contradictory design elements are chosen together, 
+or input variables are invalid, the software's error handling is not intuitive 
+of what is wrong or the the program freezes. Therefore, this progrom is not
+appropriate for unexperienced designers as the learning curve is quite steep. 
+Furthermore, Garment Designer is marketed for general pattern design to help 
+with grading. There is only  a basic knitting module, with no option of 
+designing stitch texture or fair-isle charts. Therefore, Garment Designer
+would need to be done in conjuction with a knitting chart editor/visualizer.
+Since these programs are not designed to be compatible with one another, 
+this requires a lot of manual conversions that consequently hinders the flow 
+of the design process.
 
 
 2.2. Challenges
@@ -382,7 +405,7 @@ obsolete in terms of hardware and software requirements and rarely updated, we
 believe that creating a solution that is FOSS will benefit future users.
 Therefore even if we decide to not support the solution any longer by cutting
 updates or no longer releasing patches, the knowledge gained by the project will
-not lost and could be picked up by other knit-programmers-enthusiasts in future.
+not be lost and could be picked up by other knit-programmers-enthusiasts in future.
 
 Moreover, open source software is typically much less resource-intensive than
 their proprietary counterpart, meaning that you can run it well even on older
