@@ -254,12 +254,41 @@ software, however, the interface is not intuitive for knitting novices and there
 are no libraries included unless you buy the full version, at a flat-fee of
 $185 (which is considered too excessively priced by most Ravelry users). The
 output of the software is user-defined charts, and can be based on 40 common
-stitches and 75 different cable stitches. Note there is no 3D rendering of
-textures based on your created stitch chart. Moreover, there is no support for
-garment design whatsoever. Furthermore, users download the for Knit Visualizer
+stitches and 75 different cable stitches. 
+A drawback that is frequently discussed in Ravelry forums is the written pattern 
+generated would always need editing to group repeats, etc. Nevertheless, a nice
+program to get illustrated charts for knitting. 
+Similar to Knit Visualizer is [Knitting Chart Editor](http://www.stitchmastery.com/), 
+a by StitchMastery. Priced at £60, the full version includes hundreds of 
+predefined stitches including 150+ cables, Estonian stitches, brioche, 
+beading and twined stitches. They offer a stitch font library (bought seperately).
+Not only does StitchMastery include more types of predefined stithes, moreover, 
+the drawbacks from Knit Visualizer are confronted by Stitchmastery, as the 
+software has the ability to detect repeated stitches and automatically annotate them.
+Last version, was released 2014, with no new software development announced.
+Reviews on Ravelry and experiend knitters blogs[[7]](#_ftn7) warn prespective 
+users that there is a steep learning curve to use the program, 
+and a manual that is often not sufficient. However, pattern instructions 
+with for repeats are easily created and charts are nicely formatted. 	
+Another competitor is [EnvisioKnit](http://www.envisioknit.com/) by 
+Jane of EnvisioKnit Design Studio, priced at $99. 
+Unlike StitchMastery, the manual is easy to navigate and learn the basic commands 
+with many commands are intuitive.[[8]](#_ftn8) 
+Otherwise, very similar capabilities to that of StitchMastery.
+Yet another chart visualizing software is [KnitBird](http://knitbird.com/), 
+priced at €59. However, they offer purely a chart without any automated 
+written instructions. On the other, there main feature not offered by the others
+is an image importer where you can adjust the level of pixelation/detail.
+
+Furthermore, users download the Knit Visualizer, StitchMastery, and KnitBird 
 software on their computer so there can be some technical difficulties to
-install the program for users depending on their hardware. HiDef Knits would be
-a web-based application, only requiring an updated browser.
+install the program for users depending on their hardware. Especially the 
+software that haven't released an update in the past few years.
+HiDef Knits would be a web-based application, only requiring an updated browser.
+Note none of these programs offer a 3D rendering of textures based on your 
+created stitch chart. 
+Not to mention there is no support for garment design whatsoever, 
+which is the main selling point of HiDef Knits. 
 
 Commercial fashion industry use computer aided design (CAD) software. At the
 forefront is Kaledo (previously known as PrimaVision) by Lectra, with customers
@@ -508,7 +537,18 @@ hats, skirts, pants and other accessories.
 simultaneously over a single row.
 
 [[5]](#_ftn5) Ravelry forum discussion on pricing:
-[http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). Retrived: 2016-09-10.
+[http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). 
+Retrived: 2016-09-10.
 
 [[6]](#_ftn6) Woolly Wormhead, "The true cost of a pattern."
-[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html). Retrived: 2016-09-10.
+[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html). 
+Retrived: 2016-09-10.
+
+[[7]](#_ftn7) Stephanie Tallant, "Software Review: Stitchmastery Knitting Chart Editor"
+[http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/](http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/). 
+Retrived: 2016-09-10.
+
+[[8]](#_ftn8) Stephanie Tallant, "Chartmaking Software Review: EnvisioKnit"
+[http://www.sunsetcat.com/2011/07/12/chartmaking-software-review-envisioknit/](http://www.sunsetcat.com/2011/07/12/chartmaking-software-review-envisioknit/). 
+Retrived: 2016-09-10.
+
