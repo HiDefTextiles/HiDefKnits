@@ -65,7 +65,7 @@ new often buttoned-up, opened up with a zipper, hooded, with inset pockets, and
 the list goes on. But all of them share the same underlying baseline structure.
 
 Knitting can be very rewarding, as it’s generally a labor of love. Studies have
-shown that knitting has many health benefits[^1] as its practice can be a form
+shown that knitting has many health benefits[[1]](#_ftn1) as its practice can be a form
 of meditation. Knitting used to be considered passé and only for grandmothers,
 but in recent years there has been a massive resurgence. Partly due to celebrity
 fans like Kate Moss and Amanda Seyfried taking up knitting, but a larger impact
@@ -79,19 +79,12 @@ venue for distributing knitting patterns, both for free and for sale, within the
 site. There are also a very lively groups on facebook, such as *Handóðir
 prjónarar* with over 17 thousand (mostly) Icelandic members.
 
-[^1]: Geda, Yonas E., et al. "Engaging in cognitive activities, aging, and mild
-cognitive impairment: a population-based study." *The Journal of neuropsychiatry
-and clinical neurosciences* 23.2 (2011): 149-154. 
-
 Knitters take great pride in their work and most practitioners know of all the
-untold hours of knitting disasters and unwanted frogging[^2], where a knitter
+untold hours of knitting disasters and unwanted frogging[[2]](#_ftn2), where a knitter
 unravels hours upon hours of meticulous work. This may be due to an error in
 reading the pattern or an unflattering fit. Since one size does not fit all, the
 objective of this project *HiDef Knits* is to simplify the process of designing
 original and altering knitwear with perfect fit and a professional finish.
-
-[^2]: Frogging is when knit work is undone – it is called frogging because frogs
-say “rip it, rip it.”
 
 After consulting 170 Icelandic knitters, 70% had designed a garment for
 themselves and 11% had published their work (remaining 19% did not consider
@@ -120,16 +113,13 @@ due to forgotten structural elements.
 A user starts by feeding into the HiDef Knits software all necessary body
 measurements needed (cf. Figure 1) for constructing a garment. The first version
 of HiDef Knits will solely focus on sweaters, cardigans, dresses and skirts
-since they share similar building blocks.[^3] For these types of garments there
+since they share similar building blocks.[[3]](#_ftn3) For these types of garments there
 are a total of 17 body measurements that need to be considered for an individual
 fit, namely: shoulder width, chest/bust circumference, armhole depth, raglan
 depth, waist circumference, hip circumference, length from hip to waist, front
 and back neck length, body length at front and back, length from armhole to
 lower edge, sleeve length, upper arm width, wrist width, length from center back
 to wrist.
-
-[^3]: Future work for HiDef Knits is support for designing socks, hats, skirts,
-pants and other accessories.
 
 ![](figures/measurements.png)
 
@@ -189,10 +179,7 @@ From here the user defines the texture and color arrangement of the garment.
 With the prototype starting with the most commonly used stockinette stitch,
 garter stitch and ribbing, with lace and cable knit support coming later. The
 user can combine available stitch patterns for practical and aesthetic purposes.
-If the user chooses stockinette stitch, there will be fair-isle[^4] support.
-
-[^4]: Fair-isle knitting is when multiple colors are knitted simultaneously over
-a single row.
+If the user chooses stockinette stitch, there will be fair-isle[[4]](#_ftn4) support.
 
 As garment fit is important, the knitting gauge needs to be correctly estimated
 before making any translations from measurements to numbers of stitches and
@@ -331,17 +318,13 @@ time, energy, skill, expertise and creativity involved that deserves to be
 compensated for. The vast majority of patterns on Raverly are sold for an
 estimated \$5.05 per pattern (PDF download and paid via PayPal). Knitwear
 patterns are quite price sensitive and based with prices from 2008 they have
-only increased in terms of inflation.[^5]
-
-[^5]: Ravelry forum discussion on pricing:
-[http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12).
-Retrived: 2016-09-10.
+only increased in terms of inflation.[[5]](#_ftn5)
 
 Most knitwear designers on Ravelry do not make a living by selling their
 patterns. There is considerable effort that goes into designing and publishing a
 pattern, with on average 34.5 hours spent on each pattern in the production
 stage for an experienced knitwear designer not to mention initial cost for
-approximately £130 for yarn, tech editing, test knitting.[^6] By using HiDef
+approximately £130 for yarn, tech editing, test knitting.[[6]](#_ftn6) By using HiDef
 Knits, it would be possible to reduce the manual labor needed in terms of tech
 editing (valued at £30) and human errors that are common due to miscalculation
 could be avoided, making the patterns virtually error-free. Because, if errors
@@ -351,10 +334,6 @@ the tech editor for review, which can often take more time than the initial
 production. That is why good pattern creation for the beginning is of paramount
 importance, and doesn’t cause unnecessary confusion for the knitters using the
 pattern.
-
-[^6]: Woolly Wormhead, "The true cost of a pattern."
-[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html).
-Retrived: 2016-09-10.
 
 Moreover, by modelling the garment in HiDef Knits patterns can be easily
 modified to be tailored to a greater variety of yarn weight than the one that is
@@ -504,5 +483,21 @@ source for those users who to choose to sell their pattern to others.
 
 5 References
 ============
+[[1]](#_ftnref1) Geda, Yonas E., et al. "Engaging in cognitive activities,
+aging, and mild cognitive impairment: a population-based study." *The Journal of
+neuropsychiatry and clinical neurosciences* 23.2 (2011): 149-154.
 
+[[2]](#_ftnref2) Frogging is when knit work is undone – it is called frogging
+because frogs say “rip it, rip it.”
+
+[[3]](#_ftnref3) Future work for HiDef Knits is support for designing socks,
+hats, skirts, pants and other accessories.
+
+[[4]](#_ftnref4) Fair-isle knitting is when multiple colors are knitted
+simultaneously over a single row.
  
+[[5]](#_ftnref5) Ravelry forum discussion on pricing:
+[http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). Retrived: 2016-09-10.
+
+[[6]](#_ftnref6) Woolly Wormhead, "The true cost of a pattern."
+[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html). Retrived: 2016-09-10.
