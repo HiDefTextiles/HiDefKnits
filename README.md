@@ -483,21 +483,21 @@ source for those users who to choose to sell their pattern to others.
 
 5 References
 ============
-[[1]](#_ftnref1) Geda, Yonas E., et al. "Engaging in cognitive activities,
+[[1]](#_ftn1) Geda, Yonas E., et al. "Engaging in cognitive activities,
 aging, and mild cognitive impairment: a population-based study." *The Journal of
 neuropsychiatry and clinical neurosciences* 23.2 (2011): 149-154.
 
-[[2]](#_ftnref2) Frogging is when knit work is undone – it is called frogging
+[[2]](#_ftn2) Frogging is when knit work is undone – it is called frogging
 because frogs say “rip it, rip it.”
 
-[[3]](#_ftnref3) Future work for HiDef Knits is support for designing socks,
+[[3]](#_ftn3) Future work for HiDef Knits is support for designing socks,
 hats, skirts, pants and other accessories.
 
-[[4]](#_ftnref4) Fair-isle knitting is when multiple colors are knitted
+[[4]](#_ftn4) Fair-isle knitting is when multiple colors are knitted
 simultaneously over a single row.
  
-[[5]](#_ftnref5) Ravelry forum discussion on pricing:
+[[5]](#_ftn5) Ravelry forum discussion on pricing:
 [http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). Retrived: 2016-09-10.
 
-[[6]](#_ftnref6) Woolly Wormhead, "The true cost of a pattern."
+[[6]](#_ftn6) Woolly Wormhead, "The true cost of a pattern."
 [http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html). Retrived: 2016-09-10.
