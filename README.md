@@ -256,7 +256,7 @@ essentially a chart wizard that translates chart symbols to knitting
 abbreviations. They have a free demo version for users to interact with the
 software, however, the interface is not intuitive for knitting novices and there
 are no libraries included unless you buy the full version, at a flat-fee of
-\$185 (which is considered too excessively priced by most Ravelry users). The
+$185 (which is considered too excessively priced by most Ravelry users). The
 output of the software is user-defined charts, and can be based on 40 common
 stitches and 75 different cable stitches. Note there is no 3D rendering of
 textures based on your created stitch chart. Moreover, there is no support for
@@ -316,7 +316,7 @@ are published for free. Among the knitting community, there is a general
 consensus that when designing knitwear patterns there is considerable amount of
 time, energy, skill, expertise and creativity involved that deserves to be
 compensated for. The vast majority of patterns on Raverly are sold for an
-estimated \$5.05 per pattern (PDF download and paid via PayPal). Knitwear
+estimated $5.05 per pattern (PDF download and paid via PayPal). Knitwear
 patterns are quite price sensitive and based with prices from 2008 they have
 only increased in terms of inflation.[[5]](#_ftn5)
 
@@ -437,7 +437,7 @@ offering the commercial service of compiling and packaging of the software.
 
 Since this product is aimed at self-employed designers or personal use the price
 is model is not fully determined. Either by a flat-fee for using HiDef Knits
-with price range of \$25-\$30 per user (similar pricing as a knitting handbook),
+with price range of $25-$30 per user (similar pricing as a knitting handbook),
 or we would adopt in-app purchases - where we charge per library modules (i.e.
 sleeves silhouettes, collars, bind-off techniques, etc.)
 
@@ -495,7 +495,7 @@ hats, skirts, pants and other accessories.
 
 [[4]](#_ftn4) Fair-isle knitting is when multiple colors are knitted
 simultaneously over a single row.
- 
+
 [[5]](#_ftn5) Ravelry forum discussion on pricing:
 [http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). Retrived: 2016-09-10.
 
