@@ -33,14 +33,12 @@ application deadline is entirely equation 15 February and 15 September except
 where these days carry a weekend or public holiday. The application deadline
 moves to the next ordinary working day.
 
- 
 
 Summary
 =======
 
 Text (Summary of a maximum 1 page).
 
- 
 
 1 Description of the project
 ============================
@@ -113,7 +111,7 @@ due to forgotten structural elements.
 A user starts by feeding into the HiDef Knits software all necessary body
 measurements needed (cf. Figure 1) for constructing a garment. The first version
 of HiDef Knits will solely focus on sweaters, cardigans, dresses and skirts
-since they share similar building blocks.[[3]](#_ftn3) For these types of garments there
+since they share similar building blocks.[[3]](#_ftn3) For these types of garments there 
 are a total of 17 body measurements that need to be considered for an individual
 fit, namely: shoulder width, chest/bust circumference, armhole depth, raglan
 depth, waist circumference, hip circumference, length from hip to waist, front
@@ -179,7 +177,8 @@ From here the user defines the texture and color arrangement of the garment.
 With the prototype starting with the most commonly used stockinette stitch,
 garter stitch and ribbing, with lace and cable knit support coming later. The
 user can combine available stitch patterns for practical and aesthetic purposes.
-If the user chooses stockinette stitch, there will be fair-isle[[4]](#_ftn4) support.
+If the user chooses stockinette stitch, there will be fair-isle[[4]](#_ftn4) 
+support.
 
 As garment fit is important, the knitting gauge needs to be correctly estimated
 before making any translations from measurements to numbers of stitches and
@@ -195,7 +194,6 @@ the most common version) or as a one-piece construction (the “preferred”
 approach in Iceland), where the latter does not include selvage stitches as
 there are no joins needed to connect the front and back pieces together.
 
- 
 
 1.2. State of the art
 ---------------------
@@ -206,7 +204,6 @@ there are no joins needed to connect the front and back pieces together.
 
 text
 
- 
 
 1.3. Project status
 -------------------
@@ -218,7 +215,6 @@ text
 
 text
 
- 
 
 2 Novelty
 =========
@@ -283,7 +279,6 @@ is knit from one continuous yarn, and only cut at the very end. Thus its shaping
 is determined by the choice of decreases and increases, and the choice of bind
 off techniques that are all detailed in the knitting pattern.
 
- 
 
 2.2. Challenges
 ---------------
@@ -291,21 +286,16 @@ off techniques that are all detailed in the knitting pattern.
 -   *Describe technical and design challenges bearings, which involve the
     development product.*
 
- 
-
 1.  Realizing 3D draping of a knitted garment on the 3D model, allowing the user
     to preview the garment without having to create an actual sample and having
     a model wear it.
 
- 
 
 2.3. Derived opportunity (Spin-off)
 -----------------------------------
 
 -   *Describe the potential secondary opportunities that can lead to, for
     example, for new knowledge of the project and / or the use of the product.*
-
- 
 
 After designing a knit garment with HiDef Knits software renders a knitting
 pattern. The designer is free to publish the pattern for others to use, either
@@ -340,14 +330,12 @@ modified to be tailored to a greater variety of yarn weight than the one that is
 suggested that results in a different gauge swatch that requires stitch
 recalculation.
 
- 
 
 **The designer can either publish the pattern for others to use or knit
 themselves.**
 
 **order for them to work yourself or knitted garment.**
 
- 
 
 2.4. Intellectual property policy
 ---------------------------------
@@ -356,11 +344,29 @@ themselves.**
     (patent, trademark protection, design) obtained from the project.*
 
 A principal of the designers of HiDef Knits create free and open source software
-(FOSS), as it’s our belief that sharing code benefits everyone. The software
-will be developed open to the public from GitHub at
+(FOSS). This means that everyone is free to use, copy, and change the software
+in any way. It also means that the source code is openly available so others can
+contribute to and audit it.
+
+Given the nature of how many of past knitwear software solutions is currently
+obsolete in terms of hardware and software requirements and rarely updated, we
+believe that creating a solution that is FOSS will benefit future users.
+Therefore even if we decide to not support the solution any longer by cutting
+updates or no longer releasing patches, the knowledge gained by the project will
+not lost and could be picked up by other knit-programmers-enthusiasts in future.
+
+Moreover, open source software is typically much less resource-intensive than
+their proprietary counterpart, meaning that you can run it well even on older
+hardware.
+
+Along similar lines, users can take a piece of the open source software and
+tweak it to suit their needs. Since the code is open, it's simply a matter of
+modifying it to add the functionality you want. This is not applicable to
+proprietary software.
+
+The software will be developed open to the public from GitHub at
 <https://github.com/HiDefTextiles/HiDefKnits>.
 
- 
 
 3 Organization and Management
 =============================
@@ -390,7 +396,18 @@ through MATLAB programming.
 
 **Ólafur Þór Magnússon**, text on 3D modelling
 
-**Brennan Novak**, text on UI/UX design and open-source software.
+**Brennan Novak**, an American national based in Berlin, he has extensive
+knowledge on UI/UX design and a great advocate for open-source software.
+
+His skill sets mainly lies in interface design, user experience design,
+front-end engineering, web development, and branding. For the last sixteen years
+Brennan has worked for web startups, consulted for Fortune 100 companies (e.g.
+Nike), worked at advertising and digital agencies, as well as served individuals
+and small to medium sized businesses, as well co-founded XX.
+
+Brennan’s two main projects in recent years have been MailPile and Qubes OS.
+MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
+OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
 **Áslaug Einarsdóttir** is an advisory to the board. Áslaug is retired, but in
 the past she worked as a tailor before starting her own knitwear company
@@ -398,7 +415,6 @@ ICESHEEP in the 1970s. Áslaug was the primary knitwear designer working mostly
 with lopi. Since retiring in 2005, Áslaug has limited herself to personal
 handknits.
 
- 
 
 3.2. Cooperation
 ----------------
@@ -409,7 +425,6 @@ handknits.
 
 text
 
- 
 
 3.3. Budget
 -----------
@@ -419,7 +434,6 @@ text
 
 text
 
- 
 
 4 Value
 =======
@@ -447,7 +461,6 @@ the HiDef Knits software, along with other related skills beneficial to our
 demographic, such as consulting on how to market your designs, model
 photography, etc.
 
- 
 
 4.2. Way to market
 ------------------
@@ -461,7 +474,6 @@ photography, etc.
 
 2.  International knitting conferences / workshops
 
- 
 
 4.3. General value
 ------------------
@@ -479,7 +491,6 @@ The use of HiDef Knits is to enable hobby knitters to publish their designs for
 others to make. Where the output of HiDef Knits could be a valuable income
 source for those users who to choose to sell their pattern to others.
 
- 
 
 5 References
 ============
