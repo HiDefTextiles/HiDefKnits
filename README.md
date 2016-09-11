@@ -37,7 +37,41 @@ moves to the next ordinary working day.
 Summary
 =======
 
-Text (Summary of a maximum 1 page).
+- *Summary of a maximum 1 page.*
+
+
+HiDef Knits is an intuitive easy-to-use design tool for knitwear, that
+even the not so computer savvy grandmother would be able to use or even be
+useful for those limited or no experience in knitting to design a garment that
+they could outsource the knitting to.
+
+The use of HiDef Knits is to enable hobby knitters to publish their designs for
+others to make. Where the output of HiDef Knits could be a valuable income
+source for those users who to choose to sell their pattern to others.
+
+Knitted related apps that are on the market aren't sophisticated enough to 
+generate even the simplest garment. They're mostly useful for keeping track 
+of where you are in a written pattern. 
+There are a few desktop software solutions available that create illustrative 
+pattern schematics but they have with a steep learning curveboth, and are 
+generally too expensive for self-publishing designers or hobby knitters. 
+Moreover, they are designed with sewing designers in mind, so there is 
+minimal support for generating meaningful patterns for handknits. 
+However, there are is an abuntant selection of software for creating knitting
+charts that can be translated to written directions. 
+The HiDef Knits software is to encorporate all of these ideas, for a 
+holistic solution that could help aspring and experienced designers to create
+bespoke knitting patterns. Moreover, HiDef Knits unique feature will be 3D 
+rendering of the designed knitwear garment with draping that matches the 
+proposed yarn. 
+Parts of the solution have already been created as standalone programs, 
+that are incompatible with one another. 
+Furthermore, many of those businesses are currently out of business, 
+or are not in active software development. 
+HiDef Knits will be developed as a free and open-source software (FOSS).
+This means that everyone is free to use, copy, and change the software
+in any way. It also means that the source code is openly available so others can
+contribute to and audit it.
 
 
 1 Description of the project
@@ -84,15 +118,15 @@ reading the pattern or an unflattering fit. Since one size does not fit all, the
 objective of this project *HiDef Knits* is to simplify the process of designing
 original and altering knitwear with perfect fit and a professional finish.
 
-After consulting 170 Icelandic knitters, 70% had designed a garment for
-themselves and 11% had published their work (remaining 19% did not consider
+After consulting 200 Icelandic knitters, 82% had designed a garment for
+themselves and 10% had published their patterns (remaining 18% did not consider
 themselves a designer). The majority built their work on existing patterns in
 terms of calculating the number of stitches needed. Some created their garments
 on the fly, and as a result of their undocumented approach their designs were
 not repeatable. Generally, the designers jolted calculations with pen and paper,
 but in an erratic way such that they didn’t feel comfortable in publishing their
 work with others. Those who published their work mostly used Excel to manage
-their calculations and re-sizing.
+their calculations and grading of sizes.
 
 From personal observations, when knitters share their original designs on social
 media, the comment threads are bombarded with questions about pattern
@@ -111,7 +145,7 @@ due to forgotten structural elements.
 A user starts by feeding into the HiDef Knits software all necessary body
 measurements needed (cf. Figure 1) for constructing a garment. The first version
 of HiDef Knits will solely focus on sweaters, cardigans, dresses and skirts
-since they share similar building blocks.[[3]](#_ftn3) For these types of garments there 
+since they share similar building blocks. For these types of garments there 
 are a total of 17 body measurements that need to be considered for an individual
 fit, namely: shoulder width, chest/bust circumference, armhole depth, raglan
 depth, waist circumference, hip circumference, length from hip to waist, front
@@ -194,7 +228,6 @@ the most common version) or as a one-piece construction (the “preferred”
 approach in Iceland), where the latter does not include selvage stitches as
 there are no joins needed to connect the front and back pieces together.
 
-
 1.2. State of the art
 ---------------------
 
@@ -227,7 +260,7 @@ text
     manner in which the product answers it. Describe the competitors and the way
     the product is different from the products other competitors.*
 
-As mentioned before in section XX, of the 170 Icelandic knitters polled, the
+As mentioned before in section XX, of the over 200 Icelandic knitters polled, the
 majority of knitwear designers use pen and graph paper to create their designs. 
 
 There are several software solutions that aid with fair-isle design, 
@@ -324,9 +357,11 @@ or input variables are invalid, the software's error handling is not intuitive
 of what is wrong or the the program freezes. Therefore, this progrom is not
 appropriate for unexperienced designers as the learning curve is quite steep. 
 Furthermore, Garment Designer is marketed for general pattern design to help 
-with grading. There is only  a basic knitting module, with no option of 
-designing stitch texture or fair-isle charts. Therefore, Garment Designer
-would need to be done in conjuction with a knitting chart editor/visualizer.
+with grading. There is only  a basic knitting module, with limited options of  
+createing unique stitch texture or fair-isle charts. The output is also hard 
+to convert to standard knitting instructions (they don't give up repeats etc.)
+Therefore, Garment Designer would need to be done in conjuction with a more 
+sophisticated knitting chart editor/visualizer as previously discussed.
 Since these programs are not designed to be compatible with one another, 
 this requires a lot of manual conversions that consequently hinders the flow 
 of the design process.
@@ -349,39 +384,27 @@ of the design process.
 -   *Describe the potential secondary opportunities that can lead to, for
     example, for new knowledge of the project and / or the use of the product.*
 
-After designing a knit garment with HiDef Knits software renders a knitting
-pattern. The designer is free to publish the pattern for others to use, either
-freely or commercially.
+Future work for HiDef Knits is support for designing socks, hats, skirts, pants, 
+shawls, and other accessories.	
+A natural extension would be to add support for other types of textiles, 
+especially crochet (that is not currently addressed in the market).
+Moreover, it should be relatively straight forward to translate
+the software for woven textiles, where the shaping would be done via burst
+seams or gathers. 
+Note, that since the project is developed as FOSS, outside parties would be
+able to build upon the HiDef Knit framework, not necessarily for textiles 
+production. For instance, gaming developers could strip down the knitting 
+intricacies away from the program and just use the 3D modelling of garments 
+as a standalone program for more varied avatars. 
 
-Note, of over 262 thousand currently uploaded patterns on Ravelry, 22% of them
-are published for free. Among the knitting community, there is a general
-consensus that when designing knitwear patterns there is considerable amount of
-time, energy, skill, expertise and creativity involved that deserves to be
-compensated for. The vast majority of patterns on Raverly are sold for an
-estimated $5.05 per pattern (PDF download and paid via PayPal). Knitwear
-patterns are quite price sensitive and based with prices from 2008 they have
-only increased in terms of inflation.[[5]](#_ftn5)
-
-Most knitwear designers on Ravelry do not make a living by selling their
-patterns. There is considerable effort that goes into designing and publishing a
-pattern, with on average 34.5 hours spent on each pattern in the production
-stage for an experienced knitwear designer not to mention initial cost for
-approximately £130 for yarn, tech editing, test knitting.[[6]](#_ftn6) By using HiDef
-Knits, it would be possible to reduce the manual labor needed in terms of tech
-editing (valued at £30) and human errors that are common due to miscalculation
-could be avoided, making the patterns virtually error-free. Because, if errors
-are found the designers are confronted with increased post-production cost in
-terms of working out the error, possibly even having to send the pattern back to
-the tech editor for review, which can often take more time than the initial
-production. That is why good pattern creation for the beginning is of paramount
-importance, and doesn’t cause unnecessary confusion for the knitters using the
-pattern.
-
-Moreover, by modelling the garment in HiDef Knits patterns can be easily
-modified to be tailored to a greater variety of yarn weight than the one that is
-suggested that results in a different gauge swatch that requires stitch
-recalculation.
-
+Direct usage of HiDef Knits software would renders a knitting pattern based
+on the users design. 
+The designer is free to publish the pattern for others to use, either free of charge 
+or commercially. HiDef Knits will not put impose any non-commercial license, 
+however, most likely there will be an attribution clause to help with marketing 
+of the HiDef Knits solution, similar to Creative Commons license
+[Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
+(CC BY 4.0).
 
 **The designer can either publish the pattern for others to use or knit
 themselves.**
@@ -400,9 +423,10 @@ A principal of the designers of HiDef Knits create free and open source software
 in any way. It also means that the source code is openly available so others can
 contribute to and audit it.
 
-Given the nature of how many of past knitwear software solutions is currently
-obsolete in terms of hardware and software requirements and rarely updated, we
-believe that creating a solution that is FOSS will benefit future users.
+Given the nature of how many of past knitwear software solutions have either 
+discontinued development or are rarely updated, and are therefore become 
+obsolete in terms of hardware and software requirements.
+We believe that creating a solution that is FOSS will benefit future users.
 Therefore even if we decide to not support the solution any longer by cutting
 updates or no longer releasing patches, the knowledge gained by the project will
 not be lost and could be picked up by other knit-programmers-enthusiasts in future.
@@ -484,7 +508,39 @@ text
 -   *Please describe the costs and funding. How will react if the projected
     funding for the project does not?*
 
-text
+HiDef Knits is a passion project, so if funding falls through, development will 
+be done in the developers spare time, when possible. 
+Generally, an open-source project stands or falls with the involvement of the 
+core developers and the participation of the community that surrounds it usage. 
+Therefore, full-time developement is preferred in the intiital stages in order 
+for the project to gain momentum and to be a the point of accepting contribution 
+from outside developers.
+
+Most knitting software out there are chart illustrators, some even recognizing 
+pattern repeats that preferred when publishing written directions. 
+Prjónamunstur offers additional grading, but only for lopapeysa styled garment
+(i.e. pullover with circular yoke). Garment Designer has more variety of tailoring, 
+but the learning curve is steep and software developement is no longer active. 
+Morover, Garment Designer's knitting module is very rudimentary as developement
+efforts were for pattern design for sewing. 
+
+Therefore, without or insufficent funding, the direction of HiDef Knits would be 
+to directed on only creating support in creating grading software for for simple
+stockinette stitch and basic ribbing (leaving cable knit and lace stitch support
+to other programs). 
+Constructional elements build upon simple tapered pullover, and releases between 
+modules (sleeves, collars, neckline etc.), would come be postponed.
+The 3D modelling of the garment would be nice to have, as it would help the 
+designer visualize the final product before starting the time-consuming process
+of actually knitting the garment, but not necessary for the sake of pattern 
+creation. An 2D rendering of the individual knit pieces would suffice. 
+
+Perhaps if there could be some cooperation between the already established 
+knit chart visualisers, which could import the HiDef Knits pattern pieces 
+as a template for further stitch design. Although, it would be preferred
+the stitch design would be done in the same software environment as the 
+garment construction as there might be some alterations needed to incorporate
+prettier pattern repeats of stitches. 
 
 
 4 Value
@@ -538,10 +594,42 @@ The emphasis of HiDef Knits is being an intuitive easy-to-use design tool, that
 even the not so computer savvy grandmother would be able to use or even be
 useful for those limited or no experience in knitting to design a garment that
 they could outsource the knitting to.
-
-The use of HiDef Knits is to enable hobby knitters to publish their designs for
+HiDef Knits aim is to enable hobby knitters to self-publish their designs for
 others to make. Where the output of HiDef Knits could be a valuable income
 source for those users who to choose to sell their pattern to others.
+
+Note, of over 262 thousand currently uploaded patterns on Ravelry, 22% of them
+are published for free. Among the knitting community, there is a general
+consensus that when designing knitwear patterns there is considerable amount of
+time, energy, skill, expertise and creativity involved that deserves to be
+compensated for. The vast majority of patterns on Raverly are sold for an
+estimated $5.05 per pattern (PDF download and paid via PayPal). Knitwear
+patterns are quite price sensitive and based with prices from 2008 they have
+only increased in terms of inflation.[[5]](#_ftn5)
+
+Most knitwear designers on Ravelry do not make a living by selling their
+patterns, and Iceland is no different in that regard. 
+There is considerable effort that goes into designing and publishing a
+pattern, with on average 34.5 hours spent on each pattern in the production
+stage for an experienced knitwear designer not to mention initial cost for
+approximately £130 for yarn, tech editing, test knitting.[[6]](#_ftn6) 
+By using HiDef Knits, it would be possible to reduce the manual labor needed in terms 
+of tech-editing (valued at £30) and human errors that are common due to miscalculation
+could be avoided, making the patterns virtually error-free. Because, if errors
+are found the designers are confronted with increased post-production cost in
+terms of working out the error, possibly even having to send the pattern back to
+the tech editor for review, which can often take more time than the initial
+production. That is why good pattern creation for the beginning is of paramount
+importance, and doesn’t cause unnecessary confusion for the knitters using the pattern. 
+
+Of 200 Icelandic knitters polled about garment design and software usage, 
+82% considered themselves designers, but only 10% had published their patterns.
+Most did grading of their patterns for various sizes, but a third only did one 
+size. The reasoning why most of the designers did not share their work was mostly 
+due to the effort of self-publishing patterns as the design process was not
+structured and done ad-hoc, and sometimes free-form knitting process. 
+By using the HiDef Knits software, it would be possible to close the gap 
+of aspring designers to published designers. 
 
 
 5 References
@@ -552,9 +640,6 @@ neuropsychiatry and clinical neurosciences* 23.2 (2011): 149-154.
 
 [[2]](#_ftn2) Frogging is when knit work is undone – it is called frogging
 because frogs say “rip it, rip it.”
-
-[[3]](#_ftn3) Future work for HiDef Knits is support for designing socks,
-hats, skirts, pants and other accessories.
 
 [[4]](#_ftn4) Fair-isle knitting is when multiple colors are knitted
 simultaneously over a single row.
