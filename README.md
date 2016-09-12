@@ -1,14 +1,6 @@
-Application for Technology Development
-======================================
-
-Autumn 2016
------------
-
-Project Description
-===================
-
-Sproti
-------
+# Application for Technology Development Fund
+# Sproti Project Description
+## Autumn 2016
 
 ### Company name: HiDef Textiles
 
