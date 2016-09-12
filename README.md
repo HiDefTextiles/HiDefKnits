@@ -34,9 +34,9 @@ Summary
 TODO
 
 HiDef Knits is an intuitive easy-to-use design tool for handmade knitwear, that
-even the not so computer savvy grandmother would be able to use or even be
-useful for those limited or no experience in knitting to design a garment that
-they could outsource the knitting to.
+even the not so computer savvy grandmother would be able to use. The user could
+also have limited or no experience in knitting and use HiDef Knits to design a 
+garment that they could outsource the knitting to.
 
 The objective of HiDef Knits is create a tool that enables hobby knitters to 
 publish their designs for others to make. 
@@ -47,21 +47,22 @@ Knitted related apps currently on the market aren't sophisticated enough to
 generate even the simplest garment. They're mostly useful for keeping track 
 of where you are in a written pattern. 
 There are a few desktop software solutions available that create illustrative 
-pattern schematics, but they have with a steep learning curveboth, and are 
+pattern schematics, but they have with a steep learning curve, and are 
 generally too expensive for self-publishing designers or hobby knitters. 
 Moreover, they are designed with sewing designers in mind, so there is 
 minimal support for generating meaningful patterns for handknits. 
-However, there are is an abuntant selection of software for creating knitting
+However, there is an abuntant selection of software for creating knitting
 charts that can be translated to written directions. 
 The HiDef Knits software is to encorporate all of these ideas, for a 
-holistic solution that could help aspring and experienced designers to create
-bespoke knitting patterns. Moreover, HiDef Knits unique feature will be 3D 
-rendering of the designed knitwear garment with draping that matches the 
-proposed yarn. 
-Parts of the solution have already been created as standalone programs, 
-but they are incompatible with one another. 
+holistic solution that could help aspiring or experienced designers to create
+bespoke knitting patterns. 
+Moreover, HiDef Knits unique feature will be 3D rendering of the designed 
+knitwear garment with draping that matches the proposed yarn. 
+
+Even though parts of the solution have already been created as standalone 
+programs, unfortunately, they are incompatible with one another. 
 Furthermore, many of those businesses are currently out of business, 
-or are not in active software development. 
+or are not in active software development to speak of. 
 HiDef Knits will be developed as a free and open-source software (FOSS).
 This means that everyone is free to use, copy, and change the software
 in any way. It also means that the source code is openly available so others can
@@ -80,7 +81,7 @@ contribute to and audit it.
 	
 There has always a strong tradition of knitting for centuries, with earliest
 knitted artifacts dating as far back as 11th century. 
-Knitting is largely feminine  utilitarian art form that unites women across 
+Knitting is largely feminine utilitarian art form that unites women across 
 cultures and continents. 
 Many countries have a rich heritage of knitting. Iceland is known worldwide for 
 both our unique wool,
@@ -120,30 +121,6 @@ to an error inreading the pattern or an unflattering fit.
 Since one size does not fit all, the objective of HiDef Knits is to simplify 
 the process of designing original and altering knitwear with perfect fit and a 
 professional finish.
-
-After consulting 200 Icelandic knitters, 82% had designed a garment for
-themselves and 10% had published their patterns (remaining 18% did not consider
-themselves a designer). The majority built their work on existing patterns in
-terms of calculating the number of stitches needed. Some created their garments
-on the fly, and as a result of their undocumented approach their designs were
-not repeatable. Generally, the designers jolted calculations with pen and paper,
-but in an erratic way such that they didn’t feel comfortable in publishing their
-work with others. Those who published their work mostly used Excel to manage
-their calculations and grading of sizes.
-
-From personal observations, when knitters share their original designs on social
-media, the comment threads are bombarded with questions about pattern
-availability. For hobbyist knitters, the excitement of starting a new project
-often supersedes detailed preplanning, and there may be last minute alterations
-since what you initially planned might not work out due to forgotten decreases
-or increases that result in a poorly fitted garment. Therefore, since it’s not
-known beforehand if a project will be loved by so many, it’s can be extremely
-hard to retrace your steps to publish a pattern in a coherent way for others to
-follow, let alone using the appropriate terminology and abbreviations. The HiDef
-Knits software objective is to help those aspiring designers (both for personal
-use and pattern distributions) for easier preplanning that result in an overall
-improved knitting experience as there is minimal painstaking assembly process
-due to forgotten structural elements.
 
 A user starts by feeding into the HiDef Knits software all necessary body
 measurements needed (cf. Figure 1) for constructing a garment. The first version
@@ -246,9 +223,37 @@ TODO
 
 ###### Gerið grein fyrir þeirri vinnu sem hefur átt sér stað áður en ákveðið var að hefja verkefnið. Hefur tæknileg eða markaðsleg forkönnun verið gerð? Hefur frelsi til athafna verið kannað með leit í einkaleyfisgagnagrunnum?
 
-###### Give an account of the work that has taken place before the decision to start the project. Have a technical or market pilot study been conducted? have freedom of action have been investigated in search of patent     databases?
+###### Give an account of the work that has taken place before the decision to start the project. Have a technical or market pilot study been conducted? have freedom of action have been investigated in search of patent databases?
 
-TODO
+After consulting 200 Icelandic knitters, 82% had designed a garment for
+themselves and 10% had published their patterns (remaining 18% did not consider
+themselves a designer). The majority built their work on existing patterns in
+terms of calculating the number of stitches needed. Some created their garments
+on the fly, and as a result of their undocumented approach their designs were
+not repeatable. Generally, the designers jolted calculations with pen and paper,
+but in an erratic way such that they didn’t feel comfortable in publishing their
+work with others. Those who published their work mostly used Excel to manage
+their calculations and grading of sizes.
+
+From personal observations, when knitters share their original designs on social
+media, the comment threads are bombarded with questions about pattern
+availability. For hobbyist knitters, the excitement of starting a new project
+often supersedes detailed preplanning, and there may be last minute alterations
+since what you initially planned might not work out due to forgotten decreases
+or increases that result in a poorly fitted garment. Therefore, since it’s not
+known beforehand if a project will be loved by so many, it’s can be extremely
+hard to retrace your steps to publish a pattern in a coherent way for others to
+follow, let alone using the appropriate terminology and abbreviations. The HiDef
+Knits software objective is to help those aspiring designers (both for personal
+use and pattern distributions) for easier preplanning that result in an overall
+improved knitting experience as there is minimal painstaking assembly process
+due to forgotten structural elements.
+
+According to the Foundation for a Free Information Infrastructure, 
+software patents should not exist under European law.[[3]](#_ftn3)
+Moreover, all of HiDef Knits features are based on known processes, 
+and will be developed as a free and open-source software, 
+therefore there is no grounds for a patent.
 
 
 2 Novelty
@@ -694,6 +699,11 @@ neuropsychiatry and clinical neurosciences* 23.2 (2011): 149-154.
 
 [[2]](#_ftn2) Frogging is when knit work is undone – it is called frogging
 because frogs say “rip it, rip it.”
+
+[[3]](#_ftn3) Foundation for a Free Information Infrastructure. 
+"Patentability and Democracy in Europe". 
+[http://swpat.ffii.org/index.en.html](http://swpat.ffii.org/index.en.html).
+Retrived: 2016-09-12.
 
 [[4]](#_ftn4) Fair-isle knitting is when multiple colors are knitted
 simultaneously over a single row.
