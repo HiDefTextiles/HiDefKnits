@@ -13,7 +13,7 @@ Instructions
 
 Please following items in the preparation of project descriptions. The applicant
 must answer all the items below, otherwise the application dismissed. That reads
-"Text" you can write text, insert images or tabletting. The application can not
+"TODO" you can write text, insert images or tabletting. The application can not
 be longer than 20 pages, excluding the cover, summary, table of contents and
 bibliography. It is forbidden to change the width margin nor have the font size
 smaller than 11-point Calibri (Body) or equivalent. If application is made for
@@ -31,21 +31,22 @@ Summary
 
 - *Summary of a maximum 1 page.*
 
+TODO
 
-HiDef Knits is an intuitive easy-to-use design tool for knitwear, that
+HiDef Knits is an intuitive easy-to-use design tool for handmade knitwear, that
 even the not so computer savvy grandmother would be able to use or even be
 useful for those limited or no experience in knitting to design a garment that
 they could outsource the knitting to.
 
-The use of HiDef Knits is to enable hobby knitters to publish their designs for
-others to make. Where the output of HiDef Knits could be a valuable income
-source for those users who to choose to sell their pattern to others.
+The objective of HiDef Knits is create a tool that enables hobby knitters to publish their designs for
+others to make. Thereby, the output of HiDef Knits could be a valuable income
+source for those users who to choose to sell their patterns to others.
 
-Knitted related apps that are on the market aren't sophisticated enough to 
+Knitted related apps currently on the market aren't sophisticated enough to 
 generate even the simplest garment. They're mostly useful for keeping track 
 of where you are in a written pattern. 
 There are a few desktop software solutions available that create illustrative 
-pattern schematics but they have with a steep learning curveboth, and are 
+pattern schematics, but they have with a steep learning curveboth, and are 
 generally too expensive for self-publishing designers or hobby knitters. 
 Moreover, they are designed with sewing designers in mind, so there is 
 minimal support for generating meaningful patterns for handknits. 
@@ -57,7 +58,7 @@ bespoke knitting patterns. Moreover, HiDef Knits unique feature will be 3D
 rendering of the designed knitwear garment with draping that matches the 
 proposed yarn. 
 Parts of the solution have already been created as standalone programs, 
-that are incompatible with one another. 
+but they are incompatible with one another. 
 Furthermore, many of those businesses are currently out of business, 
 or are not in active software development. 
 HiDef Knits will be developed as a free and open-source software (FOSS).
@@ -75,27 +76,29 @@ contribute to and audit it.
 -   *Describe the project and its objectives. What are the estimated results /
     products project nature are the products (such as tools, equipment,
     software, service).*
-
+	
 There has always a strong tradition of knitting for centuries, with earliest
-knitted artifacts dating as far back as 11th century. Many countries have a rich
-heritage of knitting, and Iceland is known worldwide for both our unique wool,
-such as lopi, and the traditional Icelandic *Lopapeysa,* which is a unique
+knitted artifacts dating as far back as 11th century. 
+Knitting is largely feminine  utilitarian art form that unites women across cultures and continents. 
+Many countries have a rich heritage of knitting. Iceland is known worldwide for both our unique wool,
+such as lopi, and the traditional Icelandic *lopapeysa,* which is a unique
 variation of fair-isle knitting of a blouson with a circular yoke. The renowned
 lopapeysa, is relatively new, as it first documentation is from the 60s. But as
 years go by, the design of the traditional woolen sweater has changed in line
 with fashion trends. There are an endless variations of patterns in terms of
-silhouettes and texture. For instance, in the case of the *lopapeysa,* they are
-new often buttoned-up, opened up with a zipper, hooded, with inset pockets, and
+silhouettes and texture. For instance, in the case of the lopapeysa, they are
+now often buttoned-up, opened up with a zipper, hooded, with inset pockets, and
 the list goes on. But all of them share the same underlying baseline structure.
 
 Knitting can be very rewarding, as it’s generally a labor of love. Studies have
 shown that knitting has many health benefits[[1]](#_ftn1) as its practice can be a form
-of meditation. Knitting used to be considered passé and only for grandmothers,
-but in recent years there has been a massive resurgence. Partly due to celebrity
-fans like Kate Moss and Amanda Seyfried taking up knitting, but a larger impact
-to the knitting revival is thanks to the internet age. Online tutorials help
-wannabe knitters to become self-learned novices and later experts. There is also
-a large international community on the social networking site
+of meditation. Knitting used to be considered passé and only in the domain of grandmothers,
+but in recent years there has been a massive resurgence. 
+Knitting (and crocheting) have turned into hipster pastimes for men and women of varying ages.
+The revival is partly due to celebrity fans like Kate Moss and Amanda Seyfried taking up knitting, 
+but a larger impact to the knitting revival is thanks to the internet age. 
+Online tutorials help wannabe knitters to become self-learned novices and later experts. 
+There is also a large international community on the social networking site
 [Ravelry](http://www.raverly.com) that has over 6.21 million registered users.
 Ravelry connects knitting and crochets enthusiasts and professionals. It is both
 a social platform where users can share and discuss their knitwork, but also a
@@ -227,7 +230,7 @@ there are no joins needed to connect the front and back pieces together.
     and abroad in the areas for the project and how the project can add existing
     knowledge in the relevant field.*
 
-text
+TODO
 
 
 1.3. Project status
@@ -238,7 +241,7 @@ text
     have freedom of action have been investigated in search of patent
     databases?*
 
-text
+TODO
 
 
 2 Novelty
@@ -308,7 +311,7 @@ designing an Icelandic lopapeysa with your own fair-isle pattern.
 There is even a 3D rendering of the pattern, and with a downloadable
 PDF instruction of your design available in several lanuages. 
 Although this is similar to what HiDef Knits will provide. 
-Prjónamynstur’s drawback is that it only produces fair-isle pullovers that 
+Prjónamynstur’s drawback is that it only produces fair-isle blousons that 
 have a circular yoke and only based on 3 body measurements
 (shoulder circumference, sleeve length, and length from armhole to lower edge).
 However, HiDef Knits will be designed with more flexibility, and choice of
@@ -358,6 +361,16 @@ Since these programs are not designed to be compatible with one another,
 this requires a lot of manual conversions that consequently hinders the flow 
 of the design process.
 
+To summarise, most knitting software out there are chart illustrators, where some 
+can even recognize pattern repeats that preferred when publishing written directions. 
+Prjónamunstur offers additional grading, but only for lopapeysa styled garment. 
+Garment Designer has more variety in terms of tailoring, but the learning curve is steep 
+and software developement is no longer active. 
+Same applies for professional CAD fashion software, but they are priced too highly
+for the target audience of HiDef Knits. 
+Morover, Garment Designer's knitting module is very rudimentary as developement
+efforts were for pattern design for sewing. 
+
 
 2.2. Challenges
 ---------------
@@ -365,10 +378,30 @@ of the design process.
 -   *Describe technical and design challenges bearings, which involve the
     development product.*
 
-1.  Realizing 3D draping of a knitted garment on the 3D model, allowing the user
-    to preview the garment without having to create an actual sample and having
-    a model wear it.
+TODO
+	
+1.	Creating a software architecture that is scaleble to be flexible enough
+	to create custom stithces, and how to effectively mix and match stitches
+	such that the pattern repeats harmonize. 
 
+2.  Given the number of knitting visualising software out there, and most 
+	forum posts on Ravelry discussing the pros and cons of those programs, 
+	the main complaint is poor user experience. The design isn't intutive 
+	enough and the learning curve is too steep. As a result, many aspiring
+	designers are deterred of making the effort of streamlining the design process 
+	and continue to use graph paper and manual calculations of stitches. 
+	
+3.  Realizing 3D draping of a knitted garment on a 3D model, allowing the user
+    to preview the garment without having to create an actual sample and having
+    a model wear it. The draping will be based on shape and type of yarn chosen
+	as yarn weight can have unexpected effect of the draping which is hard for
+	designers to anticipate. 
+
+4.  Software sustainability, the target audience is not computer savvy 
+	and the usage needs to be simple to implement. 
+	Therefore hardware requirements or third party support 
+	needs to be minimal or easy to install.
+		
 
 2.3. Derived opportunity (Spin-off)
 -----------------------------------
@@ -397,6 +430,8 @@ however, most likely there will be an attribution clause to help with marketing
 of the HiDef Knits solution, similar to Creative Commons license
 [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
 (CC BY 4.0).
+
+TODO
 
 **The designer can either publish the pattern for others to use or knit
 themselves.**
@@ -462,7 +497,7 @@ is familiar with the design process for knitwear through ICESHEEP. Helga has
 also been known from designing and visualizing her own fair-isle patterns
 through MATLAB programming.
 
-**Ólafur Þór Magnússon**, text on 3D modelling
+**Ólafur Þór Magnússon**, TODO on 3D modelling
 
 **Brennan Novak**, an American national based in Berlin, he has extensive
 knowledge on UI/UX design and a great advocate for open-source software.
@@ -491,7 +526,11 @@ handknits.
     value for the project. Please describe the role of all partners project.
     Describe cooperation both with domestic and foreign partners.*
 
-text
+TODO	
+	
+1.	Check with University of Iceland for cooperation
+
+2.	Brennan’s network within the international FOSS community. 
 
 
 3.3. Budget
@@ -500,28 +539,31 @@ text
 -   *Please describe the costs and funding. How will react if the projected
     funding for the project does not?*
 
+The majority of the funding is needed for salaries in order for the developers to 
+dedicate their time and effort for developement of HiDef Knits and getting the
+software off the ground. 
+There will be three employees, each specialising in a specific part of the software solution: 
+Helga will develop the back-end and knitting, 
+Ólafur will create the 3D modelling, and  
+Brennan supervises the user-friendly interface and has invaluble experince with marketing FOSS software. 
+Other operational costs are for co-working space, 
+yarn to produce realistic textures and stitches, 
+website costs (hosting, domain registration, etc.).
+	
 HiDef Knits is a passion project, so if funding falls through, development will 
 be done in the developers spare time, when possible. 
 Generally, an open-source project stands or falls with the involvement of the 
 core developers and the participation of the community that surrounds it usage. 
 Therefore, full-time developement is preferred in the intiital stages in order 
 for the project to gain momentum and to be a the point of accepting contribution 
-from outside developers.
+from outside volunteering developers.
 
-Most knitting software out there are chart illustrators, some even recognizing 
-pattern repeats that preferred when publishing written directions. 
-Prjónamunstur offers additional grading, but only for lopapeysa styled garment
-(i.e. pullover with circular yoke). Garment Designer has more variety of tailoring, 
-but the learning curve is steep and software developement is no longer active. 
-Morover, Garment Designer's knitting module is very rudimentary as developement
-efforts were for pattern design for sewing. 
-
-Therefore, without or insufficent funding, the direction of HiDef Knits would be 
-to directed on only creating support in creating grading software for for simple
-stockinette stitch and basic ribbing (leaving cable knit and lace stitch support
-to other programs). 
-Constructional elements build upon simple tapered pullover, and releases between 
-modules (sleeves, collars, neckline etc.), would come be postponed.
+Therefore, without sufficent funding, the direction of HiDef Knits would be 
+to strip down the proposed functionalities, and focus on only creating support 
+in creating grading software for for simple stockinette stitch and basic ribbing 
+(leaving cable knit and lace stitch support to other programs). 
+Constructional elements build upon a tapered pullover, and releases between 
+modules (sleeves, collars, neckline etc.), would be postponed.
 The 3D modelling of the garment would be nice to have, as it would help the 
 designer visualize the final product before starting the time-consuming process
 of actually knitting the garment, but not necessary for the sake of pattern 
@@ -570,6 +612,8 @@ photography, etc.
     context and capacity of the applicants to bring the product to market. What
     is the main commercially uncertainty in the project?*
 
+TODO	
+	
 1.  Ravelry
 
 2.  International knitting conferences / workshops
