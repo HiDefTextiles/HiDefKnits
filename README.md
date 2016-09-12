@@ -38,9 +38,10 @@ even the not so computer savvy grandmother would be able to use or even be
 useful for those limited or no experience in knitting to design a garment that
 they could outsource the knitting to.
 
-The objective of HiDef Knits is create a tool that enables hobby knitters to publish their designs for
-others to make. Thereby, the output of HiDef Knits could be a valuable income
-source for those users who to choose to sell their patterns to others.
+The objective of HiDef Knits is create a tool that enables hobby knitters to 
+publish their designs for others to make. 
+Thereby, the output of HiDef Knits could be a valuable income source for those 
+users who to choose to sell their patterns to others.
 
 Knitted related apps currently on the market aren't sophisticated enough to 
 generate even the simplest garment. They're mostly useful for keeping track 
@@ -73,14 +74,20 @@ contribute to and audit it.
 1.1. Objectives
 ---------------
 
+-	*Lýsið verkefninu og markmiðum þess. Hverjar eru áætlaðar
+	niðurstöður/afurðir verkefnisins, hvers eðlis eru afurðirnar (t.d. tæki, 
+	búnaður, hugbúnaður, þjónusta).*
+
 -   *Describe the project and its objectives. What are the estimated results /
     products project nature are the products (such as tools, equipment,
     software, service).*
 	
 There has always a strong tradition of knitting for centuries, with earliest
 knitted artifacts dating as far back as 11th century. 
-Knitting is largely feminine  utilitarian art form that unites women across cultures and continents. 
-Many countries have a rich heritage of knitting. Iceland is known worldwide for both our unique wool,
+Knitting is largely feminine  utilitarian art form that unites women across 
+cultures and continents. 
+Many countries have a rich heritage of knitting. Iceland is known worldwide for 
+both our unique wool,
 such as lopi, and the traditional Icelandic *lopapeysa,* which is a unique
 variation of fair-isle knitting of a blouson with a circular yoke. The renowned
 lopapeysa, is relatively new, as it first documentation is from the 60s. But as
@@ -91,13 +98,17 @@ now often buttoned-up, opened up with a zipper, hooded, with inset pockets, and
 the list goes on. But all of them share the same underlying baseline structure.
 
 Knitting can be very rewarding, as it’s generally a labor of love. Studies have
-shown that knitting has many health benefits[[1]](#_ftn1) as its practice can be a form
-of meditation. Knitting used to be considered passé and only in the domain of grandmothers,
-but in recent years there has been a massive resurgence. 
-Knitting (and crocheting) have turned into hipster pastimes for men and women of varying ages.
-The revival is partly due to celebrity fans like Kate Moss and Amanda Seyfried taking up knitting, 
+shown that knitting has many health benefits[[1]](#_ftn1) as its practice can 
+be a form of meditation. 
+Knitting used to be considered passé and only in the domain of 
+grandmothers, but in recent years there has been a massive resurgence. 
+Knitting (and crocheting) have turned into hipster pastimes for men and women 
+of varying ages.
+The revival is partly due to celebrity fans like Kate Moss and Amanda Seyfried 
+taking up knitting, 
 but a larger impact to the knitting revival is thanks to the internet age. 
-Online tutorials help wannabe knitters to become self-learned novices and later experts. 
+Online tutorials help wannabe knitters to become self-learned novices and later 
+experts. 
 There is also a large international community on the social networking site
 [Ravelry](http://www.raverly.com) that has over 6.21 million registered users.
 Ravelry connects knitting and crochets enthusiasts and professionals. It is both
@@ -107,11 +118,12 @@ site. There are also a very lively groups on facebook, such as *Handóðir
 prjónarar* with over 17 thousand (mostly) Icelandic members.
 
 Knitters take great pride in their work and most practitioners know of all the
-untold hours of knitting disasters and unwanted frogging[[2]](#_ftn2), where a knitter
-unravels hours upon hours of meticulous work. This may be due to an error in
-reading the pattern or an unflattering fit. Since one size does not fit all, the
-objective of this project *HiDef Knits* is to simplify the process of designing
-original and altering knitwear with perfect fit and a professional finish.
+untold hours of knitting disasters and unwanted frogging[[2]](#_ftn2), 
+where a knitter unravels hours upon hours of meticulous work. This may be due 
+to an error inreading the pattern or an unflattering fit. 
+Since one size does not fit all, the objective of HiDef Knits is to simplify 
+the process of designing original and altering knitwear with perfect fit and a 
+professional finish.
 
 After consulting 200 Icelandic knitters, 82% had designed a garment for
 themselves and 10% had published their patterns (remaining 18% did not consider
@@ -226,6 +238,10 @@ there are no joins needed to connect the front and back pieces together.
 1.2. State of the art
 ---------------------
 
+- 	*Gerið grein fyrir stöðu þekkingar (e. state of the art) innanlands og 
+	erlendis á þeim sviðum sem verkefnið nær til og hvernig verkefnið getur 
+	bætt við núverandi þekkingu á viðkomandi sviði.*
+
 -   *Please describe the state of knowledge (e. State of the art) domestically
     and abroad in the areas for the project and how the project can add existing
     knowledge in the relevant field.*
@@ -235,6 +251,10 @@ TODO
 
 1.3. Project status
 -------------------
+
+-	*Gerið grein fyrir þeirri vinnu sem hefur átt sér stað áður en ákveðið var 
+	að hefja verkefnið. Hefur tæknileg eða markaðsleg forkönnun verið gerð? 
+	Hefur frelsi til athafna verið kannað með leit í einkaleyfisgagnagrunnum?*
 
 -   *Give an account of the work that has taken place before the decision to
     start the project. Have a technical or market pilot study been conducted?
@@ -249,6 +269,11 @@ TODO
 
 2.1. Market situation
 ---------------------
+
+-	*Gerið grein fyrir væntanlegum markaðsgeira og stöðu markaðar. Gerið grein 
+	fyrir þörf á markaði (innanlands og/eða erlendis) og á hvaða hátt afurðin 
+	svarar henni. Lýsið samkeppnisaðilum og á hvaða hátt afurðin er frábrugðin 
+	afurðum annarra samkeppnisaðila.*
 
 -   *Please describe the potential market segment and market position. Please
     describe the the need of the market (domestic and / or foreign) and the
@@ -271,14 +296,16 @@ output of the software is user-defined charts, and can be based on 40 common
 stitches and 75 different cable stitches. 
 A drawback that is frequently discussed in Ravelry forums is the written pattern 
 generated would always need editing to group repeats, etc. Nevertheless, a nice
-program to get illustrated charts for knitting. 
-Similar to Knit Visualizer is [Knitting Chart Editor](http://www.stitchmastery.com/), 
+program to get illustrated charts for knitting. Similar to Knit Visualizer is 
+[Knitting Chart Editor](http://www.stitchmastery.com/), 
 a by StitchMastery. Priced at £60, the full version includes hundreds of 
 predefined stitches including 150+ cables, Estonian stitches, brioche, 
-beading and twined stitches. They offer a stitch font library (bought seperately).
+beading and twined stitches. 
+They offer a stitch font library (bought seperately).
 Not only does StitchMastery include more types of predefined stithes, moreover, 
-the drawbacks from Knit Visualizer are confronted by Stitchmastery, as the 
-software has the ability to detect repeated stitches and automatically annotate them.
+the drawbacks from Knit Visualizer are confronted by Stitchmastery, 
+as the software has the ability to detect repeated stitches and automatically
+annotate them.
 Last version, was released 2014, with no new software development announced.
 Reviews on Ravelry and experiend knitters blogs[[7]](#_ftn7) warn prespective 
 users that there is a steep learning curve to use the program, 
@@ -286,8 +313,8 @@ and a manual that is often not sufficient. However, pattern instructions
 with for repeats are easily created and charts are nicely formatted. 	
 Another competitor is [EnvisioKnit](http://www.envisioknit.com/) by 
 Jane of EnvisioKnit Design Studio, priced at $99. 
-Unlike StitchMastery, the manual is easy to navigate and learn the basic commands 
-with many commands are intuitive.[[8]](#_ftn8) 
+Unlike StitchMastery, the manual is easy to navigate and learn the basic 
+commands with many commands are intuitive.[[8]](#_ftn8) 
 Otherwise, very similar capabilities to that of StitchMastery.
 Yet another chart visualizing software is [KnitBird](http://knitbird.com/), 
 priced at €59. However, they offer purely a chart without any automated 
@@ -361,13 +388,14 @@ Since these programs are not designed to be compatible with one another,
 this requires a lot of manual conversions that consequently hinders the flow 
 of the design process.
 
-To summarise, most knitting software out there are chart illustrators, where some 
-can even recognize pattern repeats that preferred when publishing written directions. 
+To summarise, most knitting software out there are chart illustrators, where
+some can even recognize pattern repeats that preferred when publishing written
+directions. 
 Prjónamunstur offers additional grading, but only for lopapeysa styled garment. 
-Garment Designer has more variety in terms of tailoring, but the learning curve is steep 
-and software developement is no longer active. 
-Same applies for professional CAD fashion software, but they are priced too highly
-for the target audience of HiDef Knits. 
+Garment Designer has more variety in terms of tailoring, but the learning curve 
+is steep and software developement is no longer active. 
+Same applies for professional CAD fashion software, but they are priced too 
+highly for the target audience of HiDef Knits. 
 Morover, Garment Designer's knitting module is very rudimentary as developement
 efforts were for pattern design for sewing. 
 
@@ -375,9 +403,12 @@ efforts were for pattern design for sewing.
 2.2. Challenges
 ---------------
 
+-	*Lýsið tæknilegum og hönnunarlegum áskorunum sem eru fólgnar í þróun 
+	afurðarinnar.*
+
 -   *Describe technical and design challenges bearings, which involve the
     development product.*
-
+	
 TODO
 	
 1.	Creating a software architecture that is scaleble to be flexible enough
@@ -388,8 +419,8 @@ TODO
 	forum posts on Ravelry discussing the pros and cons of those programs, 
 	the main complaint is poor user experience. The design isn't intutive 
 	enough and the learning curve is too steep. As a result, many aspiring
-	designers are deterred of making the effort of streamlining the design process 
-	and continue to use graph paper and manual calculations of stitches. 
+	designers are deterred of making the effort of streamlining the design 
+	process and continue to use graph paper and manual calculations of stitches. 
 	
 3.  Realizing 3D draping of a knitted garment on a 3D model, allowing the user
     to preview the garment without having to create an actual sample and having
@@ -405,6 +436,9 @@ TODO
 
 2.3. Derived opportunity (Spin-off)
 -----------------------------------
+
+-	*Lýsið mögulegum afleiddum tækifærum sem geta orðið til, t.d. vegna nýrrar 
+	þekkingar í verkefninu og/eða vegna notkunar afurðarinnar.*
 
 -   *Describe the potential secondary opportunities that can lead to, for
     example, for new knowledge of the project and / or the use of the product.*
@@ -424,9 +458,10 @@ as a standalone program for more varied avatars.
 
 Direct usage of HiDef Knits software would renders a knitting pattern based
 on the users design. 
-The designer is free to publish the pattern for others to use, either free of charge 
-or commercially. HiDef Knits will not put impose any non-commercial license, 
-however, most likely there will be an attribution clause to help with marketing 
+The designer is free to publish the pattern for others to use, either free of 
+charge or commercially. 
+HiDef Knits will not put impose any non-commercial license, however, most 
+likely there will be an attribution clause to help with marketing 
 of the HiDef Knits solution, similar to Creative Commons license
 [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
 (CC BY 4.0).
@@ -442,6 +477,10 @@ themselves.**
 2.4. Intellectual property policy
 ---------------------------------
 
+-	*Lýsið áætlun fyrirtækisins um hvernig farið verður með mögulegar 
+	óefnislegar eignir (einkaleyfi, vörumerkjavernd, hönnunarvernd) sem fást úr 
+	verkefninu.*
+
 -   *Describe your business plan on how to be a possible intangible property
     (patent, trademark protection, design) obtained from the project.*
 
@@ -456,7 +495,8 @@ obsolete in terms of hardware and software requirements.
 We believe that creating a solution that is FOSS will benefit future users.
 Therefore even if we decide to not support the solution any longer by cutting
 updates or no longer releasing patches, the knowledge gained by the project will
-not be lost and could be picked up by other knit-programmers-enthusiasts in future.
+not be lost and could be picked up by other knit-programmers-enthusiasts in 
+future.
 
 Moreover, open source software is typically much less resource-intensive than
 their proprietary counterpart, meaning that you can run it well even on older
@@ -476,6 +516,10 @@ The software will be developed open to the public from GitHub at
 
 3.1. Management
 ---------------
+
+-	*Gerið grein fyrir því hvernig verkefninu er stýrt, hverjir stýra því og 
+	ábyrgð hvers þátttakanda. Tilgreinið verkefnisstjóra, hverjir sitja í 
+	stjórn verkefnisins og verkaskiptingu hennar.*
 
 -   *Give an account of how the project is managed, who control and
     responsibility each participant. Specify the project manager, who is in
@@ -522,6 +566,11 @@ handknits.
 3.2. Cooperation
 ----------------
 
+-	*Ef um er að ræða samstarfsverkefni, gerið grein fyrir eðli samstarfsins og 
+	gildi þess fyrir verkefnið. Gerið grein fyrir hlutverki allra 
+	samstarfsaðila í verkefninu. Lýsið samstarfi bæði við innlenda og erlenda 
+	samstarfsaðila.*
+
 -   *If the case of a cooperative, describe the nature of the partnership and
     value for the project. Please describe the role of all partners project.
     Describe cooperation both with domestic and foreign partners.*
@@ -536,16 +585,21 @@ TODO
 3.3. Budget
 -----------
 
+-	*Gerið grein fyrir kostnaði og fjármögnun verkefnisins. Hvernig verður 
+	brugðist við ef áætluð fjármögnun til verkefnisins stenst ekki?*
+
 -   *Please describe the costs and funding. How will react if the projected
     funding for the project does not?*
 
-The majority of the funding is needed for salaries in order for the developers to 
-dedicate their time and effort for developement of HiDef Knits and getting the
+The majority of the funding is needed for salaries in order for the developers 
+to dedicate their time and effort for developement of HiDef Knits and getting the
 software off the ground. 
-There will be three employees, each specialising in a specific part of the software solution: 
+There will be three employees, each specialising in a specific part of the 
+software solution: 
 Helga will develop the back-end and knitting, 
 Ólafur will create the 3D modelling, and  
-Brennan supervises the user-friendly interface and has invaluble experince with marketing FOSS software. 
+Brennan supervises the user-friendly interface and has invaluble experince with 
+marketing FOSS software. 
 Other operational costs are for co-working space, 
 yarn to produce realistic textures and stitches, 
 website costs (hosting, domain registration, etc.).
@@ -583,6 +637,10 @@ prettier pattern repeats of stitches.
 4.1. Business objectives
 ------------------------
 
+-	*Lýsið viðskiptalegum markmiðum. Gerið grein fyrir veltu sem afurðin getur 
+	skapað umsækjendum á markaði fyrstu 5-10 árin eftir að afurð kemur fyrst á 
+	markað. Hvaða markaðshlutdeild er stefnt að.*
+
 -   *Describe your business objectives. Please describe the turnover of the
     product may applicants made the market the first 5-10 years after the
     product comes first market. What market share is planned.*
@@ -607,6 +665,11 @@ photography, etc.
 4.2. Way to market
 ------------------
 
+-	*4.2. Gerið grein fyrir hvernig á að koma afurð á markað (þ.á.m. 
+	aðferðafræði, áætlaðri markaðshlutdeild, fjármögnun og framleiðslugetu). 
+	Lýsið markaðstengslum og bolmagni umsækjenda til að koma afurðinni á 
+	markað. Hver er helsta markaðslega óvissan í verkefninu?*
+
 -   *Give an account of how to bring a product to market (including methodology,
     estimated market share, financing and production). Describe the market
     context and capacity of the applicants to bring the product to market. What
@@ -621,6 +684,10 @@ TODO
 
 4.3. General value
 ------------------
+
+-	*Lýsið á hvaða hátt niðurstöður verkefnisins geta aukið verðmætasköpun á 
+	Íslandi umfram tekjur af afurðinni (hagræðing eða auknar tekjur annarra 
+	innlendra aðila vegna notkunar afurðarinnar).*
 
 -   *Describe the manner in which the results of the project can increase value
     creation in Iceland excess income of the product (efficiency or increased
@@ -649,21 +716,23 @@ There is considerable effort that goes into designing and publishing a
 pattern, with on average 34.5 hours spent on each pattern in the production
 stage for an experienced knitwear designer not to mention initial cost for
 approximately £130 for yarn, tech editing, test knitting.[[6]](#_ftn6) 
-By using HiDef Knits, it would be possible to reduce the manual labor needed in terms 
-of tech-editing (valued at £30) and human errors that are common due to miscalculation
+By using HiDef Knits, it would be possible to reduce the manual labor needed in 
+terms of tech-editing (valued at £30) and human errors that are common due to 
+miscalculation
 could be avoided, making the patterns virtually error-free. Because, if errors
 are found the designers are confronted with increased post-production cost in
 terms of working out the error, possibly even having to send the pattern back to
 the tech editor for review, which can often take more time than the initial
 production. That is why good pattern creation for the beginning is of paramount
-importance, and doesn’t cause unnecessary confusion for the knitters using the pattern. 
+importance, and doesn’t cause unnecessary confusion for the knitters using the 
+pattern. 
 
 Of 200 Icelandic knitters polled about garment design and software usage, 
 82% considered themselves designers, but only 10% had published their patterns.
 Most did grading of their patterns for various sizes, but a third only did one 
-size. The reasoning why most of the designers did not share their work was mostly 
-due to the effort of self-publishing patterns as the design process was not
-structured and done ad-hoc, and sometimes free-form knitting process. 
+size. The reasoning why most of the designers did not share their work was 
+mostly due to the effort of self-publishing patterns as the design process was 
+not structured and done ad-hoc, and sometimes free-form knitting process. 
 By using the HiDef Knits software, it would be possible to close the gap 
 of aspring designers to published designers. 
 
