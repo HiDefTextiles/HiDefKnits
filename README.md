@@ -230,7 +230,7 @@ themselves and 10% had published their patterns (remaining 18% did not consider
 themselves a designer). The majority built their work on existing patterns in
 terms of calculating the number of stitches needed. Some created their garments
 on the fly, and as a result of their undocumented approach their designs were
-not repeatable. Generally, the designers jolted calculations with pen and paper,
+not repeatable. Generally, the designers jolted calculations with pen and graph paper,
 but in an erratic way such that they didn’t feel comfortable in publishing their
 work with others. Those who published their work mostly used Excel to manage
 their calculations and grading of sizes.
@@ -266,7 +266,7 @@ therefore there is no grounds for a patent.
 
 ###### Please describe the potential market segment and market position. Please describe the the need of the market (domestic and / or foreign) and the manner in which the product answers it. Describe the competitors and the way the product is different from the products other competitors.
 
-As mentioned before in section XX, of the over 200 Icelandic knitters polled, the
+As mentioned before in section 1.3, of the over 200 Icelandic knitters polled, the
 majority of knitwear designers use pen and graph paper to create their designs. 
 
 There are several software solutions that aid with fair-isle design, 
@@ -525,7 +525,7 @@ His skill sets mainly lies in interface design, user experience design,
 front-end engineering, web development, and branding. For the last sixteen years
 Brennan has worked for web startups, consulted for Fortune 100 companies (e.g.
 Nike), worked at advertising and digital agencies, as well as served individuals
-and small to medium sized businesses, as well co-founded XX.
+and small to medium sized businesses, as well co-founded TODO.
 
 Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
