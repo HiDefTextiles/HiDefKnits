@@ -551,6 +551,20 @@ TODO
 
 2.	Brennan’s network within the international FOSS community. 
 
+Ragnheiður “*Ragga*” Eiríksdóttir has agreed to be a beta-tester for HiDef Knits 
+(cf. [enclosed](RANNIS/coop_Ragga.pdf)) declaration of cooperation). 
+Ragga owns and operates *Knitting Iceland*, that publishes publishes 
+knitting-related material, such as books and tutorial DVDs. 
+Ragga has published several knitting books, such as Prjóniprjón, and 
+offers an extensive collection on Ravelry of self-published patterns.
+Ragga is also a known knitting instructor, she has taught at workshops, 
+online courses on Craftsy, and on Knitting Iceland's knitting tours
+around Iceland.
+Ragga has collaborated with world renowned knitting designers, 
+such as Stephen West of Westknits and Steven Mark Berg of StevenBe.
+Ragga's connections to the knitting scene and knowledge of publishing
+will be invaluble for the marketing and developement of HiDef Knits.
+
 
 3.3. Budget
 -----------
