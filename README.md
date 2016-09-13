@@ -417,6 +417,15 @@ TODO
 	Therefore hardware requirements or third party support 
 	needs to be minimal or easy to install.
 		
+5.  Auto-generated patterns. 
+	Machine Learning on what is considered aesthetically pleasing knitwear.
+	Here the learning algorithm would be based on Ravelry patterns, where
+	the features are pattern difficulty ranking, users' project status statistics,
+	pattern attributes, and imagery to name a few.
+	Using the models there would be auto-generated patterns, where high-scoring 
+	ones would be uploaded to Ravelry as a mean of income source for HiDef Knits
+	continued developement.
+
 
 2.3. Derived opportunity (Spin-off)
 -----------------------------------
@@ -501,7 +510,8 @@ The software will be developed open to the public from GitHub at
 ###### Give an account of how the project is managed, who control and responsibility each participant. Specify the project manager, who is in control project and its division of labor.
 
 The adminstration of HiDef Knits is composed of a project manager and 
-core developers of HiDef Knits along with outside advisors from knitware industry. 
+core developers of HiDef Knits along with outside advisors from knitwear industry
+and University of Iceland. 
 The role of the project manager is to plan, organize meetings, communicate information 
 as well as to monitor and ensure the proper progress of the project. 
 Project manager is responsible for keeping track of project accounting and 
@@ -543,6 +553,8 @@ Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
+**Dr. Tómas Philip Rúnarsson** TODO bio
+
 **Páll Kristján Pálsson** has advisory role to HiDef Knits.
 Páll was director of NSA VENTURES (Nýsköpunarsjóðs atvinnulífsins)
 in 1997-1999 and now teaches innovation, entrepreneurship, product development 
@@ -567,11 +579,18 @@ Since retiring in 2005, Áslaug has limited herself to personal handknits.
 
 ###### If the case of a cooperative, describe the nature of the partnership and value for the project. Please describe the role of all partners project. Describe cooperation both with domestic and foreign partners.
 
-TODO	
-	
-1.	Check with University of Iceland for cooperation
-
-2.	Brennan’s network within the international FOSS community. 
+The collaboration with University of Iceland is to auto-generate knitting 
+garments that would be considered aesthetically pleasing. 
+Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
+will supervise a masters student in computational engineering
+(position to be advertised for the school year 2017-18). 
+The research project is machine learning based on identifying and 
+extrapolating key features that identify with popular patterns on Ravelry. 
+The feature can be text sentiments analysis in conjunction with image pattern analysis.  
+Dr. Helga Ingimundardóttir of HiDef Knits, will co-supervise the MSc student.  
+The objective is to publish and present the research at the conference series
+Learning and Intelligent Optimization (LION), and submit a paper to an 
+ISI publication such as Journal of Heuristics.
 
 Ragnheiður “*Ragga*” Eiríksdóttir has agreed to be a beta-tester for HiDef Knits 
 (cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation). 
@@ -655,8 +674,10 @@ or we would adopt in-app purchases; where we charge per library modules (i.e.
 sleeves silhouettes, collars, bind-off techniques, etc.). 
 
 The most straightforward approach of funding would be selling of our branded 
-merchandise, i.e., selling patterns of garment design with HiDef Knits software
-on Ravelry.
+merchandise, i.e., selling auto-generated patterns of garment design with 
+HiDef Knits software on Ravelry. The auto-generated patterns are part of the 
+cooperation research agreement with University of Iceland 
+(cf. [enclosed](RANNIS/coop_UI.pdf) letter of intent).
 
 Another means of revenue, would be to offer commercial technical support contracts 
 and services. In that case, professional business (e.g. knitting magazine publishers)
@@ -688,9 +709,9 @@ TODO
 	Note, Iceland is leading the way with an estimated 346 Ravelers per 10,000 Icelanders! (cf. [http://www.ravelry.com/about/fourmillion](http://www.ravelry.com/about/fourmillion))
 	Or 346*332,529/10,000~=11,838 Icelanders with Raverly accounts.	17,500 on Handóðir Prjónarar.
 	
-
 2.  International knitting conferences / workshops
-
+	*   CCC Conferences for open source people
+	*   Handverk og Hönnun at Reykjavik City Hall
 
 4.3. General value
 ------------------
