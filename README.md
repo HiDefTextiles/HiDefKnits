@@ -107,7 +107,7 @@ but a larger impact to the knitting revival is thanks to the internet age.
 Online tutorials help wannabe knitters to become self-learned novices and later 
 experts. 
 There is also a large international community on the social networking site
-[Ravelry](http://www.raverly.com) that has over 6.21 million registered users.
+[Ravelry](http://www.raverly.com) that has over 6.45 million registered users.
 Ravelry connects knitting and crochets enthusiasts and professionals. It is both
 a social platform where users can share and discuss their knitwork, but also a
 venue for distributing knitting patterns, both for free and for sale, within the
@@ -612,12 +612,25 @@ prettier pattern repeats of stitches.
 Despite the software being open-source, we intend to offer it freely in source
 code form only, and provide the executable binaries to paying customers, i.e.,
 offering the commercial service of compiling and packaging of the software.
-
 Since this product is aimed at self-employed designers or personal use the price
 is model is not fully determined. Either by a flat-fee for using HiDef Knits
 with price range of $25-$30 per user (similar pricing as a knitting handbook),
-or we would adopt in-app purchases - where we charge per library modules (i.e.
-sleeves silhouettes, collars, bind-off techniques, etc.)
+or we would adopt in-app purchases; where we charge per library modules (i.e.
+sleeves silhouettes, collars, bind-off techniques, etc.). 
+
+The most straightforward approach of funding would be selling of our branded 
+merchandise, i.e., selling patterns of garment design with HiDef Knits software
+on Ravelry.
+
+Another means of revenue, would be to offer commercial technical support contracts 
+and services. In that case, professional business (e.g. knitting magazine publishers)
+would pay for developement of a particular feature they would like to have.
+Similarily, we could sell certificates and trademark use to those businesses
+where we lift the restrictive attribution license, which allows them to publish
+patterns in book-format without citing HiDef Knits as the pattern generator. 
+
+There could also be a advertising-supported software approach taken, where we would 
+for instance partner up with a yarn manufacturer by proposing their yarn for a pattern. 
 
 Other ways for achieving financial return for the costs on open-source software
 would be in the form of training seminars, where we could teach proper use of
@@ -635,7 +648,10 @@ photography, etc.
 
 TODO	
 	
-1.  Ravelry
+1.  Ravelry, user base 6.45mi.
+	Note, Iceland is leading the way with an estimated 346 Ravelers per 10,000 Icelanders! (cf. [http://www.ravelry.com/about/fourmillion](http://www.ravelry.com/about/fourmillion))
+	Or 346*332,529/10,000~=11,838 Icelanders with Raverly accounts.	17,500 on Handóðir Prjónarar.
+	
 
 2.  International knitting conferences / workshops
 
