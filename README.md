@@ -500,15 +500,24 @@ The software will be developed open to the public from GitHub at
 
 ###### Give an account of how the project is managed, who control and responsibility each participant. Specify the project manager, who is in control project and its division of labor.
 
-**Dr. Helga Ingimundardóttir**, is the project manager for HiDef Knits. Helga
-holds a PhD in Computational Engineering from the University of Iceland, and has
-BSc. degree in Mathematics. Helga was software developer at Valka ehf. from
-2012-2015, where she was lead developer on software for a X-Ray guided cutting
+The adminstration of HiDef Knits is composed of a project manager and 
+core developers of HiDef Knits along with outside advisors from knitware industry. 
+The role of the project manager is to plan, organize meetings, communicate information 
+as well as to monitor and ensure the proper progress of the project. 
+Project manager is responsible for keeping track of project accounting and 
+project progress and report to RANNÍS. 
+
+**Dr. Helga Ingimundardóttir** is the project manager for HiDef Knits and 
+the core-developer of HiDef Knit's back-end. 
+Helga holds a PhD in Computational Engineering from the University of Iceland, 
+and has BSc. degree in Mathematics. 
+
+Helga was software developer at Valka ehf. from 2012-2015, 
+where she was lead developer on software for a X-Ray guided cutting
 machine that automatically removes pin bones and cuts fish fillet to the desired
-portions. The system analyzes individual fish fillet for highly uniform portions
-based on size, weight or value. Since 2015, Helga has work for AGR Dynamics as a
-SQL specialist for implementation and customization on AGR’s inventory
-optimization software.
+portions. 
+Since 2015, Helga has work for AGR Dynamics as a SQL specialist for implementation 
+and customization on AGR’s inventory optimization software.
 
 Helga is a fourth generation textile designer. Her grandparents owned and
 operated the knitwear manufacturing company ICESHEEP from 70s through 00s. Helga
@@ -516,11 +525,14 @@ is familiar with the design process for knitwear through ICESHEEP. Helga has
 also been known from designing and visualizing her own fair-isle patterns
 through MATLAB programming.
 
-**Ólafur Þór Magnússon**, TODO on 3D modelling
+**Ólafur Þór Magnússon** is the core-developer of the 3D modelling.
 
-**Brennan Novak**, an American national based in Berlin, he has extensive
-knowledge on UI/UX design and a great advocate for open-source software.
+TODO on Óli's backgroud
 
+**Brennan Novak**, an American national based in Berlin, and is the core-developer
+of the user interface.
+Brennan has extensive knowledge on UI/UX design and a great advocate for 
+open-source software.
 His skill sets mainly lies in interface design, user experience design,
 front-end engineering, web development, and branding. For the last sixteen years
 Brennan has worked for web startups, consulted for Fortune 100 companies (e.g.
@@ -531,11 +543,21 @@ Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
-**Áslaug Einarsdóttir** is an advisory to the board. Áslaug is retired, but in
-the past she worked as a tailor before starting her own knitwear company
-ICESHEEP in the 1970s. Áslaug was the primary knitwear designer working mostly
-with lopi. Since retiring in 2005, Áslaug has limited herself to personal
-handknits.
+**Páll Kristján Pálsson** has advisory role to HiDef Knits.
+Páll was director of NSA VENTURES (Nýsköpunarsjóðs atvinnulífsins)
+in 1997-1999 and now teaches innovation, entrepreneurship, product development 
+and marketing at University of Iceland. 
+Páll is currently the general manager of GLÓFI, which is a leader in the
+development and commercial manufacturing of woolen knitwear in Iceland.
+GLÓFI produces mostly for its own brand, VARMA, but also for other 
+designers and companies under their brands such as Cintamani, Farmers Market, 
+Vík Prjónsdóttir, Andrea by Andrea and Júniform.
+
+**Áslaug Einarsdóttir** has advisory role to HiDef Knits. 
+Áslaug is retired, but in the past she worked as a tailor before starting her 
+own knitwear company ICESHEEP in the 1970s. 
+Áslaug was the primary knitwear designer working mostly with lopi. 
+Since retiring in 2005, Áslaug has limited herself to personal handknits.
 
 
 3.2. Cooperation
@@ -552,7 +574,7 @@ TODO
 2.	Brennan’s network within the international FOSS community. 
 
 Ragnheiður “*Ragga*” Eiríksdóttir has agreed to be a beta-tester for HiDef Knits 
-(cf. [enclosed](RANNIS/coop_Ragga.pdf)) declaration of cooperation). 
+(cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation). 
 Ragga owns and operates *Knitting Iceland*, that publishes publishes 
 knitting-related material, such as books and tutorial DVDs. 
 Ragga has published several knitting books, such as Prjóniprjón, and 
