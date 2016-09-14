@@ -283,39 +283,46 @@ efforts were for pattern design for sewing.
 ###### Lýsið tæknilegum og hönnunarlegum áskorunum sem eru fólgnar í þróun afurðarinnar.
 
 ###### Describe technical and design challenges bearings, which involve the development product.
-	
-TODO
-	
-1.	Creating a software architecture that is scalable to be flexible enough
-	to create custom stitches, and how to effectively mix and match stitches
-	such that the pattern repeats harmonize. 
 
-2.  Given the number of knitting visualising software out there, and most 
-	forum posts on Ravelry discussing the pros and cons of those programs, 
-	the main complaint is poor user experience. The design isn't intuitive 
-	enough and the learning curve is too steep. As a result, many aspiring
-	designers are deterred of making the effort of streamlining the design 
-	process and continue to use graph paper and manual calculations of stitches. 
-	
-3.  Realizing 3D draping of a knitted garment on a 3D model, allowing the user
-    to preview the garment without having to create an actual sample and having
-    a model wear it. The draping will be based on shape and type of yarn chosen
-	as yarn weight can have unexpected effect of the draping which is hard for
-	designers to anticipate. 
+HiDef: Knits target audience is not computer savvy and the usage needs to be simple to implement. 
+Therefore hardware requirements or third party support needs to be minimal or easy to install.
+and sustainable in terms of few upgrades are required by our users.
+For this we suggest creating a light version that is could be run on mobile devices or tablets, 
+but full functionalities as desktop web-application. 
+Therefore, the back-end engineering needs to be flexible enough to cater to both of those 
+architectures.
 
-4.  Software sustainability, the target audience is not computer savvy 
-	and the usage needs to be simple to implement. 
-	Therefore hardware requirements or third party support 
-	needs to be minimal or easy to install.
-		
-5.  Auto-generated patterns. 
-	Machine Learning on what is considered aesthetically pleasing knitwear.
-	Here the learning algorithm would be based on Ravelry patterns, where
-	the features are pattern difficulty ranking, users' project status statistics,
-	pattern attributes, and imagery to name a few.
-	Using the models there would be auto-generated patterns, where high-scoring 
-	ones would be uploaded to Ravelry as a mean of income source for HiDef: Knits
-	continued development.
+Given the number of knitting visualising software out there, and most 
+forum posts on Ravelry discussing the pros and cons of those programs, 
+the main complaint is poor user experience. The design isn't intuitive 
+enough and the learning curve is too steep. As a result, many aspiring
+designers are deterred of making the effort of streamlining the design 
+process and continue to use graph paper and manual calculations of stitches. 
+Therefore an intuitive user interface and good user experience is key
+for the success of HiDef: Knits.
+
+To help with user experience, realizing draping of a knitted garment on a 3D model
+will allow the user to preview the garment without having to create an actual sample and having a model wear it. 
+The draping will be based on shape and type of yarn chosen as yarn weight can have unexpected effect of the draping which is hard for designers to anticipate. 
+The objective of the 3D model is to incorporate movement as well, 
+because many faults of unexperienced designers is to create a garment 
+that might look pretty and fitting but the design is so constrained 
+that it is uncomfortable to wear. 
+By watching the 3D model move you could spot those problematic designs flaws beforehand.
+
+Regarding garment design and grading, when there are custom stitch patterns used
+there needs to be care in how to effectively mix and match stitches such that the pattern repeats harmonize. 
+Here the 3D modelling will also help with showcasing how different pattern pieces work together
+and choice of finishing techniques (e.g. bind-off, cast-on, decreases, increases) effect the overall look of the garment.
+	
+The research project with University of Iceland is challenging optimization problem
+with respect to aesthetics and functionality of knitwear patterns. 
+Data will be obtained from Ravelry, and learning algorithm's features will be 
+based on pattern difficulty ranking, users' project status statistics,
+pattern attributes, and imagery to name a few.
+The optimization model will then be used to auto-generated knitting patterns, 
+where high-scoring ones would be uploaded and sold on HiDef: Knits hosting service
+as a mean of income source for HiDef: Knits continued development.
 
 
 2.3. Derived opportunity (Spin-off)
