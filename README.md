@@ -185,33 +185,21 @@ According to the Foundation for a Free Information Infrastructure, software pate
 As mentioned before in section 1.3, of the over 200 Icelandic knitters polled, the
 majority of knitwear designers use pen and graph paper to create their designs. 
 
-There are several software solutions that aid with fair-isle design, 
-that is to say creating multi-color imagery in knitwear.
-[Knit Visualizer by Knit Foundry](http://knitfoundry.com/software.html) is a
-knitting software that has not been updated since December, 2008. It is
+There are several software solutions that aid in creating fair-isle designs (multi-color imagery) in knitwear.
+[Knit Visualizer by Knit Foundry](http://knitfoundry.com/software.html) is 
+knitting software that has not been updated since December, 2008 and is
 essentially a chart wizard that translates chart symbols to knitting
-abbreviations. They have a free demo version for users to interact with the
+abbreviations. Knit Foundry offers a free demo version for users to interact with the
 software, however, the interface is not intuitive for knitting novices and there
-are no libraries included unless you buy the full version, at a flat-fee of
-$185 (which is considered too excessively priced by most Ravelry users). The
-output of the software is user-defined charts, and can be based on 40 common
-stitches and 75 different cable stitches. 
-A drawback that is frequently discussed in Ravelry forums is the written pattern 
-generated would always need editing to group repeats, etc. Nevertheless, a nice
-program to get illustrated charts for knitting. Similar to Knit Visualizer is 
-[Knitting Chart Editor](http://www.stitchmastery.com/), 
-a by StitchMastery. Priced at £60, the full version includes hundreds of 
+are no libraries included unless you buy the full version, which is a flat-fee of
+$185. This price point is considered far too high for most Ravelry users. The
+output of the software is user-defined charts and can be based on 40 common
+stitches and 75 different cable stitches. A drawback that is frequently discussed in Ravelry forums is the written pattern generated would always need editing to group repeats, etc. Nevertheless, a nice program to get illustrated charts for knitting.
+
+Similar to Knit Visualizer is [Knitting Chart Editor](http://www.stitchmastery.com/), 
+a by StitchMastery. While priced lower at £60, the full version includes hundreds of 
 predefined stitches including 150+ cables, Estonian stitches, brioche, 
-beading and twined stitches. 
-They offer a stitch font library (bought seperately).
-Not only does StitchMastery include more types of predefined stithes, moreover, 
-the drawbacks from Knit Visualizer are confronted by Stitchmastery, 
-as the software has the ability to detect repeated stitches and automatically
-annotate them.
-Last version, was released 2014, with no new software development announced.
-Reviews on Ravelry and experiend knitters blogs[[7]](#_ftn7) warn prespective 
-users that there is a steep learning curve to use the program, 
-and a manual that is often not sufficient. However, pattern instructions 
+beading and twined stitches. StitchMastery also offers a stitch font library which can be purchased seperately. Not only does Knitting Chart Editor include more types of predefined stitches than Knit Visualizer, but the software also has the ability to detect repeated stitches and automatically annotate them. However, the last version, was released in 2014 with no new software development announced. Reviews on Ravelry and experiend][]][Q=========================================	knitters blogs[[7]](#_ftn7) warn prospective users that there is a steep learning curve to use the program, and a manual that is often not sufficient. However, pattern instructions 
 with for repeats are easily created and charts are nicely formatted. 	
 Another competitor is [EnvisioKnit](http://www.envisioknit.com/) by 
 Jane of EnvisioKnit Design Studio, priced at $99. 
