@@ -520,7 +520,7 @@ project progress and report to RANNÍS.
 **Dr. Helga Ingimundardóttir** is the project manager for HiDef Knits and 
 the core-developer of HiDef Knit's back-end. 
 Helga holds a PhD in Computational Engineering from the University of Iceland, 
-and has BSc. degree in Mathematics. 
+and has BSc. degree in Mathematics. See (CV)[RANNIS/cv_hi.pdf] for details.
 
 Helga was software developer at Valka ehf. from 2012-2015, 
 where she was lead developer on software for a X-Ray guided cutting
