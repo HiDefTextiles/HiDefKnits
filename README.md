@@ -22,7 +22,7 @@ At it's core HiDef: Knits will be an easy-to-use design app for creating handmad
 
 Current knitting related apps on the market aren't sophisticated enough to generate even the simplest of garments and are mostly used to keep track of ones progress in a written pattern. There are a few desktop software solutions available that create illustrative pattern schematics, but they have steep learning curves and are generally too expensive for self-publishing designers and hobby knitters. Also, these apps were created with sewing designers in mind, so there is minimal support for generating meaningful patterns for handknits. However, there is an abundant selection of software for creating knitting charts that can be translated into written directions. Even though parts of the solution have already been created as standalone programs, unfortunately, most of these are incompatible with one another and many of the businesses behind these apps are currently out of business or are no longer in active development.
 
-The HiDef: Knits app will encorporate all of these components and ideas into a holistic intuitive solution that enables aspiring and experienced designers alike to create bespoke knitting patterns. Additionally, HiDef: Knits will uniquely offer a 3D rendered preview of the newly designed knitwear draped over a manequin that matches user specified measurements complete with proposed yarn and weave.
+The HiDef: Knits app will incorporate all of these components and ideas into a holistic intuitive solution that enables aspiring and experienced designers alike to create bespoke knitting patterns. Additionally, HiDef: Knits will uniquely offer a 3D rendered preview of the newly designed knitwear draped over a mannequin that matches user specified measurements complete with proposed yarn and weave.
 
 Additionally, all HiDef Textiles software will be developed as free and open-source software (FOSS), which means that everyone is free to use, copy, and change the software in any way for their needs. This also means that the source code is openly available so others can contribute ideas, audit the code, and help it evolve and grow overtime. We believe this is ethically aligned with the "openess" of knitting and other textile arts which evolved from folk traditions that have been passed down for thousands of years in every culture on the planet.
 
@@ -237,7 +237,7 @@ the design process further, in particular in terms of pattern grading
 However, there is a web-based application called 
 [Prjónamunstur.is](http://prjonamunstur.is/) that is a good tool for 
 designing an Icelandic lopapeysa with your own fair-isle pattern. 
-There is even a 3D rendering of the pattern, and with a downloadable
+There is even a 3D rendering of the garment, and with a downloadable
 PDF instruction of your design available in several lanuages. 
 Although this is similar to what HiDef: Knits will provide. 
 Prjónamynstur’s drawback is that it only produces fair-isle blousons that 
@@ -444,6 +444,7 @@ machine that automatically removes pin bones and cuts fish fillet to the desired
 portions. 
 Since 2015, Helga has work for AGR Dynamics as a SQL specialist for implementation 
 and customization on AGR’s inventory optimization software.
+Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
 
 Helga is a fourth generation textile designer. Her grandparents owned and
 operated the knitwear manufacturing company ICESHEEP from 70s through 00s. Helga
@@ -468,6 +469,12 @@ and small to medium sized businesses, as well co-founded TODO.
 Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
+
+**Árni Heimir Ingimundarson** is the co-owner of Þóruson slf.
+Árni graduated with a masters of international business from Reykjavik Univesity in 2010
+and a masters of tax adiminstration from Bifröst in 2011.
+He is currently the CEO at Talnaberg ehf., an accountant firm in Iceland. 
+Árni will be the CFO and operation talent for HiDef: Knits.
 
 **Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits 
 and will be a research collaborator regarding machine learning on 
@@ -551,21 +558,25 @@ ISI publication such as Journal of Heuristics.
 The majority of the funding is needed for salaries in order for the developers 
 to dedicate their time and effort for developement of HiDef: Knits and getting the
 software off the ground. 
-There will be three employees, each specialising in a specific part of the 
-software solution: 
-Helga will develop the back-end and knitting, 
-Ólafur will create the 3D modelling, and  
-Brennan supervises the user-friendly interface and has invaluble experince with 
-marketing FOSS software. 
-Other operational costs are for co-working space, 
-yarn to produce realistic textures and stitches, 
-website costs (hosting, domain registration, etc.).
+There will be four employees, each specialising in a specific part of the software solution: 
+
+1.	Helga will develop the back-end, knitting, oversee social media, and all managerial work (e.g. board meetings, communication with Rannís, etc.) 
+	for the entire duration of the project scope, 
+
+2.	Ólafur will create the 3D modelling (full-time for 4 months), 
+
+3.	Brennan supervises the user-friendly interface and has invaluble experince with marketing and branding software. 
+	As he currently living in Berlin, we will be working remotely. He will be working part-time for the majority of the duration of the project scope.
+
+4.	Árni Heimir will be responsible for all financial matters of HiDef: Knits.
+
+Other operational costs are for co-working space, yarn to produce realistic textures and stitches, website costs (hosting, domain registration, etc.).
 	
 HiDef: Knits is a passion project, so if funding falls through, development will 
 be done in the developers spare time, when possible. 
 Generally, an open-source project stands or falls with the involvement of the 
 core developers and the participation of the community that surrounds it usage. 
-Therefore, full-time developement is preferred in the intiital stages in order 
+Therefore, full-time developement is preferred in the initital stages in order 
 for the project to gain momentum and to be a the point of accepting contribution 
 from outside volunteering developers.
 
@@ -575,10 +586,12 @@ in creating grading software for for simple stockinette stitch and basic ribbing
 (leaving cable knit and lace stitch support to other programs). 
 Constructional elements build upon a tapered pullover, and releases between 
 modules (sleeves, collars, neckline etc.), would be postponed.
-The 3D modelling of the garment would be nice to have, as it would help the 
-designer visualize the final product before starting the time-consuming process
-of actually knitting the garment, but not necessary for the sake of pattern 
-creation. An 2D rendering of the individual knit pieces would suffice. 
+
+The 3D modelling of the garment is a novelty that none of our competitors have, 
+and as it would help the designer visualize the final product before starting the time-consuming process of actually knitting the garment.
+Therefore, we believe this is an essential feature to HiDef: Knits. 
+However, without sufficient funding we will not add support of natural movement to our mannequin, only fixed rotation. 
+Moreover, 3D modelling of certain finishing techniques will have to be prioritized.
 
 Perhaps if there could be some cooperation between the already established 
 knit chart visualisers, which could import the HiDef: Knits pattern pieces 
