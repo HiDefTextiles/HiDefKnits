@@ -553,7 +553,17 @@ Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
-**Dr. Tómas Philip Rúnarsson** TODO bio
+**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef Knits 
+and will be a research collaborator regarding machine learning on 
+auto-genating knitwear patterns.
+Tómas is a professor within the School of Engineering and Natural Sciences, 
+at the University of Iceland. 
+He is the head of the department of Industrial Engineering and 
+an associated editor for the IEEE Transactions on Evolutionary Computation, 
+and the new IEEE Transactions on Computational Intelligence and AI in Games. 
+See (CV)[RANNIS/cv_tpr.pdf] for details.
+Tómas will supervise a Masters student on this research collaboration, 
+and Helga will co-supervise.
 
 **Páll Kristján Pálsson** has advisory role to HiDef Knits.
 Páll was director of *NSA VENTURES* (Nýsköpunarsjóðs atvinnulífsins)
