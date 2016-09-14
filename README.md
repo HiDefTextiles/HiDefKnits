@@ -525,10 +525,8 @@ Ylur's production is a combination of domestic machine knitting
 and handknitting finishing. 
 
 Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufacturer in Iceland. 
-Glófi produces mostly for its own brand, VARMA, but also for other 
-designers and companies under their brands such as Cintamani, Farmers Market, 
-Vík Prjónsdóttir, Andrea by Andrea and Júniform.
-Our collaboration with Glófi will help us scale-up and meet the needs of commercial knitting manufacturers.
+Glófi produces mostly for its own brand, VARMA, but also for other designers and companies under their brands such as Cintamani, Farmers Market, Vík Prjónsdóttir, Andrea by Andrea and Júniform.
+Our collaboration with Glófi will help us better understand the commercial market and further learn how make our HiDef: Knits suit the needs of that market
 
 The collaboration with **University of Iceland** is to auto-generate knitting 
 garments that would be considered aesthetically pleasing. 
