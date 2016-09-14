@@ -455,16 +455,13 @@ and a masters of tax administration from Bifröst in 2011.
 He is currently the CEO at Talnaberg ehf., an accountant firm in Iceland. 
 Árni will be the CFO and operation talent for HiDef: Knits.
 
-**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits 
-and will be a research collaborator regarding machine learning on 
-auto-generating knitwear patterns.
-Tómas is a professor within the School of Engineering and Natural Sciences, 
-at the University of Iceland. 
-He is the head of the department of Industrial Engineering and 
-an associated editor for the IEEE Transactions on Evolutionary Computation, 
-and the new IEEE Transactions on Computational Intelligence and AI in Games. 
-See [CV](RANNIS/cv_tpr.pdf) for details.
-Tómas will supervise a Masters student on this research collaboration, 
+**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits
+and will be a research collaborator regarding machine learning and optimization 
+of auto-generating knitwear patterns.
+Tómas is a professor of Operations Research within the School of Engineering and Natural Sciences,
+at the University of Iceland.
+See (CV)[RANNIS/cv_tpr.pdf] for details.
+Tómas will supervise a Masters student on this research collaboration,
 and Helga will co-supervise.
 
 **Páll Kristján Pálsson** has advisory role to HiDef: Knits.
@@ -514,18 +511,17 @@ Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufactu
 Glófi produces mostly for its own brand, VARMA, but also for other designers and companies under their brands such as Cintamani, Farmers Market, Vík Prjónsdóttir, Andrea by Andrea and Júniform.
 Our collaboration with Glófi will help us better understand the commercial market and further learn how make our HiDef: Knits suit the needs of that market
 
-The collaboration with **University of Iceland** is to auto-generate knitting 
-garments that would be considered aesthetically pleasing. 
-Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
+The collaboration with **University of Iceland** is to auto-generate knitting
+garments that would be optimized with respect to aesthetics and functionality.
+Dr. Tómas Philip Rúnarsson, professor at University of Iceland,
 will supervise a masters student in computational engineering
-(position to be advertised for the school year 2017-18). 
-The research project is machine learning based on identifying and 
-extrapolating key features that identify with popular patterns on Ravelry. 
-The feature can be text sentiments analysis in conjunction with image pattern analysis.  
-Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student.  
-The objective is to publish and present the research at the conference series
-Learning and Intelligent Optimization (LION), and submit a paper to an 
-ISI publication such as Journal of Heuristics.
+(position to be advertised for the school year 2017-18).
+The research project is machine learning based on identifying and
+extrapolating key features that identify with popular patterns on Ravelry.
+The feature can be text sentiments analysis in conjunction with image pattern analysis. 
+Patterns detected will be constrained by optimizing them with respect to functionality.
+Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student. 
+
 
 3.3. Budget
 -----------
