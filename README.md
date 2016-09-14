@@ -502,25 +502,6 @@ Since retiring in 2005, Áslaug has limited herself to personal handknits.
 
 ###### If the case of a cooperative, describe the nature of the partnership and value for the project. Please describe the role of all partners project. Describe cooperation both with domestic and foreign partners.
 
-The collaboration with **University of Iceland** is to auto-generate knitting 
-garments that would be considered aesthetically pleasing. 
-Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
-will supervise a masters student in computational engineering
-(position to be advertised for the school year 2017-18). 
-The research project is machine learning based on identifying and 
-extrapolating key features that identify with popular patterns on Ravelry. 
-The feature can be text sentiments analysis in conjunction with image pattern analysis.  
-Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student.  
-The objective is to publish and present the research at the conference series
-Learning and Intelligent Optimization (LION), and submit a paper to an 
-ISI publication such as Journal of Heuristics.
-
-Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufacturer in Iceland. 
-Glófi produces mostly for its own brand, VARMA, but also for other 
-designers and companies under their brands such as Cintamani, Farmers Market, 
-Vík Prjónsdóttir, Andrea by Andrea and Júniform.
-Our collaboration with Glófi will help us scale-up and meet the needs of commercial knitting manufacturers.
-
 **Ragnheiður “*Ragga*” Eiríksdóttir** has agreed to be a beta-tester for HiDef: Knits 
 (cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation)
 with emphasis on pattern readability meant for handknitting. 
@@ -543,6 +524,24 @@ Fanney owns and operates *YLUR*, a knitwear company located in Selfoss, Iceland.
 Ylur's production is a combination of domestic machine knitting
 and handknitting finishing. 
 
+Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufacturer in Iceland. 
+Glófi produces mostly for its own brand, VARMA, but also for other 
+designers and companies under their brands such as Cintamani, Farmers Market, 
+Vík Prjónsdóttir, Andrea by Andrea and Júniform.
+Our collaboration with Glófi will help us scale-up and meet the needs of commercial knitting manufacturers.
+
+The collaboration with **University of Iceland** is to auto-generate knitting 
+garments that would be considered aesthetically pleasing. 
+Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
+will supervise a masters student in computational engineering
+(position to be advertised for the school year 2017-18). 
+The research project is machine learning based on identifying and 
+extrapolating key features that identify with popular patterns on Ravelry. 
+The feature can be text sentiments analysis in conjunction with image pattern analysis.  
+Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student.  
+The objective is to publish and present the research at the conference series
+Learning and Intelligent Optimization (LION), and submit a paper to an 
+ISI publication such as Journal of Heuristics.
 
 3.3. Budget
 -----------
