@@ -237,7 +237,7 @@ the design process further, in particular in terms of pattern grading
 However, there is a web-based application called 
 [Prjónamunstur.is](http://prjonamunstur.is/) that is a good tool for 
 designing an Icelandic lopapeysa with your own fair-isle pattern. 
-There is even a 3D rendering of the garment, and with a downloadable
+There is even a simple 3D rendering of the garment, and with a downloadable
 PDF instruction of your design available in several languages. 
 Although this is similar to what HiDef: Knits will provide. 
 Prjónamynstur's drawback is that it only produces fair-isle blousons that 
@@ -262,7 +262,7 @@ relatively simple cable knits and fair-isle knitwear as they are meant for
 mass-production, hence detailed nuances of hand-knitting with a professional
 finish are not addressed as they are not efficient for such manufacturing. The
 CAD fashion software is essentially designing knit textiles to be made with
-industrial knitting machines, that are then **cut** and assembled just as is
+industrial knitting machines, that are then *cut* and assembled just as is
 done with normal woven fabrics. However, when dealing with hand-knits, each piece
 is knit from one continuous yarn, and only cut at the very end. Thus its shaping
 is determined by the choice of decreases and increases, and the choice of bind
@@ -373,12 +373,11 @@ of the HiDef: Knits solution, similar to Creative Commons license
 [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
 (CC BY 4.0).
 
-TODO
-
-**The designer can either publish the pattern for others to use or knit
-themselves.**
-
-**order for them to work yourself or knitted garment.**
+HiDef: Knits users can also use the pattern to create their garments to sell.
+This could be beneficial for those who knit for a living. 
+For instance, Ylur is a small Icelandic knitwear company that creates beautiful garments for children.
+Ylur's production is domestic machine knitting but with hand-knitted finishing touches. 
+Ylur has agreed to be a beta-tester for HiDef: Knits. 
 
 
 2.4. Intellectual property policy
