@@ -69,28 +69,28 @@ to wrist.
 Based on these body measurements it’s important to incorporate ease (i.e. extra
 width) in the pattern design in order for the wearer to move comfortably in a
 garment. For instance, 5cm ease for body circumference is sufficient, but 10cm
-is preferred when designing outerwear. The HiDef: Knits software will make the
-necessary ease additions that are appropriate to each pattern shape based on the
-user’s choice of style, namely: standard, roomy, tight, form fitting (i.e.
+is preferred when designing outerwear. The HiDef: Knits app will make the
+necessary "ease additions" that are appropriate to each pattern shape based on the
+user’s choice of style, such as: standard, roomy, tight, form fitting (i.e.
 negative ease) or user defined.
 
-From here the software offers constructional elements for the user to play
+From here the software will offer constructional elements for the user to play
 around with. Figure 2 depicts several classic torso silhouettes (i.e. front and
 back pieces) and Figure 3 demonstrates classic sleeve silhouettes that a user
 could define in the HiDef Knit software. The user starts by defining the shape
 of the garment, and building on classical silhouettes those would be: tapered,
 kimono or blouson. Next the user decides on length (cropped, waist, hip or knee
-length). This is followed by armhole shaping, the most common silhouettes being
+length). The next step is armhole shaping, the most common silhouettes being
 dropped shoulder (cf. left most variation in Figures 2 and 3), set-in shoulder,
 raglan, circular yoke (e.g. lopapeysa) or saddle shoulder. The choice of armhole
 shaping effects the design of the sleeve piece, and the HiDef: Knits software
-make sure that the front, back and shoulder pieces all correspond to one another
+makes sure that the front, back and shoulder pieces all correspond to one another
 for perfect joining. This is extremely important for achieving a comfortable
-fit. Other design elements for the sleeve piece have to deal with the look
+fit. Other design elements for the sleeve pieces have to deal with the look
 towards the cuff, as they could be a lantern sleeve or straight sleeve with or
-without any tapering. If there are cuffs (classic fold-back, bell cuff or
-placket cuff) on the sleeve that design element is incorporated into the sleeve
-piece for one seamless piece.
+without any tapering. If there are to be cuffs (classic fold-back, bell cuff or
+placket cuff) on the sleeve that design element is to be incorporated into the sleeve
+piece for seamlessness.
 
 ![](figures/silhouettes-torso.png)
 
@@ -102,10 +102,10 @@ piece for one seamless piece.
 
 Going back to the torso (i.e. front and back pieces) there are other structural
 elements to consider, such as necklines (the classic boatneck, square, round or
-“V” shaped) which also effects the choice of collar (straight, split,
+“V” shaped) which also effect the choice of collar (straight, split,
 turtleneck, cowl, shawl). And then there is also the question of whether the
 garment is tapered or not, and a choice of edging. Similar to the sleeves if the
-design is lantern or straight, etc.
+design is lantern, straight, or etc.
 
 Moreover, if the garment is open, i.e. a cardigan, then there are several
 possibilities. Center closure with zipper, overlapping or independent front band
@@ -125,15 +125,15 @@ support.
 
 As garment fit is important, the knitting gauge needs to be correctly estimated
 before making any translations from measurements to numbers of stitches and
-rows. This is where the choice of yarn comes to play and the individuals
-knitting tension.
+rows. At this stage is where the choice of yarn comes into play as well as the 
+individuals knitting tension is decided.
 
-With all of these structural components, HiDef: Knits software produces a chart
-that any knitter can follow, with the correct number stitches for cast-on and
+With all of these structural components, HiDef: Knits software will produce a chart
+that any knitter can follow with the correct number stitches for cast-on and
 where to make decreases and increases along with appropriate bind-off
 techniques. The software will also take into consideration the knitters personal
-preference, whether the output should be a multiple piece construction (which is
-the most common version) or as a one-piece construction (the “preferred”
+preferences such as whether the output should be a multiple piece construction (which is
+the most common version), or a one-piece construction (the "preferred"
 approach in Iceland), where the latter does not include selvage stitches as
 there are no joins needed to connect the front and back pieces together.
 
@@ -154,35 +154,22 @@ TODO
 
 ###### Give an account of the work that has taken place before the decision to start the project. Have a technical or market pilot study been conducted? have freedom of action have been investigated in search of patent databases?
 
-After consulting 200 Icelandic knitters, 82% had designed a garment for
-themselves and 10% had published their patterns (remaining 18% did not consider
-themselves a designer). The majority built their work on existing patterns in
-terms of calculating the number of stitches needed. Some created their garments
-on the fly, and as a result of their undocumented approach their designs were
-not repeatable. Generally, the designers jolted calculations with pen and graph paper,
-but in an erratic way such that they didn’t feel comfortable in publishing their
-work with others. Those who published their work mostly used Excel to manage
-their calculations and grading of sizes.
+After consulting 200 Icelandic knitters only 82% had designed a garment for themselves and of this 82% only 10% of those have published their patterns. 
+The remaining 18% did not consider themselves designers. The majority built their work on existing patterns in terms of calculating the number of stitches needed. Some created their garments on the fly and as a result of their undocumented approach their designs were
+not repeatable. Generally, designers write down calculations with a pen and graph paper,
+but this is often done in an erratic way such that they didn’t feel comfortable in publishing their work with others. Those who published their work mostly used Excel to manage
+their calculations and offered a grading of sizes.
 
 From personal observations, when knitters share their original designs on social
 media, the comment threads are bombarded with questions about pattern
 availability. For hobbyist knitters, the excitement of starting a new project
-often supersedes detailed preplanning, and there may be last minute alterations
-since what you initially planned might not work out due to forgotten decreases
-or increases that result in a poorly fitted garment. Therefore, since it’s not
-known beforehand if a project will be loved by so many, it’s can be extremely
-hard to retrace your steps to publish a pattern in a coherent way for others to
-follow, let alone using the appropriate terminology and abbreviations. The HiDef
-Knits software objective is to help those aspiring designers (both for personal
-use and pattern distributions) for easier preplanning that result in an overall
+often supersedes detailed pre-planning. This causes problems later as there may be last minute alterations from what one initially planned on which might not work correctly due to forgotten decreases or increases which can result in a poorly fitted garment. Also, since it’s not known beforehand if a project will be loved by many, it’s can be extremely
+hard to retrace ones steps in order to publish a pattern in a coherent way for others to
+follow, let alone use the appropriate terminology and abbreviations. The objective of HiDef: Knits software is to help aspiring designers (both for personal use and pattern distributions) for easier pre-planning. The result will be an overall
 improved knitting experience as there is minimal painstaking assembly process
 due to forgotten structural elements.
 
-According to the Foundation for a Free Information Infrastructure, 
-software patents should not exist under European law.[[3]](#_ftn3)
-Moreover, all of HiDef: Knits features are based on known processes, 
-and will be developed as a free and open-source software, 
-therefore there is no grounds for a patent.
+According to the Foundation for a Free Information Infrastructure, software patents should not exist under European law.[[3]](#_ftn3) Moreover, all of HiDef: Knits features are based on known processes, and will be developed and licensed as free and open-source software (FOSS), therefore there is no grounds for a patents needed.
 
 
 2 Novelty
