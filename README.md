@@ -434,27 +434,30 @@ Project manager is responsible for keeping track of project accounting and
 project progress and report to Rannís. 
 
 **Dr. Helga Ingimundardóttir** is the project manager for HiDef: Knits and 
-the core-developer of HiDef: Knits' back-end. 
+the core-developer of HiDef: Knits' back-end engineering. 
 Helga holds a PhD in Computational Engineering from the University of Iceland, 
-and has BSc. degree in Mathematics. See (CV)[RANNIS/cv_hi.pdf] for details.
-
+and has BSc. degree in Mathematics. 
 Helga was software developer at Valka ehf. from 2012-2015, 
 where she was lead developer on software for a X-Ray guided cutting
 machine that automatically removes pin bones and cuts fish fillet to the desired
 portions. 
 Since 2015, Helga has work for AGR Dynamics as a SQL specialist for implementation 
-and customization on AGR's inventory optimization software.
-Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
+and customization on AGR's inventory optimization software. 
+See (CV)[RANNIS/cv_hi.pdf] for details.
 
 Helga is a fourth generation textile designer. Her grandparents owned and
 operated the knitwear manufacturing company ICESHEEP from 70s through 00s. Helga
 is familiar with the design process for knitwear through ICESHEEP. Helga has
 also been known from designing and visualizing her own fair-isle patterns
 through MATLAB programming.
+Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
 
 **Ólafur Þór Magnússon** is the core-developer of the 3D modelling.
-
-TODO on Óli's backgroud
+Ólafur graduated with a Bachelor of Arts (BFA) from Academy of Art University in San Francisco, California in 2014.
+There he specialised in animation and visual effects (i.e. VFX).
+Moreover, he has taken several advanced character animation trainings from iAnimate.
+Ólafur has worked as a visual effects artist at RVX, 
+and he is currently a character animator at CAOZ Ltd. See (CV)[RANNIS/cv_otm.pdf] for details.
 
 **Brennan Novak**, an American national based in Berlin, and is the core-developer
 of the user interface.
@@ -464,7 +467,7 @@ His skill sets mainly lies in interface design, user experience design,
 front-end engineering, web development, and branding. For the last sixteen years
 Brennan has worked for web startups, consulted for Fortune 100 companies (e.g.
 Nike), worked at advertising and digital agencies, as well as served individuals
-and small to medium sized businesses, as well co-founded TODO.
+and small to medium sized businesses, as well co-founded several FOSS projects.
 
 Brennan's two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
