@@ -457,6 +457,8 @@ Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
 There he specialised in animation and visual effects (i.e. VFX).
 Moreover, he has taken several advanced character animation trainings from iAnimate.
 Ólafur has worked as a visual effects artist at RVX, 
+3D artist and animator at Clockwork Alien Games, 
+3D Modeler and texturer at inHouse, 
 and he is currently a character animator at CAOZ Ltd. See (CV)[RANNIS/cv_otm.pdf] for details.
 
 **Brennan Novak**, an American national based in Berlin, and is the core-developer
