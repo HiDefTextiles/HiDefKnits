@@ -186,7 +186,7 @@ As mentioned before in section 1.3, of the over 200 Icelandic knitters polled, t
 majority of knitwear designers use pen and graph paper to create their designs. 
 
 There are several software solutions that aid in creating fair-isle designs (multi-color imagery) in knitwear.
-[Knit Visualizer by Knit Foundry](http://knitfoundry.com/software.html) is 
+[Knit Visualizer](http://knitfoundry.com/software.html) by Knit Foundry is 
 knitting software that has not been updated since December, 2008 and is
 essentially a chart wizard that translates chart symbols to knitting
 abbreviations. Knit Foundry offers a free demo version for users to interact with the
@@ -196,33 +196,22 @@ $185. This price point is considered far too high for most Ravelry users. The
 output of the software is user-defined charts and can be based on 40 common
 stitches and 75 different cable stitches. A drawback that is frequently discussed in Ravelry forums is the written pattern generated would always need editing to group repeats, etc. Nevertheless, a nice program to get illustrated charts for knitting.
 
-Similar to Knit Visualizer is [Knitting Chart Editor](http://www.stitchmastery.com/), 
+Similar to Knit Visualizer is [Knitting Chart Editor](http://www.stitchmastery.com), 
 a by StitchMastery. While priced lower at £60, the full version includes hundreds of 
-predefined stitches including 150+ cables, Estonian stitches, brioche, beading and twined stitches. StitchMastery also offers a stitch font library which can be purchased seperately. Not only does Knitting Chart Editor include more types of predefined stitches than Knit Visualizer, but the software also has the ability to detect repeated stitches and automatically annotate them. However, the last version was released in 2014 with no new software development announced. Reviews on Ravelry and experiend][]][Qknitters blogs[[7]](#_ftn7) warn prospective users that there is a steep learning curve to use the program, and a manual that is often not sufficient. However, pattern instructions 
-with for repeats are easily created and charts are nicely formatted. 
-Another competitor is [EnvisioKnit](http://www.envisioknit.com/) by 
-Jane of EnvisioKnit Design Studio, priced at $99. 
-Unlike StitchMastery, the manual is easy to navigate and learn the basic 
-commands with many commands are intuitive.[[8]](#_ftn8) 
-Otherwise, very similar capabilities to that of StitchMastery.
-Yet another chart visualizing software is [KnitBird](http://knitbird.com/), 
-priced at €59. However, they offer purely a chart without any automated 
-written instructions. On the other, there main feature not offered by the others
-is an image importer where you can adjust the level of pixelation/detail.
+predefined stitches including 150+ cables, Estonian stitches, brioche, beading and twined stitches. StitchMastery also offers a stitch font library which can be purchased seperately. Not only does Knitting Chart Editor include more types of predefined stitches than Knit Visualizer, but the software also has the ability to detect repeated stitches and automatically annotate them. However, the last version was released in 2014 and there is no new software development announced. Reviews on Ravelry and experienced knitters blogs [[7]](#_ftn7) warn prospective users that there is a steep learning curve to the program, and the manual is often not sufficient. However, pattern instructions for repeats are easily created and charts are nicely formatted.
 
-Furthermore, users download the Knit Visualizer, StitchMastery, and KnitBird 
-software on their computer so there can be some technical difficulties to
-install the program for users depending on their hardware. Especially the 
-software that haven't released an update in the past few years.
-HiDef: Knits would be a web-based application, only requiring an updated browser.
-Note none of these programs offer a 3D rendering of textures based on your 
-created stitch chart. 
+Another competitor is [EnvisioKnit](http://www.envisioknit.com) by Jane of EnvisioKnit Design Studio, which is priced at $99. Unlike StitchMastery, the manual is easy to navigate and learn from, while many commands are intuitive. [[8]](#_ftn8) Otherwise, EnvisionKnit has very similar capabilities to that of StitchMastery. Another chart visualizing application is [KnitBird](http://knitbird.com) which prices at €59 and only offers a chart without any automated written instructions. However, KnitBirds's main feature is not offered by any of the other applications is an image importer where you can adjust the level of pixelation/detail.
+
+Furthermore, users who purchase and download Knit Visualizer, StitchMastery, and KnitBird software report encounter technical difficulties installing all the programs depending on their hardware. Compatibility is also often an issue, especially with software that has not released an update in many few years. HiDef: Knits would be a web-based application, only requiring an updated browser and iOS and Android on tablets have great updating interfaces that nudge users to update software easily.
+
+Note none of these programs offer a 3D rendering of textures based on ones 
+created stitch chart.
 
 Unfortunately, none of these aforementioned software applications take 
 the design process further, in particular in terms of pattern grading 
 (i.e. sizing), which is the main selling point of HiDef: Knits. 
 However, there is a web-based application called 
-[Prjónamunstur.is](http://prjonamunstur.is/) that is a good tool for 
+[Prjónamunstur.is](http://prjonamunstur.is) and that is a good tool for 
 designing an Icelandic lopapeysa with your own fair-isle pattern. 
 There is even a 3D rendering of the garment, and with a downloadable
 PDF instruction of your design available in several languages. 
@@ -230,7 +219,7 @@ Although this is similar to what HiDef: Knits will provide.
 Prjónamynstur's drawback is that it only produces fair-isle blousons that 
 have a circular yoke and only based on 3 body measurements
 (shoulder circumference, sleeve length, and length from armhole to lower edge).
-However, HiDef: Knits will be designed with more flexibility, and choice of
+HiDef: Knits, on the other hand, will be designed with more flexibility, and choice of
 constructional components. Therefore, an Icelandic lopapeysa would only be one
 possible configuration of many for possible garment design within HiDef: Knits.
 Moreover, Prjónamunstur hasn't been updated since March, 2015 and requires
@@ -279,8 +268,7 @@ of the design process.
 
 To summarise, most knitting software out there are chart illustrators, where
 some can even recognize pattern repeats that preferred when publishing written
-directions. 
-Prjónamunstur offers additional grading, but only for lopapeysa styled garment. 
+directions. Prjónamunstur offers additional grading, but only for lopapeysa styled garment. 
 Garment Designer has more variety in terms of tailoring, but the learning curve 
 is steep and software development is no longer active. 
 Same applies for professional CAD fashion software, but they are priced too 
