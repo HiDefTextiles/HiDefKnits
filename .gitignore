@@ -28,3 +28,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.out
