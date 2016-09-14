@@ -667,24 +667,32 @@ prettier pattern repeats of stitches.
 Despite the software being open-source, we intend to offer it freely in source
 code form only, and provide the executable binaries to paying customers, i.e.,
 offering the commercial service of compiling and packaging of the software.
-Since this product is aimed at self-employed designers or personal use the price
-is model is not fully determined. Either by a flat-fee for using HiDef Knits
-with price range of $25-$30 per user (similar pricing as a knitting handbook),
-or we would adopt in-app purchases; where we charge per library modules (i.e.
-sleeves silhouettes, collars, bind-off techniques, etc.). 
+The HiDef Knits solution is still free and open-source, but we would own the 
+platform which would be in active in where we could monitise for further development.
 
-The most straightforward approach of funding would be selling of our branded 
-merchandise, i.e., selling auto-generated patterns of garment design with 
-HiDef Knits software on Ravelry. The auto-generated patterns are part of the 
-cooperation research agreement with University of Iceland 
-(cf. [enclosed](RANNIS/coop_UI.pdf) letter of intent).
+We will sell HiDef Knits as a hosted service, this entals extensions that is not 
+available with the source code. Then on the hosted solution we could offer 
+both regular and enterprise subscriptions.
+Since this product is aimed at self-employed designers or personal use the price
+for accessing the hosted services is not fully determined. 
+Either by a flat-fee for using HiDef Knits with price range of $25-$30 per user a year 
+(similar pricing as a knitting handbook),
+or we would adopt in-app purchases; where we charge per library modules 
+(i.e. sleeves silhouettes, collars, bind-off techniques, etc.). 
+Enterprise users would have non-restrictive access for publishing a pattern, 
+which would allow sharing from the service itself 
+(similar to publishing on Ravelry, where we'd take a percentage for hosting their patterns), 
+and have extra features such as hand-editing or automated inclusion of their own brand.
 
 Another means of revenue, would be to offer commercial technical support contracts 
 and services. In that case, professional business (e.g. knitting magazine publishers)
 would pay for developement of a particular feature they would like to have.
-Similarily, we could sell certificates and trademark use to those businesses
-where we lift the restrictive attribution license, which allows them to publish
-patterns in book-format without citing HiDef Knits as the pattern generator. 
+
+The most straightforward approach of funding would be selling of our branded 
+merchandise, i.e., selling auto-generated patterns of garment design with 
+HiDef Knits software on our hosted service. The auto-generated patterns are part of the 
+cooperation research agreement with University of Iceland 
+(cf. [enclosed](RANNIS/coop_UI.pdf) letter of intent).
 
 There could also be a advertising-supported software approach taken, where we would 
 for instance partner up with a yarn manufacturer by proposing their yarn for a pattern. 
