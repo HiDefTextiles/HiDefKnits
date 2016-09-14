@@ -55,11 +55,11 @@
 ### Description
 Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
 ### Deliverables and results
-#1 Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
-#2 Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany. 
+1. Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
+2. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany. 
 ### Project tasks and participants
-#1 Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2017)
-#2 Brennan will showcase HiDef: Knits at 33C3 (December 2017)
+1. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2017)
+2. Brennan will showcase HiDef: Knits at 33C3 (December 2017)
 
 ## 9 Marketing #2
 ###### Responsible: Helga Ingimundardóttir
@@ -67,9 +67,9 @@ Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
 ### Description
 Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
 ### Deliverables and results
-#1 Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
-#2 Participate in Nordic Knitting Conference that is held annually at Nordic Heritage Museum in Seattle, Washington, USA.
+1. Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
+2. Participate in Nordic Knitting Conference that is held annually at Nordic Heritage Museum in Seattle, Washington, USA.
 ### Project tasks and participants
-#1 Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2018)
-#2 Helga will showcase HiDef: Knits at Nordic Knitting Conference (November 2018)
+1. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2018)
+2. Helga will showcase HiDef: Knits at Nordic Knitting Conference (November 2018)
 
