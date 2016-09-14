@@ -469,7 +469,7 @@ Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
-**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef Knits 
+**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits 
 and will be a research collaborator regarding machine learning on 
 auto-genating knitwear patterns.
 Tómas is a professor within the School of Engineering and Natural Sciences, 
@@ -481,15 +481,12 @@ See (CV)[RANNIS/cv_tpr.pdf] for details.
 Tómas will supervise a Masters student on this research collaboration, 
 and Helga will co-supervise.
 
-**Páll Kristján Pálsson** has advisory role to HiDef Knits.
-Páll was director of *NSA VENTURES* (Nýsköpunarsjóðs atvinnulífsins)
-in 1997-1999 and now teaches innovation, entrepreneurship, product development 
+**Páll Kristján Pálsson** has advisory role to HiDef: Knits.
+Páll teaches innovation, entrepreneurship, product development 
 and marketing at University of Iceland. 
+He has been on the board of several start-ups. See (CV)[RANNIS/cv_pkp.pdf] for details.
 Páll is currently the general manager of *GLÓFI*, which is a leader in the
 development and commercial manufacturing of woolen knitwear in Iceland.
-GLÓFI produces mostly for its own brand, VARMA, but also for other 
-designers and companies under their brands such as Cintamani, Farmers Market, 
-Vík Prjónsdóttir, Andrea by Andrea and Júniform.
 
 **Áslaug Einarsdóttir** has advisory role to HiDef: Knits. 
 Áslaug is retired, but in the past she worked as a tailor before starting her 
@@ -505,7 +502,7 @@ Since retiring in 2005, Áslaug has limited herself to personal handknits.
 
 ###### If the case of a cooperative, describe the nature of the partnership and value for the project. Please describe the role of all partners project. Describe cooperation both with domestic and foreign partners.
 
-The collaboration with University of Iceland is to auto-generate knitting 
+The collaboration with **University of Iceland** is to auto-generate knitting 
 garments that would be considered aesthetically pleasing. 
 Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
 will supervise a masters student in computational engineering
@@ -518,8 +515,13 @@ The objective is to publish and present the research at the conference series
 Learning and Intelligent Optimization (LION), and submit a paper to an 
 ISI publication such as Journal of Heuristics.
 
+Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufacturer in Iceland. 
+Glófi produces mostly for its own brand, VARMA, but also for other 
+designers and companies under their brands such as Cintamani, Farmers Market, 
+Vík Prjónsdóttir, Andrea by Andrea and Júniform.
+Our collaboration with Glófi will help us scale-up and meet the needs of commercial knitting manufacturers.
 
-**Ragnheiður “*Ragga*” Eiríksdóttir** has agreed to be a beta-tester for HiDef Knits 
+**Ragnheiður “*Ragga*” Eiríksdóttir** has agreed to be a beta-tester for HiDef: Knits 
 (cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation)
 with emphasis on pattern readability meant for handknitting. 
 Ragga owns and operates *KNITTING ICELAND*, that publishes publishes 
@@ -534,10 +536,10 @@ such as Stephen West of Westknits and Steven Mark Berg of StevenBe.
 Ragga's connections to the knitting scene and knowledge of publishing
 will be invaluble for the marketing and developement of HiDef: Knits.
 
-**Fanney Svansdóttir** has agreed to be a beta-tester for HiDef Knits 
+**Fanney Svansdóttir** has agreed to be a beta-tester for HiDef: Knits 
 (cf. [enclosed](RANNIS/coop_Fanney.pdf) declaration of cooperation)
 with emphasis on patterns meant for domestic machine knitting. 
-Fanney owns and opperates *YLUR*, a knitwear company located in Selfoss, Iceland.
+Fanney owns and operates *YLUR*, a knitwear company located in Selfoss, Iceland.
 Ylur's production is a combination of domestic machine knitting
 and handknitting finishing. 
 
