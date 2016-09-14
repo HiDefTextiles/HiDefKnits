@@ -449,7 +449,7 @@ project progress and report to RANNÍS.
 **Dr. Helga Ingimundardóttir** is the project manager for HiDef: Knits and 
 the core-developer of HiDef Knit's back-end. 
 Helga holds a PhD in Computational Engineering from the University of Iceland, 
-and has BSc. degree in Mathematics. 
+and has BSc. degree in Mathematics. See (CV)[RANNIS/cv_hi.pdf] for details.
 
 Helga was software developer at Valka ehf. from 2012-2015, 
 where she was lead developer on software for a X-Ray guided cutting
@@ -482,13 +482,23 @@ Brennan’s two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
 OS is a security-oriented operating system. Both MailPile and Qubes OS are FOSS.
 
-**Dr. Tómas Philip Rúnarsson** TODO bio
+**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef Knits 
+and will be a research collaborator regarding machine learning on 
+auto-genating knitwear patterns.
+Tómas is a professor within the School of Engineering and Natural Sciences, 
+at the University of Iceland. 
+He is the head of the department of Industrial Engineering and 
+an associated editor for the IEEE Transactions on Evolutionary Computation, 
+and the new IEEE Transactions on Computational Intelligence and AI in Games. 
+See (CV)[RANNIS/cv_tpr.pdf] for details.
+Tómas will supervise a Masters student on this research collaboration, 
+and Helga will co-supervise.
 
-**Páll Kristján Pálsson** has advisory role to HiDef: Knits.
-Páll was director of NSA VENTURES (Nýsköpunarsjóðs atvinnulífsins)
+**Páll Kristján Pálsson** has advisory role to HiDef Knits.
+Páll was director of *NSA VENTURES* (Nýsköpunarsjóðs atvinnulífsins)
 in 1997-1999 and now teaches innovation, entrepreneurship, product development 
 and marketing at University of Iceland. 
-Páll is currently the general manager of GLÓFI, which is a leader in the
+Páll is currently the general manager of *GLÓFI*, which is a leader in the
 development and commercial manufacturing of woolen knitwear in Iceland.
 GLÓFI produces mostly for its own brand, VARMA, but also for other 
 designers and companies under their brands such as Cintamani, Farmers Market, 
@@ -496,7 +506,7 @@ Vík Prjónsdóttir, Andrea by Andrea and Júniform.
 
 **Áslaug Einarsdóttir** has advisory role to HiDef: Knits. 
 Áslaug is retired, but in the past she worked as a tailor before starting her 
-own knitwear company ICESHEEP in the 1970s. 
+own knitwear company *ICESHEEP* in the 1970s. 
 Áslaug was the primary knitwear designer working mostly with lopi. 
 Since retiring in 2005, Áslaug has limited herself to personal handknits.
 
@@ -521,9 +531,11 @@ The objective is to publish and present the research at the conference series
 Learning and Intelligent Optimization (LION), and submit a paper to an 
 ISI publication such as Journal of Heuristics.
 
-Ragnheiður “*Ragga*” Eiríksdóttir has agreed to be a beta-tester for HiDef: Knits 
-(cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation). 
-Ragga owns and operates *Knitting Iceland*, that publishes publishes 
+
+**Ragnheiður “*Ragga*” Eiríksdóttir** has agreed to be a beta-tester for HiDef Knits 
+(cf. [enclosed](RANNIS/coop_Ragga.pdf) declaration of cooperation)
+with emphasis on pattern readability meant for handknitting. 
+Ragga owns and operates *KNITTING ICELAND*, that publishes publishes 
 knitting-related material, such as books and tutorial DVDs. 
 Ragga has published several knitting books, such as Prjóniprjón, and 
 offers an extensive collection on Ravelry of self-published patterns.
@@ -534,6 +546,13 @@ Ragga has collaborated with world renowned knitting designers,
 such as Stephen West of Westknits and Steven Mark Berg of StevenBe.
 Ragga's connections to the knitting scene and knowledge of publishing
 will be invaluble for the marketing and developement of HiDef: Knits.
+
+**Fanney Svansdóttir** has agreed to be a beta-tester for HiDef Knits 
+(cf. [enclosed](RANNIS/coop_Fanney.pdf) declaration of cooperation)
+with emphasis on patterns meant for domestic machine knitting. 
+Fanney owns and opperates *YLUR*, a knitwear company located in Selfoss, Iceland.
+Ylur's production is a combination of domestic machine knitting
+and handknitting finishing. 
 
 
 3.3. Budget
