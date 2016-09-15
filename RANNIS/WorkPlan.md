@@ -1,21 +1,28 @@
 # Work plan for HiDef: Knits
 
-## 1 Software architecture
+## 1 Project scoping
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: month 1
 
 ### Description
+Software architecture decided for HiDef: Knits
 
 ### Deliverables and results
+1.	Back-end engineering 
+2.	Front-end engineering 
+3.	3D modelling
 
 ### Project tasks and participants
+1.	Back-end engineering core-developer is Helga Ingimundardóttir
+2.	Front-end engineering core-developer is Brennan Novak
+3.	3D modelling core-developer is Ólafur Þór Magnússon
 
 ## 2 Silhouette design #1
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: months 2-6
 
 ### Description
-Structural elements to the garment silhouette (closed sweaters)
+Structural elements to the garment silhouette of pullovers (i.e. closed sweaters)
 
 ### Deliverables and results
 1.	Sizing and fitting
@@ -39,7 +46,7 @@ Helga Ingimundardóttir is the core developer of all silhouette design.
 ###### Time period: months 19-24
 
 ### Description
-Structural elements to the garment silhouette for a cardigans (open sweaters)
+Structural elements to the garment silhouette of cardigans (i.e. open sweaters)
 
 ### Deliverables and results
 1.	Neckline
@@ -57,9 +64,7 @@ Helga Ingimundardóttir is the core developer of all silhouette design.
 5.	Buttonholes
 
 ## 4 Stitches: Texture & Finishing
-
 ###### Responsible: Helga Ingimundardóttir
-
 ###### Time period: months 7-12
 
 ### Description
