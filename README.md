@@ -286,39 +286,46 @@ efforts were for pattern design for sewing.
 ###### Lýsið tæknilegum og hönnunarlegum áskorunum sem eru fólgnar í þróun afurðarinnar.
 
 ###### Describe technical and design challenges bearings, which involve the development product.
-	
-TODO
-	
-1.	Creating a software architecture that is scalable to be flexible enough
-	to create custom stitches, and how to effectively mix and match stitches
-	such that the pattern repeats harmonize. 
 
-2.  Given the number of knitting visualising software out there, and most 
-	forum posts on Ravelry discussing the pros and cons of those programs, 
-	the main complaint is poor user experience. The design isn't intuitive 
-	enough and the learning curve is too steep. As a result, many aspiring
-	designers are deterred of making the effort of streamlining the design 
-	process and continue to use graph paper and manual calculations of stitches. 
-	
-3.  Realizing 3D draping of a knitted garment on a 3D model, allowing the user
-    to preview the garment without having to create an actual sample and having
-    a model wear it. The draping will be based on shape and type of yarn chosen
-	as yarn weight can have unexpected effect of the draping which is hard for
-	designers to anticipate. 
+HiDef: Knits target audience is not computer savvy and the usage needs to be simple to implement. 
+Therefore hardware requirements or third party support needs to be minimal or easy to install.
+and sustainable in terms of few upgrades are required by our users.
+For this we suggest creating a light version that is could be run on mobile devices or tablets, 
+but full functionalities as desktop web-application. 
+Therefore, the back-end engineering needs to be flexible enough to cater to both of those 
+architectures.
 
-4.  Software sustainability, the target audience is not computer savvy 
-	and the usage needs to be simple to implement. 
-	Therefore hardware requirements or third party support 
-	needs to be minimal or easy to install.
-		
-5.  Auto-generated patterns. 
-	Machine Learning on what is considered aesthetically pleasing knitwear.
-	Here the learning algorithm would be based on Ravelry patterns, where
-	the features are pattern difficulty ranking, users' project status statistics,
-	pattern attributes, and imagery to name a few.
-	Using the models there would be auto-generated patterns, where high-scoring 
-	ones would be uploaded to Ravelry as a mean of income source for HiDef: Knits
-	continued development.
+Given the number of knitting visualising software out there, and most 
+forum posts on Ravelry discussing the pros and cons of those programs, 
+the main complaint is poor user experience. The design isn't intuitive 
+enough and the learning curve is too steep. As a result, many aspiring
+designers are deterred of making the effort of streamlining the design 
+process and continue to use graph paper and manual calculations of stitches. 
+Therefore an intuitive user interface and good user experience is key
+for the success of HiDef: Knits.
+
+To help with user experience, realizing draping of a knitted garment on a 3D model
+will allow the user to preview the garment without having to create an actual sample and having a model wear it. 
+The draping will be based on shape and type of yarn chosen as yarn weight can have unexpected effect of the draping which is hard for designers to anticipate. 
+The objective of the 3D model is to incorporate movement as well, 
+because many faults of unexperienced designers is to create a garment 
+that might look pretty and fitting but the design is so constrained 
+that it is uncomfortable to wear. 
+By watching the 3D model move you could spot those problematic designs flaws beforehand.
+
+Regarding garment design and grading, when there are custom stitch patterns used
+there needs to be care in how to effectively mix and match stitches such that the pattern repeats harmonize. 
+Here the 3D modelling will also help with showcasing how different pattern pieces work together
+and choice of finishing techniques (e.g. bind-off, cast-on, decreases, increases) effect the overall look of the garment.
+	
+The research project with University of Iceland is challenging optimization problem
+with respect to aesthetics and functionality of knitwear patterns. 
+Data will be obtained from Ravelry, and learning algorithm's features will be 
+based on pattern difficulty ranking, users' project status statistics,
+pattern attributes, and imagery to name a few.
+The optimization model will then be used to auto-generated knitting patterns, 
+where high-scoring ones would be uploaded and sold on HiDef: Knits hosting service
+as a mean of income source for HiDef: Knits continued development.
 
 
 2.3. Derived opportunity (Spin-off)
@@ -420,7 +427,7 @@ machine that automatically removes pin bones and cuts fish fillet to the desired
 portions. 
 Since 2015, Helga has work for AGR Dynamics as a SQL specialist for implementation 
 and customization on AGR's inventory optimization software. 
-See (CV)[RANNIS/cv_hi.pdf] for details.
+See [CV](RANNIS/cv_hi.pdf) for details.
 
 Helga is a fourth generation textile designer. Her grandparents owned and
 operated the knitwear manufacturing company ICESHEEP from 70s through 00s. Helga
@@ -436,7 +443,7 @@ Moreover, he has taken several advanced character animation trainings from iAnim
 Ólafur has worked as a visual effects artist at RVX, 
 3D artist and animator at Clockwork Alien Games, 
 3D Modeler and texturer at inHouse, 
-and he is currently a character animator at CAOZ Ltd. See (CV)[RANNIS/cv_otm.pdf] for details.
+and he is currently a character animator at CAOZ Ltd. See [CV](RANNIS/cv_otm.pdf) for details.
 
 **Brennan Novak**, an American national based in Berlin, and is the core-developer
 of the user interface.
@@ -458,22 +465,19 @@ and a masters of tax administration from Bifröst in 2011.
 He is currently the CEO at Talnaberg ehf., an accountant firm in Iceland. 
 Árni will be the CFO and operation talent for HiDef: Knits.
 
-**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits 
-and will be a research collaborator regarding machine learning on 
-auto-generating knitwear patterns.
-Tómas is a professor within the School of Engineering and Natural Sciences, 
-at the University of Iceland. 
-He is the head of the department of Industrial Engineering and 
-an associated editor for the IEEE Transactions on Evolutionary Computation, 
-and the new IEEE Transactions on Computational Intelligence and AI in Games. 
+**Dr. Tómas Philip Rúnarsson** has advisory role to HiDef: Knits
+and will be a research collaborator regarding machine learning and optimization 
+of auto-generating knitwear patterns.
+Tómas is a professor of Operations Research within the School of Engineering and Natural Sciences,
+at the University of Iceland.
 See (CV)[RANNIS/cv_tpr.pdf] for details.
-Tómas will supervise a Masters student on this research collaboration, 
+Tómas will supervise a Masters student on this research collaboration,
 and Helga will co-supervise.
 
 **Páll Kristján Pálsson** has advisory role to HiDef: Knits.
 Páll teaches innovation, entrepreneurship, product development 
 and marketing at University of Iceland. 
-He has been on the board of several start-ups. See (CV)[RANNIS/cv_pkp.pdf] for details.
+He has been on the board of several start-ups. See [CV](RANNIS/cv_pkp.pdf) for details.
 Páll is currently the general manager of *GLÓFI*, which is a leader in the
 development and commercial manufacturing of woolen knitwear in Iceland.
 
@@ -517,18 +521,17 @@ Páll Kr. Pálsson is our contact at **GLÓFI**, a commercial knitting manufactu
 Glófi produces mostly for its own brand, VARMA, but also for other designers and companies under their brands such as Cintamani, Farmers Market, Vík Prjónsdóttir, Andrea by Andrea and Júniform.
 Our collaboration with Glófi will help us better understand the commercial market and further learn how make our HiDef: Knits suit the needs of that market
 
-The collaboration with **University of Iceland** is to auto-generate knitting 
-garments that would be considered aesthetically pleasing. 
-Dr. Tómas Philip Rúnarsson, professor at University of Iceland, 
+The collaboration with **University of Iceland** is to auto-generate knitting
+garments that would be optimized with respect to aesthetics and functionality.
+Dr. Tómas Philip Rúnarsson, professor at University of Iceland,
 will supervise a masters student in computational engineering
-(position to be advertised for the school year 2017-18). 
-The research project is machine learning based on identifying and 
-extrapolating key features that identify with popular patterns on Ravelry. 
-The feature can be text sentiments analysis in conjunction with image pattern analysis.  
-Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student.  
-The objective is to publish and present the research at the conference series
-Learning and Intelligent Optimization (LION), and submit a paper to an 
-ISI publication such as Journal of Heuristics.
+(position to be advertised for the school year 2017-18).
+The research project is machine learning based on identifying and
+extrapolating key features that identify with popular patterns on Ravelry.
+The feature can be text sentiments analysis in conjunction with image pattern analysis. 
+Patterns detected will be constrained by optimizing them with respect to functionality.
+Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise the MSc student. 
+
 
 3.3. Budget
 -----------
@@ -604,7 +607,7 @@ available with the source code. Then on the hosted solution we could offer
 both regular and enterprise subscriptions.
 Since this product is aimed at self-employed designers or personal use the price
 for accessing the hosted services is not fully determined. 
-Either by a flat-fee for using HiDef: Knits with price range of $25-$30 per user a year 
+Either by a flat-fee for using HiDef: Knits with price range of $20-$30 per user a year 
 (similar pricing as a knitting handbook),
 or we would adopt in-app purchases; where we charge per library modules 
 (i.e. sleeves silhouettes, collars, bind-off techniques, etc.). 
@@ -640,15 +643,25 @@ photography, etc.
 
 ###### Give an account of how to bring a product to market (including methodology, estimated market share, financing and production). Describe the market context and capacity of the applicants to bring the product to market. What is the main commercially uncertainty in the project?
 
-TODO	
-	
-1.  Ravelry, user base 6.45mi.
-	Note, Iceland is leading the way with an estimated 346 Ravelers per 10,000 Icelanders! (cf. [http://www.ravelry.com/about/fourmillion](http://www.ravelry.com/about/fourmillion))
-	Or 346*332,529/10,000~=11,838 Icelanders with Raverly accounts.	17,500 on Handóðir Prjónarar.
-	
-2.  International knitting conferences / workshops
-	*   CCC Conferences for open source people
-	*   Handverk og Hönnun at Reykjavik City Hall
+Initially HiDef: Knits will presented at the annual craft- and trade-show *Handverk og Hönnun* at Reykjavík City Hall
+and offer a demonstration for members of Heimilisiðnaðarfélag Íslands.
+Subsequently, HiDef: Knits will be presented abroad at textiles expos, knitting workshops and conferences.
+
+CCC, Europe's largest association of computer hackers, organizes an annual "Congress" in Hamburg, Germany that attracts numerous makers, tinkers, and craft people from all over the globe. We anticipate showcasing HiDef: Knits at this event as as well as other free and open source software events around Europe and the US, such as FOSDEM in Brussels and OpenSource Bridge in Portland, OR.
+
+Moreover, we will be submitting a research paper of our findings on the research collaboration with University of Iceland 
+at the annual Learning and Intelligent OptimizatioN (LION) conference series. 
+We believe this quirky combination between academia and knitting will be likely to be talked about and get media attention and establish the HiDef: Knits brand.
+
+Primary marketing efforts will be done via social media and knitting forums.
+We will focus our efforts to Icelandic Facebook knitting groups such as:
+*Handóðir Prjónarar* (with 17,000 users), *Prjónaklúbbur Jónu* (with 9,000 users) and *Prjónavélaklúbburinn* (with 1,000 users)
+but internationally we will target designer forums on *Ravelry* (with 6.45 million users).
+Based on statistics[[9]](#_ftn9) from Ravelry user database, there are 346 Ravelers per 10,000 Icelanders or approximately 12,000 Icelandic Ravelers.
+We estimate a modest market share of 0.5-1‰ internationally and 1-5% in Iceland, this would mean approximately 3,000-7,500 users of HiDef: Knits software in future
+(thereof 170-850 Icelandic subscribers). 
+For an yearly subscription fee of the services of $24 this could yield revenue of 9.5-23 million ISK a year in addition to other means of funding discussed in section 4.1.
+
 
 4.3. General value
 ------------------
@@ -711,26 +724,24 @@ neuropsychiatry and clinical neurosciences* 23.2 (2011): 149-154.
 because frogs say “rip it, rip it.”
 
 [[3]](#_ftn3) Foundation for a Free Information Infrastructure. 
-"Patentability and Democracy in Europe". 
+"Patentability and Democracy in Europe". From 
 [http://swpat.ffii.org/index.en.html](http://swpat.ffii.org/index.en.html).
 Retrived: 2016-09-12.
 
 [[4]](#_ftn4) Fair-isle knitting is when multiple colors are knitted
 simultaneously over a single row.
 
-[[5]](#_ftn5) Ravelry forum discussion on pricing:
+[[5]](#_ftn5) Casey Forbes (June, 2013), *Ravelry forum discussion on pricing*
 [http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25\#12](http://www.ravelry.com/discuss/for-the-love-of-ravelry/2612404/1-25#12). 
-Retrived: 2016-09-10.
 
-[[6]](#_ftn6) Woolly Wormhead, "The true cost of a pattern."
-[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html). 
-Retrived: 2016-09-10.
+[[6]](#_ftn6) Woolly Wormhead (2014, September), "The true cost of a pattern."
+[http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html](http://www.woollywormhead.com/blog/2014/9/17/the-true-cost-of-a-pattern.html).
 
-[[7]](#_ftn7) Stephanie Tallant, "Software Review: Stitchmastery Knitting Chart Editor"
-[http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/](http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/). 
-Retrived: 2016-09-10.
+[[7]](#_ftn7) Stephanie Tallant (2011, May), "Software Review: Stitchmastery Knitting Chart Editor"
+[http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/](http://www.sunsetcat.com/2011/11/05/software-review-stitchmastery-knitting-chart-editor/).
 
-[[8]](#_ftn8) Stephanie Tallant, "Chartmaking Software Review: EnvisioKnit"
+[[8]](#_ftn8) Stephanie Tallant (2011, July), "Chartmaking Software Review: EnvisioKnit". From
 [http://www.sunsetcat.com/2011/07/12/chartmaking-software-review-envisioknit/](http://www.sunsetcat.com/2011/07/12/chartmaking-software-review-envisioknit/). 
-Retrived: 2016-09-10.
 
+[[9]](#_ftn9) Ravelry (2014, February), "4 out of every 100 Ravelers are cats". From
+[http://www.ravelry.com/about/fourmillion](http://www.ravelry.com/about/fourmillion).
