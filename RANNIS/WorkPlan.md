@@ -1,4 +1,4 @@
-# Workplan for HiDef: Knits
+# Work plan for HiDef: Knits
 
 ## 1 Software architecture
 ###### Responsible: Helga Ingimundardóttir
@@ -57,10 +57,16 @@
 ###### Time period: months 6-9
 
 ### Description
+3D rendering of the garments being designed
 
 ### Deliverables and results
+1.	3D modelling of garment on mannequin based on body measurements. Fixed position.
+2.	3D modelling of the texture of stitch pattern.
+3.	3D modelling of the draping of the garment with respect to yarn type.
+4.	3D modelling of garment where the mannequin is on movement.
 
 ### Project tasks and participants
+Ólafur Þór Magnússon is the core developer of all 3D modelling deliverables.
 
 ## 7 University of Iceland Research Project
 ###### Responsible: Tómas Philip Rúnarsson
@@ -85,10 +91,10 @@ The collaboration with University of Iceland and HiDef: Knits is to auto-generat
 ###### Time period: months 10-12
 
 ### Description
-Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
+Hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
 
 ### Deliverables and results
-1. Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
+1. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
 2. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany. 
 
 ### Project tasks and participants
@@ -100,10 +106,10 @@ Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
 ###### Time period: months 21-24
 
 ### Description
-Hands-on marketing for HiDef: Knits will be at tradeshows and conferences.
+Hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
 
 ### Deliverables and results
-1. Participate in Handverk og Hönnun, an annual craft- and tradeshow at Reykjavík City Hall.
+1. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
 2. Participate in Nordic Knitting Conference that is held annually at Nordic Heritage Museum in Seattle, Washington, USA.
 
 ### Project tasks and participants
