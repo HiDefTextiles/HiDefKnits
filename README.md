@@ -172,7 +172,6 @@ follow, let alone use the appropriate terminology and abbreviations. The objecti
 improved knitting experience as there is minimal painstaking assembly process
 due to forgotten structural elements.
 
-According to the Foundation for a Free Information Infrastructure, software patents should not exist under European law.[[3]](#_ftn3) Moreover, all of HiDef: Knits features are based on known processes, and will be developed and licensed as free and open-source software (FOSS), therefore there is no grounds for a patents needed.
 
 
 2 Novelty
@@ -367,23 +366,13 @@ Ylur has agreed to be a beta-tester for HiDef: Knits.
 
 ###### Describe your business plan on how to be a possible intangible property (patent, trademark protection, design) obtained from the project.
 
-A principal of the designers of HiDef: Knits create free and open source software
-(FOSS). This means that everyone is free to use, copy, and change the software
-in any way. It also means that the source code is openly available so others can
-contribute to and audit it.
+According to the Foundation for a Free Information Infrastructure, software patents should not exist under European law.[[3]](#_ftn3) Moreover, all of HiDef: Knits features are based on known processes, and will be developed and licensed as free and open-source software (FOSS), therefore there is no grounds for a patents needed.
 
-Given the nature of how many of past knitwear software solutions have either 
-discontinued development or are rarely updated, and are therefore become 
+A strong principal of the creators of HiDef: Knits is to create free and open source software (FOSS). Given the nature of how many of past knitwear software solutions have either discontinued development or are rarely updated, and therefore become 
 obsolete in terms of hardware and software requirements.
-We believe that creating a solution that is FOSS will benefit future users.
-Therefore even if we decide to not support the solution any longer by cutting
-updates or no longer releasing patches, the knowledge gained by the project will
-not be lost and could be picked up by other knit-programmers-enthusiasts in 
-future.
 
-Moreover, open source software is typically much less resource-intensive than
-their proprietary counterpart, meaning that you can run it well even on older
-hardware.
+We believe that creating a solution that is FOSS will benefit future users and knitting communities the world over. Therefore even if we decide to not support the solution any longer by cutting updates or no longer releasing patches, the knowledge gained by the project will not be lost and could be picked up by other knit-programmers-enthusiasts in 
+future.
 
 Along similar lines, users can take a piece of the open source software and
 tweak it to suit their needs. Since the code is open, it's simply a matter of
