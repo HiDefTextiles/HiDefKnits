@@ -287,17 +287,12 @@ efforts were for pattern design for sewing.
 
 ###### Describe technical and design challenges bearings, which involve the development product.
 
-HiDef: Knits target audience is not computer savvy and the usage needs to be simple to implement. 
-Therefore hardware requirements or third party support needs to be minimal or easy to install.
-and sustainable in terms of few upgrades are required by our users.
-For this we suggest creating a light version that is could be run on mobile devices or tablets, 
-but full functionalities as desktop web-application. 
-Therefore, the back-end engineering needs to be flexible enough to cater to both of those 
-architectures.
+HiDef: Knits target audience is not computer savvy and the usage needs to be simple to implement. Therefore hardware requirements or third party support needs to be minimal or easy to install and sustainable in terms of few upgrades are required by our users.
+For this we plan to create a light version that could be run on tablets, but full functionalities as desktop web-application. Therefore, the back-end server engineering and shared libraries needs to be flexible enough to cater to both of those architectures.
 
-Given the number of knitting visualising software out there, and most 
+Given the number of knitting visualization software out there, and most 
 forum posts on Ravelry discussing the pros and cons of those programs, 
-the main complaint is poor user experience. The design isn't intuitive 
+the main complaint is poor user experience- the design isn't intuitive 
 enough and the learning curve is too steep. As a result, many aspiring
 designers are deterred of making the effort of streamlining the design 
 process and continue to use graph paper and manual calculations of stitches. 
@@ -342,13 +337,13 @@ especially crochet (that is not currently addressed in the market).
 Moreover, it should be relatively straight forward to translate
 the software for woven textiles, where the shaping would be done via burst
 seams or gathers. 
-Note, that since the project is developed as FOSS, outside parties would be
+Note, that since the project is developed as free and open source, outside parties would be
 able to build upon the HiDef: Knits framework, not necessarily for textiles 
-production. For instance, gaming developers could strip down the knitting 
+production, but for instance, gaming developers could strip down the knitting 
 intricacies away from the program and just use the 3D modelling of garments 
 as a standalone program for more varied avatars. 
 
-Direct usage of HiDef: Knits software would renders a knitting pattern based
+Direct usage of HiDef: Knits software would render a knitting pattern based
 on the users design. 
 The designer is free to publish the pattern for others to use, either free of 
 charge or commercially. 
