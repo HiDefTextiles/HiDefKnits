@@ -24,7 +24,7 @@ Current knitting related apps on the market aren't sophisticated enough to gener
 
 The HiDef: Knits app will incorporate all of these components and ideas into a holistic intuitive solution that enables aspiring and experienced designers alike to create bespoke knitting patterns. Additionally, HiDef: Knits will uniquely offer a 3D rendered preview of the newly designed knitwear draped over a mannequin that matches user specified measurements complete with proposed yarn and weave.
 
-Additionally, all HiDef Textiles software will be developed as free and open-source software (FOSS), which means that everyone is free to use, copy, and change the software in any way for their needs. This also means that the source code is openly available so others can contribute ideas, audit the code, and help it evolve and grow overtime. We believe this is ethically aligned with the "openness" of knitting and other textile arts which evolved from folk traditions that have been passed down for thousands of years in every culture on the planet.
+Additionally, all HiDef Textiles software will be developed and released as free and open-source software (FOSS), which means that everyone is free to use, copy, and change the software "source" code in any way to custom fit their needs. We believe this is ethically aligned with the "openness" of knitting and other textile arts which evolved from folk traditions that have been passed down for thousands of years in every culture on the planet.
 
 
 1 Description of the project
@@ -144,7 +144,11 @@ there are no joins needed to connect the front and back pieces together.
 
 ###### Please describe the state of knowledge (e. State of the art) domestically and abroad in the areas for the project and how the project can add existing knowledge in the relevant field.
 
-TODO
+To truly understand just how important open source has been in shaping the modern tech startup powered world, look at your smart phone for a second. If your phone runs Android, it wouldn't exist without open source software. Android is [the most popular operating system](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems) in the world and it is open source. Next, look at your favorite apps that you depend on daily. If Facebook, Twitter, Instagram, Slack, AirBnB, or Gmail are among those apps, those would cease to run if not for open source software working behind the scenes. When large tech companies in Sillicon Valley are acquired for vast sums of money, it is seldom talked about just how integral open source played in allowing these companies to sprout up as quickly as they did. It was recently estimated that [at least $143M of Instagram’s $1B acquisition](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681) (that's 15% of Instagram's value) came from open source components. Software engineers who choose to work in open source as opposed to proprietary companies (like Microsoft) become intimately aware of the universe of open source tools, libraries, and frameworks that are available to them which makes development time easier and faster.
+
+When it comes to algorithm design, machine learning, and software that deals with complexity and optimizations (like an app such as HiDef: Knits) it is important to keep close ties to academia as new techniques and optimizations often emerge and can be leveraged into new features. Most academic research participates in open source in order for effective peer review to occur. Thus, building HiDef: Knits with open source at it's core will allow greater ease of integration with cutting edge research as it is discovered and published. Keeping a close eye on and relationship with acamdemia will pave the way for future feature development such as clever suggestions to the garment designer. Imagine an "auto-complete" for a new pattern design.
+
+Lastly, by being an open source project, HiDef: Knits will be available to the world in a unique way that many tech startups are not. This "openess" will allow others to contribute ideas, audit the code, and explore the overall concept, app, and web platform as it evolves and grows over time in ways that closed source proprietary software cannot. The licensing and overall culture of open source software is a very "hands on" engaged process. When app users get to feel a part of and apps creation they often yield wonderful ideas and feedback, which dovetails really nicely with conducting usability studies and making user experience improvements. This is crucial in getting accurate input, reaching optimal consensus from  users, and then perfecting the product offerings over time.
 
 
 1.3. Project status
@@ -155,8 +159,7 @@ TODO
 ###### Give an account of the work that has taken place before the decision to start the project. Have a technical or market pilot study been conducted? have freedom of action have been investigated in search of patent databases?
 
 After consulting 200 Icelandic knitters only 82% had designed a garment for themselves and of this 82% only 10% of those have published their patterns. 
-The remaining 18% did not consider themselves designers. The majority built their work on existing patterns in terms of calculating the number of stitches needed. Some created their garments on the fly and as a result of their undocumented approach their designs were
-not repeatable. Generally, designers write down calculations with a pen and graph paper,
+The remaining 18% did not consider themselves designers. The majority built their work on existing patterns in terms of calculating the number of stitches needed. Some created their garments on the fly and as a result of their undocumented approach their designs werenot repeatable. Generally, designers write down calculations with a pen and graph paper,
 but this is often done in an erratic way such that they didn't feel comfortable in publishing their work with others. Those who published their work mostly used Excel to manage
 their calculations and offered a grading of sizes.
 
