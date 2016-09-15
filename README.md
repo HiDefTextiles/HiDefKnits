@@ -24,7 +24,7 @@ Current knitting related apps on the market aren't sophisticated enough to gener
 
 The HiDef: Knits app will incorporate all of these components and ideas into a holistic intuitive solution that enables aspiring and experienced designers alike to create bespoke knitting patterns. Additionally, HiDef: Knits will uniquely offer a 3D rendered preview of the newly designed knitwear draped over a mannequin that matches user specified measurements complete with proposed yarn and weave.
 
-Additionally, all HiDef Textiles software will be developed and released as free and open-source software (FOSS), which means that everyone is free to use, copy, and change the software "source" code in any way to custom fit their needs. We believe this is ethically aligned with the "openness" of knitting and other textile arts which evolved from folk traditions that have been passed down for thousands of years in every culture on the planet.
+Additionally, all HiDef software will be developed and released as free and open-source software (FOSS), which means that everyone is free to use, copy, and change the software source code in any way to custom fit their needs. We believe this is ethically aligned with the *openness* of knitting and other textile arts which evolved from folk traditions that have been passed down for thousands of years in every culture on the planet.
 
 
 1 Description of the project
