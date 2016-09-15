@@ -117,7 +117,7 @@ Helga Ingimundardóttir is the core developer of all pattern instruction deliver
 ###### Time period: months 5-17
 
 ### Description
-Creating the look and feel as well as making the app easy to use for targeted user bases
+Creating the look and feel of HiDef Textiles and HiDef: Knits, as well as making the app easy to use for targeted user bases
 
 ### Deliverables and results
 1.	Create branding identity and styleguide for the company and app
@@ -128,6 +128,10 @@ Creating the look and feel as well as making the app easy to use for targeted us
 6.	Perform usability studies with alpha version of app
 
 ### Project tasks and participants
+1.	Brennan Novak will be acting as design director and all things user experience
+2.	User studies with Icelandic knitting community
+3.	User studies with Berlin independent fashion boutique designers
+4.	Open sourcing of all design assets
 
 ## 7 3D modelling
 ###### Responsible: Ólafur Þór Magnússon
