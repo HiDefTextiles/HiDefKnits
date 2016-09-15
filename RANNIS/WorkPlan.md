@@ -67,10 +67,18 @@
 ###### Time period: months 9-15
 
 ### Description
+The collaboration with University of Iceland and HiDef: Knits is to auto-generate knitting garments that would be optimized with respect to aesthetics and functionality. 
 
 ### Deliverables and results
+1.	Dr. Tómas Philip Rúnarsson will supervise a masters student in computational engineering.
+2.	Machine learning based on identifying and extrapolating key features that identify with popular patterns on Ravelry
+3.	Publish research findings.
 
 ### Project tasks and participants
+1.	Dr. Tómas Philip Rúnarsson, professor at University of Iceland, will supervise a masters student, whose position will be advertised for the school year 2017-18.
+	Dr. Helga Ingimundardóttir of HiDef: Knits, will co-supervise.
+2.	The feature can be text sentiments analysis in conjunction with image pattern analysis. Patterns detected will be constrained by optimizing them with respect to functionality.
+3.	Submit conference paper to the annual Learning and Intelligent OptimizatioN conference series.
 
 ## 8 Marketing #1
 ###### Responsible: Helga Ingimundardóttir
