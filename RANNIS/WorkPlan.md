@@ -69,13 +69,20 @@ Helga Ingimundardóttir is the core developer of all pattern instruction deliver
 3.	Beta-testing in partnership with Fanney Svansdóttir of Ylur
 4.	Beta-testing in partnership with Glófur/VARMA
 
-## 5 UI/UX
+## 5 Design / UI / UX
 ###### Responsible: Brennan Novak
 ###### Time period: months 5-17
 
 ### Description
+Creating the look and feel as well as making the app easy to use for targeted user bases
 
 ### Deliverables and results
+1.	Create branding identity and styleguide for the company and app
+2.	Conduct user studies with multiple targeted userbases
+3.	Create wireframes of "designer" section of app
+4.	Create wireframes of "marketplace" section of app
+5.	Create renderings of app interface with styleguide
+6.	Perform usability studies with alpha version of app
 
 ### Project tasks and participants
 
@@ -93,7 +100,7 @@ Helga Ingimundardóttir is the core developer of all pattern instruction deliver
 4.	3D modelling of garment where the mannequin is on movement.
 
 ### Project tasks and participants
-Ólafur Þór Magnússon is the core developer of all 3D modelling deliverables.
+Ólafur Þór Magnússon is the core developer of all 3D modeling deliverables.
 
 ## 7 University of Iceland Research Project
 ###### Responsible: Tómas Philip Rúnarsson
