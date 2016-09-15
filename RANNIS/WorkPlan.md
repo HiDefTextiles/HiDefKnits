@@ -27,11 +27,29 @@
 ###### Time period: months 7-12
 
 ### Description
+Texture design elements and finishes techniques for the garment silhouette designed in HiDef: Knits
 
 ### Deliverables and results
+1.	Translating measurements to stitches.
+2. 	Stitch library
+3.  Finishing techniques
+4.	Coloring arrangement (e.g. fair-isle)
 
 ### Project tasks and participants
-
+Helga Ingimundardóttir is the core developer and knitter of all stitches deliverables.
+1.	Translating measurements to stitches are based on the users gauge swatch of stockinette stitch.
+2.  Textures are denoted with knitting abbreviations standards.
+	Library consists of:
+	a. 	Ribbing
+	b.	Cable knit
+	c.	Lace knit
+3.  Finishing techniques:
+	a.	Cast-on
+	b.	Bind-off
+	c. 	Decreases/increases
+4.	Fair-isle support. For domestic machine-knitting there is a constraint of maximum number of 4 colors to be loaded to a machine.
+	This effects color discretization when uploading images to chart color conversion.
+	
 ## 4 Pattern Instructions
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: months 13-24
