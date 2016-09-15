@@ -213,7 +213,7 @@ the design process further, in particular in terms of pattern grading
 However, there is a web-based application called 
 [Prjónamunstur.is](http://prjonamunstur.is) and that is a good tool for 
 designing an Icelandic lopapeysa with your own fair-isle pattern. 
-There is even a 3D rendering of the garment, and with a downloadable
+There is even a simple 3D rendering of the garment, and with a downloadable
 PDF instruction of your design available in several languages. 
 Although this is similar to what HiDef: Knits will provide. 
 Prjónamynstur's drawback is that it only produces fair-isle blousons that 
@@ -238,7 +238,7 @@ relatively simple cable knits and fair-isle knitwear as they are meant for
 mass-production, hence detailed nuances of hand-knitting with a professional
 finish are not addressed as they are not efficient for such manufacturing. The
 CAD fashion software is essentially designing knit textiles to be made with
-industrial knitting machines, that are then **cut** and assembled just as is
+industrial knitting machines, that are then *cut* and assembled just as is
 done with normal woven fabrics. However, when dealing with hand-knits, each piece
 is knit from one continuous yarn, and only cut at the very end. Thus its shaping
 is determined by the choice of decreases and increases, and the choice of bind
@@ -348,12 +348,11 @@ of the HiDef: Knits solution, similar to Creative Commons license
 [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
 (CC BY 4.0).
 
-TODO
-
-**The designer can either publish the pattern for others to use or knit
-themselves.**
-
-**order for them to work yourself or knitted garment.**
+HiDef: Knits users can also use the pattern to create their garments to sell.
+This could be beneficial for those who knit for a living. 
+For instance, Ylur is a small Icelandic knitwear company that creates beautiful garments for children.
+Ylur's production is domestic machine knitting but with hand-knitted finishing touches. 
+Ylur has agreed to be a beta-tester for HiDef: Knits. 
 
 
 2.4. Intellectual property policy
@@ -409,27 +408,32 @@ Project manager is responsible for keeping track of project accounting and
 project progress and report to Rannís. 
 
 **Dr. Helga Ingimundardóttir** is the project manager for HiDef: Knits and 
-the core-developer of HiDef: Knits' back-end. 
+the core-developer of HiDef: Knits' back-end engineering. 
 Helga holds a PhD in Computational Engineering from the University of Iceland, 
-and has BSc. degree in Mathematics. See (CV)[RANNIS/cv_hi.pdf] for details.
-
+and has BSc. degree in Mathematics. 
 Helga was software developer at Valka ehf. from 2012-2015, 
 where she was lead developer on software for a X-Ray guided cutting
 machine that automatically removes pin bones and cuts fish fillet to the desired
 portions. 
 Since 2015, Helga has work for AGR Dynamics as a SQL specialist for implementation 
-and customization on AGR's inventory optimization software.
-Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
+and customization on AGR's inventory optimization software. 
+See (CV)[RANNIS/cv_hi.pdf] for details.
 
 Helga is a fourth generation textile designer. Her grandparents owned and
 operated the knitwear manufacturing company ICESHEEP from 70s through 00s. Helga
 is familiar with the design process for knitwear through ICESHEEP. Helga has
 also been known from designing and visualizing her own fair-isle patterns
 through MATLAB programming.
+Helga is the co-owner of Þóruson slf. and CEO of HiDef: Knits.
 
 **Ólafur Þór Magnússon** is the core-developer of the 3D modelling.
-
-TODO on Óli's backgroud
+Ólafur graduated with a Bachelor of Arts (BFA) from Academy of Art University in San Francisco, California in 2014.
+There he specialised in animation and visual effects (i.e. VFX).
+Moreover, he has taken several advanced character animation trainings from iAnimate.
+Ólafur has worked as a visual effects artist at RVX, 
+3D artist and animator at Clockwork Alien Games, 
+3D Modeler and texturer at inHouse, 
+and he is currently a character animator at CAOZ Ltd. See (CV)[RANNIS/cv_otm.pdf] for details.
 
 **Brennan Novak**, an American national based in Berlin, and is the core-developer
 of the user interface.
@@ -439,7 +443,7 @@ His skill sets mainly lies in interface design, user experience design,
 front-end engineering, web development, and branding. For the last sixteen years
 Brennan has worked for web startups, consulted for Fortune 100 companies (e.g.
 Nike), worked at advertising and digital agencies, as well as served individuals
-and small to medium sized businesses, as well co-founded TODO.
+and small to medium sized businesses, as well co-founded several FOSS projects.
 
 Brennan's two main projects in recent years have been MailPile and Qubes OS.
 MailPile is a self-hosted e-mail client with easy encryption support, and Qubes
