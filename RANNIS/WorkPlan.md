@@ -168,32 +168,35 @@ The collaboration with University of Iceland and HiDef: Knits is to auto-generat
 3.	Submit conference paper to the annual Learning and Intelligent OptimizatioN conference series.
 
 ## 9 Marketing #1
-###### Responsible: Helga Ingimundardóttir
+###### Responsible: Helga Ingimundardóttir and Brennan Novak
 ###### Time period: months 10-12
 
 ### Description
 Hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
 
 ### Deliverables and results
-1. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
-2. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany
+1. Create accounts and marketing material for social media sites (Twitter, Facebook, Instagram)
+2. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
+3. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany
 
 ### Project tasks and participants
 1. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2017)
-2. Brennan will showcase HiDef: Knits at 33C3 (December 2017)
+2. Brennan will showcase HiDef: Knits at 34C3 (December 2017)
 
 ## 10 Marketing #2
-###### Responsible: Helga Ingimundardóttir
+###### Responsible: Helga Ingimundardóttir and Brennan Novak
 ###### Time period: months 21-24
 
 ### Description
-Hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
+Create viral videos and perform hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
 
 ### Deliverables and results
-1. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
-2. Participate in Nordic Knitting Conference that is held annually at Nordic Heritage Museum in Seattle, Washington, USA.
+1. Create a short videos explaining and showing the app and platform in action
+2. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
+3. Participate in Nordic Knitting Conference that is held annually at Nordic Heritage Museum in Seattle, Washington, USA.
 
 ### Project tasks and participants
-1. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2018)
-2. Helga will showcase HiDef: Knits at Nordic Knitting Conference (November 2018)
+1. Distribute videos and other marketing material on internet
+2. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2018)
+3. Helga will showcase HiDef: Knits at Nordic Knitting Conference (November 2018)
 
