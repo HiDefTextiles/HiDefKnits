@@ -142,13 +142,17 @@ Creating the look and feel of HiDef Textiles and HiDef: Knits, as well as making
 3D rendering of the garment designed in HiDef: Knits
 
 ### Deliverables and results
+1.	Mannequin based on body measurements
+2.	Texture of stitch pattern
+3.	Draping 
+4.	Movement
+
+### Project tasks and participants
+Ólafur Þór Magnússon is the core developer of all 3D modeling deliverables.
 1.	3D modelling of garment on mannequin based on body measurements. Fixed position.
 2.	3D modelling of the texture of stitch pattern.
 3.	3D modelling of the draping of the garment with respect to yarn type.
 4.	3D modelling of garment where the mannequin is on movement.
-
-### Project tasks and participants
-Ólafur Þór Magnússon is the core developer of all 3D modeling deliverables.
 
 ## 8 University of Iceland Research Project
 ###### Responsible: Tómas Philip Rúnarsson
