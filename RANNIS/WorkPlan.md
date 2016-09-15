@@ -10,17 +10,53 @@
 
 ### Project tasks and participants
 
-## 2 Silhouette: Shape & Grading
+## 2 Silhouette design #1
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: months 2-6
 
 ### Description
+Structural elements to the garment silhouette (closed sweaters)
 
 ### Deliverables and results
+1.	Sizing and fitting
+2.	Torso
+3.	Length
+4. 	Armhole shaping
+5.	Sleeves
+6.	Cuffs 
 
 ### Project tasks and participants
+Helga Ingimundardóttir is the core developer of all silhouette design.
+1.	Sizing based on body measurements and defined ease of garment (standard, roomy, tight, form fitting) 
+2.	Torso: tapered, kimono, blouson
+3.	Length: cropped, waist, hip, knee length
+4. 	Armhole shaping: dropped shoulder, set-in shoulder, raglan, circular yoke, saddle shoulder
+5.	Sleeves: lantern, straight
+6.	Cuffs: fold-back, bell cuff, placket cuff 
 
-## 3 Stitches: Texture & Finishing
+## 3 Silhouette design #2
+###### Responsible: Helga Ingimundardóttir
+###### Time period: months 19-24
+
+### Description
+Structural elements to the garment silhouette for a cardigans (open sweaters)
+
+### Deliverables and results
+1.	Neckline
+2.	Collar
+3.	Center closure
+4.	Lapels
+5.	Buttonholes
+
+### Project tasks and participants
+Helga Ingimundardóttir is the core developer of all silhouette design.
+1.	Neckline: classic boat-neck, square, round, “V” shaped
+2.	Collar: straight, split, turtleneck, cowl, shawl
+3.	Center closure: zipper, overlapping, independent front band, rounded front edges
+4.	Lapels: classic, notched 
+5.	Buttonholes
+
+## 4 Stitches: Texture & Finishing
 
 ###### Responsible: Helga Ingimundardóttir
 
@@ -30,7 +66,7 @@
 Texture design elements and finishes techniques for the garment silhouette designed in HiDef: Knits
 
 ### Deliverables and results
-1.	Translating measurements to stitches.
+1.	Translating measurements to stitches
 2. 	Stitch library
 3.  Finishing techniques
 4.	Coloring arrangement (e.g. fair-isle)
@@ -50,26 +86,28 @@ Helga Ingimundardóttir is the core developer and knitter of all stitches delive
 4.	Fair-isle support. For domestic machine-knitting there is a constraint of maximum number of 4 colors to be loaded to a machine.
 	This effects color discretization when uploading images to chart color conversion.
 	
-## 4 Pattern Instructions
+## 5 Pattern Instructions
 ###### Responsible: Helga Ingimundardóttir
-###### Time period: months 13-24
+###### Time period: months 13-18
 
 ### Description
 Pattern generation of the garment designed in HiDef: Knits
 
 ### Deliverables and results
 1.	Identifying pattern repeats in stitching
-2.	Pattern instructions for hand-knitting
-3.	Pattern instructions for domestic machine-knitting
-4.	Pattern instructions for commercial manufacturing
+2. 	Pattern grading
+3.	Pattern instructions for hand-knitting
+4.	Pattern instructions for domestic machine-knitting
+5.	Pattern instructions for commercial manufacturing
 
 ### Project tasks and participants
 Helga Ingimundardóttir is the core developer of all pattern instruction deliverables.
-2.	Beta-testing in partnership with Ragnheiður Eiríksdóttir of Knitting Iceland
-3.	Beta-testing in partnership with Fanney Svansdóttir of Ylur
-4.	Beta-testing in partnership with Glófur/VARMA
+2.	Beta-testing in partnership with Áslaug Einarsdóttir of Icesheep
+3.	Beta-testing in partnership with Ragnheiður Eiríksdóttir of Knitting Iceland
+4.	Beta-testing in partnership with Fanney Svansdóttir of Ylur
+5.	Beta-testing in partnership with Glófur/VARMA
 
-## 5 UI/UX
+## 6 UI/UX
 ###### Responsible: Brennan Novak
 ###### Time period: months 5-17
 
@@ -79,7 +117,7 @@ Helga Ingimundardóttir is the core developer of all pattern instruction deliver
 
 ### Project tasks and participants
 
-## 6 3D modelling
+## 7 3D modelling
 ###### Responsible: Ólafur Þór Magnússon
 ###### Time period: months 6-9
 
@@ -95,7 +133,7 @@ Helga Ingimundardóttir is the core developer of all pattern instruction deliver
 ### Project tasks and participants
 Ólafur Þór Magnússon is the core developer of all 3D modelling deliverables.
 
-## 7 University of Iceland Research Project
+## 8 University of Iceland Research Project
 ###### Responsible: Tómas Philip Rúnarsson
 ###### Time period: months 9-15
 
@@ -113,7 +151,7 @@ The collaboration with University of Iceland and HiDef: Knits is to auto-generat
 2.	The feature can be text sentiments analysis in conjunction with image pattern analysis. Patterns detected will be constrained by optimizing them with respect to functionality.
 3.	Submit conference paper to the annual Learning and Intelligent OptimizatioN conference series.
 
-## 8 Marketing #1
+## 9 Marketing #1
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: months 10-12
 
@@ -122,13 +160,13 @@ Hands-on marketing for HiDef: Knits will be at trade-shows and conferences.
 
 ### Deliverables and results
 1. Participate in Handverk og Hönnun, an annual craft- and trade-show at Reykjavík City Hall.
-2. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany. 
+2. Participate in the 33rd Chaos Communication Congress (33C3), the annual conference organized by the Chaos Computer Club (CCC) in Hamburg, Germany
 
 ### Project tasks and participants
 1. Helga will showcase HiDef: Knits at Handverk og Hönnun (October 2017)
 2. Brennan will showcase HiDef: Knits at 33C3 (December 2017)
 
-## 9 Marketing #2
+## 10 Marketing #2
 ###### Responsible: Helga Ingimundardóttir
 ###### Time period: months 21-24
 
