@@ -37,10 +37,19 @@
 ###### Time period: months 13-24
 
 ### Description
+Pattern generation of the garment designed in HiDef: Knits
 
 ### Deliverables and results
+1.	Identifying pattern repeats in stitching
+2.	Pattern instructions for hand-knitting
+3.	Pattern instructions for domestic machine-knitting
+4.	Pattern instructions for commercial manufacturing
 
 ### Project tasks and participants
+Helga Ingimundardóttir is the core developer of all pattern instruction deliverables.
+2.	Beta-testing in partnership with Ragnheiður Eiríksdóttir of Knitting Iceland
+3.	Beta-testing in partnership with Fanney Svansdóttir of Ylur
+4.	Beta-testing in partnership with Glófur/VARMA
 
 ## 5 UI/UX
 ###### Responsible: Brennan Novak
@@ -57,7 +66,7 @@
 ###### Time period: months 6-9
 
 ### Description
-3D rendering of the garments being designed
+3D rendering of the garment designed in HiDef: Knits
 
 ### Deliverables and results
 1.	3D modelling of garment on mannequin based on body measurements. Fixed position.
