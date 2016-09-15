@@ -107,6 +107,7 @@ Pattern generation of the garment designed in HiDef: Knits
 
 ### Project tasks and participants
 Helga Ingimundardóttir is the core developer of all pattern instruction deliverables.
+1.  Collaboration with University of Iceland
 2.	Beta-testing in partnership with Áslaug Einarsdóttir of Icesheep
 3.	Beta-testing in partnership with Ragnheiður Eiríksdóttir of Knitting Iceland
 4.	Beta-testing in partnership with Fanney Svansdóttir of Ylur
