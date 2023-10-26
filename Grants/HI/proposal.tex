@@ -1,0 +1,203 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{lipsum} % For generating dummy text
+\geometry{a4paper, margin=1in} % Adjust margins as needed
+
+\title{HiDef Textiles: AI-Driven Process Optimization and Generative Design in Textiles Manufacturing}
+\author{Dr. Helga Ingimundardóttir}
+\date{\today}
+
+\usepackage[style=authoryear,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\usepackage[inline]{enumitem}
+\setlist[enumerate,1]{
+    label=\textit{\roman*)},
+    before=\unskip{: },
+    itemjoin={{; }}, itemjoin*={{, and }},
+    after={{. }}
+}
+\begin{document}
+    \maketitle
+
+    \abstract{
+        \textbf{HiDef Textiles} is an AI-driven textile design
+        initiative that strives to enhance and refine the practices of textile craftsmanship, seamlessly integrating
+        industrial engineering, computer science, and traditional arts.
+        Our objective is to optimize diverse textile techniques, fostering the development of accessible and user-friendly
+        tools for embroidery, sewing, and bespoke knitwear design.
+        Our open-source initiatives prioritize sustainability, waste minimization, and efficiency, making industrial best
+        practices readily available to hobbyists and professionals.
+        Integrating these projects into educational curricula fosters a unique learning environment, bridging arts,
+        mathematics, and engineering. This proposal seeks funding to support these transformative ventures, contributing to
+        societal enrichment through knowledge and innovation.
+
+        \textbf{Keywords:} \textit{Process Optimization}, \textit{Sustainable Textile Manufacturing},
+        \textit{Interdisciplinary Innovation} and \textit{Generative Design}.
+    }
+
+
+    \section{Introduction}
+
+    HiDef Textiles represents a collaborative effort to redefine textile craftsmanship through precision, innovation,
+    and interdisciplinary integration. It brings together industrial engineering, computer science, traditional
+    textile arts, and creative design, bridging the heritage of textile crafts with modern technology.
+
+    Textiles, historically linked to women's work, embody a blend of skill, precision, and creativity. Ada Lovelace
+    drew inspiration from the Jacquard loom, perceiving its punched cards as an algorithmic language that connected
+    textile arts with computation
+    This connection, as highlighted by \cite{sadieplant}, underscores textiles' potential to inspire women in STEM by
+    providing a tangible way to grasp engineering and computational concepts.
+
+    Building on these historical ties, HiDef Textiles creates a welcoming space for innovation and diversity.
+    Research by \cite{qiu2013} and \cite{keune2022} demonstrates the appeal of computational
+    textiles, making technology and programming more accessible. By merging textile artistry with industrial
+    engineering, HiDef Textiles makes the field inviting, especially for women.
+
+    Moreover, HiDef Textiles integrates STEM principles directly into textile-making, blending creative expression
+    with technical precision. This hands-on approach shows the relevance of STEM concepts in familiar artistic
+    contexts, offering new opportunities for participation in complex industrial processes. It fosters confidence and
+    a sense of belonging, contributing to a more diverse field of industrial engineering.
+
+
+    \section{Types of Projects Under Consideration}
+
+    HiDef Textiles stands at the forefront of innovation, seamlessly blending traditional textile arts with modern
+    technology and computational methods. Through our initiatives, we strive to enhance textile craftsmanship, improve
+    efficiency, and make the field more accessible and sustainable. Our key projects include
+    \begin{enumerate*}
+        \item Optimization in Embroidery, which focuses on streamlining machine embroidery processes for enhanced precision
+        and reduced waste;
+        \item Fabric Utilization in Sewing, aiming to optimize fabric use and promote sustainable practices;
+        \item AI-Enhanced Knitwear Design and Visualization, an innovative approach to democratize knitwear design
+        through advanced technology.
+    \end{enumerate*}
+    Each of these initiatives represents a step toward a future where the rich heritage of textiles is preserved
+    while embracing the possibilities of modern innovation.
+
+
+    \section{Optimization in Embroidery}
+
+    Machine embroidery involves intricate processes requiring precision. The \emph{Optimization in Embroidery}
+    initiative aims to enhance the efficiency of this craft by streamlining the entire workflow, from design input
+    to stitching.
+    We employ classical operations research optimization techniques to minimize wastage, reduce setup and cleanup times,
+    and ensure optimal resource usage, promoting sustainability in embroidery.
+
+    We collaborate with \cite{inkstitch}, an open-source machine embroidery design extension for Inkscape.
+    Our focus is on implementing shortest route algorithms, enhancing their toolkit. Identifying nodes for
+    aesthetically pleasing outcomes in embroidery poses a challenge, but this integration aims to optimize the
+    process, delivering efficient and visually appealing designs. Our endeavor introduces precision and efficiency to
+    machine embroidery, benefiting large-scale industrial setups and hobbyists alike.
+
+    \subsection{Fabric Utilization in Sewing}
+
+    Sewing, especially in garment creation, demands precise pattern placement and fabric cutting. The \emph{Fabric
+    Utilization in Sewing} initiative focuses on optimizing this process with advanced algorithms, addressing
+    challenges such as irregular fabric shapes resulting from previous projects or unique fabric choices. We aim to
+    significantly reduce fabric wastage, offering solutions adaptable to varying fabric widths and suggesting optimal
+    orientations for pattern pieces.
+
+    To tackle this problem, we draw inspiration from methodologies used in the 2D Free Form Bin Packing problem and the
+    2D Irregular Cutting Stock Problem \cite{bennell2009tutorial, xu2016efficient}.
+    This project holds particular relevance for home sewists and small-scale garment makers, aiding them in
+    maximizing fabric utility, conserving resources, and promoting sustainable sewing practices. Unlike industrial
+    setups, these users work on a smaller scale, with limited resources and equipment. Their non-uniform fabric
+    shapes make the problem more challenging and require a more nuanced approach. Moreover, they are less likely to
+    have access to advanced tools and software, making our project's open-source nature all the more valuable.
+
+    \subsection{AI-Enhanced Knitwear Design and Visualization}
+
+    Knitwear design is a craft rich in tradition, often requiring extensive knowledge and experience to achieve
+    intricate patterns and precise fitting. The AI-Enhanced Knitwear Design and Visualization project aims to
+    democratize this process, bringing the art of knitwear design to a broader audience. By integrating generative AI
+    and 3D modeling with traditional knitting techniques, we provide a platform that facilitates the creation of
+    customized garments, tailored to individual preferences and fit requirements. Furthermore, this project offers a
+    standardized and intuitive open-source platform for knitting design, featuring advanced visualization and
+    prototyping capabilities. Users can visualize their designs in real-time, make adjustments, and experiment with
+    different patterns and stitches, all before the actual knitting begins. This ensures that even those new to knitwear
+    design can achieve professional-level results, blending the artistry of traditional knitting with the precision and
+    innovation of modern technology.
+
+
+    \section{Academic and Societal Value}
+
+    These projects aim to shine a light on the omnipresence of optimization in daily life, showcasing its application in
+    the arts and crafts practiced in homes worldwide. By demystifying complex processes and offering user-friendly tools,
+    we hope to inspire a new generation of fiber artists who appreciate the optimization potential in their field, and
+    for a new generation of industrial engineers who appreciate their field's potential to improve the lives of people
+    in more ways than they can imagine.
+
+    The integration of these projects into educational curricula, in courses such as \textbf{Operations Research} and
+    \textbf{Business Intelligence}, ensures that students gain practical experience, applying optimization techniques
+    in diverse settings.
+    We aim to attract master's students to further develop these topics, contributing to both the academic field and
+    practical applications in textiles.
+
+
+    \section{Web Platform and Community Engagement}
+
+
+    As the HiDef Textiles project matures, our next step is deploying a comprehensive web platform. This platform
+    will host the beta version of our tools, offering direct user access and fostering collaboration and education.
+    After development and testing, we'll launch the beta version on a robust web server to gather user feedback, make
+    adjustments, and ensure user-friendliness.
+
+    The platform goes beyond tool provision. It will offer a rich repository of literature, tutorials, and
+    community-contributed content, aiding users in understanding our tools and textile processes. We aim to build a
+    vibrant community, encouraging user contributions, collaboration, and innovation. Users can engage with our tools,
+    participate in discussions, and contribute to open-source development.
+
+    We'll provide extensive documentation, tutorials, and support to empower users to use our tools independently,
+    regardless of their technical background. This platform establishes a foundation for HiDef Textiles' sustained
+    growth. Our vision is for the community to drive innovation, enhance our tools, and share knowledge, ensuring the
+    textile field remains vibrant and evolving.
+
+
+    \section{Budget 2024-2026}
+
+    Our budget for 2024-2026 aims to support the progression of the HiDef Textiles project, focusing on academic
+    enrichment, technological development, and community engagement.
+
+    Our initial plan includes providing a summer internship for a Master's student to engage in research and skill
+    development.
+    We are also allocating funds for potential licensing fees, ensuring the integration of advanced software tools
+    like DALL·E and Midjourney for generative design.
+    Once the foundational work is completed, we envision launching a beta version of our program on a web platform.
+    This platform will include server-side applications to ensure functionality and user access.
+
+    \subsection{Budget Breakdown}
+
+    In order to offer a seamless and efficient user experience, we've identified Amazon Web Services as our
+    hosting partner of choice for its robust and scalable infrastructure.
+    Simplified breakdown of our proposed setup
+    \begin{enumerate*}[itemjoin*={{, for }}]
+        \item Amazon EC2 (t2.micro instance): \$102/year
+        \item Amazon RDS (db.t2.micro instance): \$156/year
+        \item Amazon S3 (moderate storage): \$60/year
+        \item Data Transfer (moderate transfer): \$120/year
+        \item Route 53 (domain + DNS): \$15/year
+        \item ISNIC domain registration and annual renewal: 6,789 ISK/year
+        \item grand total of approximately 50,000 ISK/year
+    \end{enumerate*}
+
+    The project will be open-source, and license fees will cover the use of generative AI software:
+    \begin{enumerate*}[itemjoin*={{, for }}]
+        \item Midjourney \$96 (standard plan) a year
+        \item DALL·E operates on a \emph{pay-as-you-go} pricing model,
+        \item Chat-GPT is \$300/year
+        \item grand total for license fees of approximately 50,000 ISK/year
+    \end{enumerate*}
+
+    We anticipate an overhead of 100,000 ISK/year. Any remaining funds will be used to hire Master's students for 2-3
+    months each summer from 2024-2026 to further develop the project.
+    They are budgeted for 564,679 ISK/month (salary category no. 695.020) with hopes of hiring 1 student for 2-3
+    months each year.
+
+    If we encounter challenges in hiring suitable Master's students or face budget constraints, the remaining funds
+    will be redirected to outsource the development of the project's graphical user interface and visual elements to
+    a third party.
+
+    \printbibliography
+
+\end{document}
