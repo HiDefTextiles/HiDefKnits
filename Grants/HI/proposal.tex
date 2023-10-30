@@ -1,14 +1,14 @@
 \documentclass{article}
 \usepackage{geometry}
 \usepackage{lipsum} % For generating dummy text
-\geometry{a4paper, margin=1in} % Adjust margins as needed
+\geometry{a4paper, margin=25mm} % Adjust margins as needed
 
 \title{HiDef Textiles: AI-Driven Process Optimization and Generative Design in Textiles Manufacturing}
 \author{Dr. Helga Ingimundardóttir}
 \date{\today}
 
-\usepackage[style=authoryear,backend=biber]{biblatex}
-\addbibresource{references.bib}
+\usepackage{natbib}
+\bibliographystyle{plainnat}
 
 \usepackage[inline]{enumitem}
 \setlist[enumerate,1]{
@@ -46,11 +46,11 @@
     Textiles, historically linked to women's work, embody a blend of skill, precision, and creativity. Ada Lovelace
     drew inspiration from the Jacquard loom, perceiving its punched cards as an algorithmic language that connected
     textile arts with computation
-    This connection, as highlighted by \cite{sadieplant}, underscores textiles' potential to inspire women in STEM by
+    This connection, as highlighted by \citet{sadieplant}, underscores textiles' potential to inspire women in STEM by
     providing a tangible way to grasp engineering and computational concepts.
 
     Building on these historical ties, HiDef Textiles creates a welcoming space for innovation and diversity.
-    Research by \cite{qiu2013} and \cite{keune2022} demonstrates the appeal of computational
+    Research by \citet{qiu2013,keune2022} demonstrates the appeal of computational
     textiles, making technology and programming more accessible. By merging textile artistry with industrial
     engineering, HiDef Textiles makes the field inviting, especially for women.
 
@@ -67,10 +67,10 @@
     efficiency, and make the field more accessible and sustainable. Our key projects include
     \begin{enumerate*}
         \item Optimization in Embroidery, which focuses on streamlining machine embroidery processes for enhanced precision
-        and reduced waste;
-        \item Fabric Utilization in Sewing, aiming to optimize fabric use and promote sustainable practices;
+        and reduced waste
+        \item Fabric Utilization in Sewing, aiming to optimize fabric use and promote sustainable practices
         \item AI-Enhanced Knitwear Design and Visualization, an innovative approach to democratize knitwear design
-        through advanced technology.
+        through advanced technology
     \end{enumerate*}
     Each of these initiatives represents a step toward a future where the rich heritage of textiles is preserved
     while embracing the possibilities of modern innovation.
@@ -84,7 +84,7 @@
     We employ classical operations research optimization techniques to minimize wastage, reduce setup and cleanup times,
     and ensure optimal resource usage, promoting sustainability in embroidery.
 
-    We collaborate with \cite{inkstitch}, an open-source machine embroidery design extension for Inkscape.
+    We collaborate with \citet{inkstitch}, an open-source machine embroidery design extension for Inkscape.
     Our focus is on implementing shortest route algorithms, enhancing their toolkit. Identifying nodes for
     aesthetically pleasing outcomes in embroidery poses a challenge, but this integration aims to optimize the
     process, delivering efficient and visually appealing designs. Our endeavor introduces precision and efficiency to
@@ -99,7 +99,7 @@
     orientations for pattern pieces.
 
     To tackle this problem, we draw inspiration from methodologies used in the 2D Free Form Bin Packing problem and the
-    2D Irregular Cutting Stock Problem \cite{bennell2009tutorial, xu2016efficient}.
+    2D Irregular Cutting Stock Problem \citep{bennell2009tutorial, xu2016efficient}.
     This project holds particular relevance for home sewists and small-scale garment makers, aiding them in
     maximizing fabric utility, conserving resources, and promoting sustainable sewing practices. Unlike industrial
     setups, these users work on a smaller scale, with limited resources and equipment. Their non-uniform fabric
@@ -198,6 +198,8 @@
     will be redirected to outsource the development of the project's graphical user interface and visual elements to
     a third party.
 
-    \printbibliography
+
+    \bibliography{references}
+
 
 \end{document}

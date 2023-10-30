@@ -35,3 +35,5 @@ sysinfo.txt
 *.synctex.gz
 *.out
 RANNIS/coop_Ragga.tex
+*.bbl
+*.blg
