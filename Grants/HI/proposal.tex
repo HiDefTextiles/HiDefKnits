@@ -1,7 +1,7 @@
 \documentclass{article}
 \usepackage{geometry}
 \geometry{a4paper, top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
-
+% https://soloforms.lausn.is/input/?fid=783&rid=0fc742a8-14ec-4487-abdd-ff8731beb13b
 \usepackage{changepage}
 \usepackage{etoolbox}
 \usepackage{setspace}
@@ -27,60 +27,35 @@
 
 \begin{document}
     \maketitle
-
-    \begin{abstract}
-        \textbf{HiDef Textiles} uniquely merges AI, industrial engineering, computer science, and textile craftsmanship,
-        enhancing embroidery, sewing, knitwear design and more. Our vision is to democratize tech and programming via
-        textiles, seamlessly integrating arts and sciences in an engaging manner.
-
-        We are building a comprehensive learning platform, emphasizing sustainable practices and efficiency, and are
-        committed to sharing knowledge and industrial best practices across all skill levels. Our educational
-        integration fosters a collaborative space where arts, mathematics, and engineering converge.
-
-        With a strong focus on encouraging women in STEM, we present textiles as a tangible entry point to
-        engineering and computational concepts, aiming to cultivate an inclusive community and drive innovation.
-
-        In seeking funding, our objective is to strengthen our STEAM approach, ensuring a rich, interdisciplinary
-        experience that merges STEM with the Arts. This financial support will enable us to employ industrial
-        engineering and computer science students for the development of both the content and the platform itself,
-        thereby fostering a culture of knowledge and innovation.
-
-        \noindent \textbf{Keywords:} \textit{Process Optimization}, \textit{Sustainable Textile Manufacturing},
-        \textit{Interdisciplinary Innovation} and \textit{Generative Design}.
-    \end{abstract}
-
+    %\input{abstract}
 
     \section{Introduction}
 
-    Textiles, historically tied to women's work, blend skill, precision, and creativity. Ada Lovelace
-    saw in the Jacquard loom an algorithmic language, linking textile arts to computation. As
-    \citet{sadieplant} underscores, this connection highlights textiles' potential to inspire women in
-    STEM, offering a tangible way to grasp engineering and computational concepts.
+    Textiles, traditionally intertwined with women's work, embody a rich tapestry of skill, precision, and creativity.
+    Ada Lovelace, a visionary in computing, recognized the algorithmic nature of the Jacquard loom, thereby linking
+    textile arts to computation—a connection that, as \citet{sadieplant} emphasizes, has the potential to inspire women
+    to delve into STEM fields, providing a hands-on way to understand engineering and computational concepts.
 
-    HiDef Textiles embodies a collaborative effort to transform textile craftsmanship, merging
-    traditional arts with modern technology and interdisciplinary innovation. By integrating industrial
-    engineering, computer science, and creative design, it forges a bridge from heritage crafts to
-    contemporary practices. This initiative not only enhances innovation but also champions diversity,
-    with a particular focus on inviting women into the field. Research by \citet{qiu2013,keune2022}
-    attests to the unique appeal of computational textiles, demonstrating their potential to demystify
-    technology and programming. In doing so, HiDef Textiles weaves together artistic expression and
-    engineering precision, making industrial processes more accessible and inviting.
+    HiDef Textiles stands at the intersection of traditional craftsmanship and modern technology, fostering a synergy
+    between industrial engineering, computer science, and creative design. This collaborative initiative is not just a
+    conduit for innovation but also a platform that champions diversity and inclusion, especially in encouraging
+    women's participation in the field. Research works like those by \citet{qiu2013,keune2022} highlight the appeal
+    of computational textiles, showcasing their effectiveness in making technology and programming less intimidating
+    and more accessible.
+
+    By intertwining artistic expression with engineering precision, HiDef Textiles is democratizing industrial
+    processes, making them more accessible and inviting. In doing so, it contributes to the existing knowledge base,
+    establishes innovative practices, and encourages diversity within the field, all while fostering a sense of
+    community and shared learning.
+
+    This initiative not only enhances the efficiency and sustainability of textile craftsmanship but also opens new
+    avenues for learning and participation, ensuring a more inclusive future for the textile industry and beyond.
 
 
     \section{Projects}
-    HiDef Textiles merges the art of traditional textiles with the efficiency of modern technology and
-    computational methods. We are working hard to improve textile craftsmanship, aiming for greater efficiency,
-    accessibility, and sustainability in the field. Our key projects include
-    \begin{enumerate*}
-        \item Optimization in Embroidery: We're fine-tuning machine embroidery processes to increase precision
-        and minimize waste
-        \item Fabric Utilization in Sewing: Our goal is to optimize fabric use, promoting sustainable practices
-        in the process
-        \item AI-Enhanced Knitwear Design and Visualization: We're using advanced technology to make knitwear
-        design more accessible to everyone
-    \end{enumerate*}
-    Through these initiatives, we're working toward a future that honors the rich heritage of textiles while welcoming
-    modern innovations.
+    At HiDef Textiles, we intertwine the artistry of traditional textiles with the precision of modern technology and
+    computational methods, striving for heightened efficiency, accessibility, and sustainability. Our work spans various
+    facets of textile craftsmanship, and we highlight three pivotal initiatives below.
 
     \subsection{Optimization in Embroidery}
 
@@ -96,8 +71,7 @@
     precision and pleasing visual outcomes.
 
     \begin{description}
-        \item[Objective:] Integrate real-world application of shortest path problems in embroidery to enhance
-        learning in \emph{Operations Research}.
+        \item[Objective:] Optimizing stitching paths used in machine embroidery.
         \item[Milestone 1:] Introduce basic concepts of shortest path problems to students.
         Students implement basic version for hands-on experience.
         \item[Milestone 2:] Add an additional layer of complexity to the problem by introducing an optimization for
@@ -110,9 +84,8 @@
 
     Sewing requires precise pattern placement and fabric cutting, particularly in garment creation.
     This initiative aims to optimize these aspects using advanced algorithms. We address challenges
-    like irregular fabric shapes from previous projects and unique fabric types. Our goal is to
-    minimize fabric waste, providing adaptable solutions for various fabric widths and suggesting
-    ideal orientations for pattern pieces.
+    like irregular fabric shapes and matching pattern repeats. Our goal is to minimize fabric waste,
+    providing adaptable solutions for various fabric widths and suggesting ideal orientations for pattern pieces.
 
     We draw on methods from the 2D Free Form Bin Packing and 2D Irregular Cutting Stock Problems
     \citep{bennell2009tutorial, xu2016efficient}, targeting home sewists and small-scale garment
@@ -121,24 +94,23 @@
     small scale, lacking access to advanced tools. Our open-source approach is thus invaluable.
 
     \begin{description}
-        \item[Objective:] Progressively deepen students' proficiency in Fabric Utilization,
-        initiating with straightforward scenarios and gradually introducing more intricate challenges,
-        enhancing their ability to efficiently utilize fabric in various contexts.
-        
+        \item[Objective:] Optimize pattern placement and fabric utilization in garment creation by developing
+        advanced algorithms to handle irregular fabric shapes and unique materials, to reduce fabric waste.
+
         \item[Milestone 1:] Begin with fundamental principles of fabric utilization, focusing on the
         optimal arrangement of regular shapes (rectangles) from a rectangular piece of fabric, i.e. cutting stock
         problem.
-        
+
         \item[Milestone 2:] Transition to scenarios that involve regular shapes being cut from irregular
         pieces of fabric, teaching students how to maximize fabric usage with remnants or animal hides.
-        
+
         \item[Milestone 3:] Introduce the complexity of cutting irregular shapes from regular fabric
         pieces, emphasizing efficient orientation and placement strategies. A common problem in industrial sewing.
-        
+
         \item[Milestone 4:] Expand to real-world bespoke garment-making challenges, dealing with irregular
         shapes being cut from irregular fabric pieces.
-        
-        \item[Milestone 5:] Broaden the context to a 3D space, applying fabric utilization principles to
+
+        \item[Milestone 5:] Broaden the context to a 3D space, applying the same principles to
         3D printing, where students learn to place objects on a printer bed, navigating the added
         dimensions and complexities.
     \end{description}
@@ -146,27 +118,23 @@
 
     \subsection{AI-Enhanced Knitwear Design and Visualization}
 
-    Knitting patterns usually specify a single yarn type and a default gauge, but knitters vary in
-    their tension, and yarn substitutions are common. Our AI-Enhanced Knitwear Design and
-    Visualization project simplifies the adjustment of patterns to individual needs, aiding both
-    knitters and designers.
-
-    For knitters, it offers an easy way to adapt existing patterns to their gauge and chosen yarn,
-    ensuring a right fit. Designers benefit by efficiently creating versatile patterns that
-    consider varying gauges and yarn types right from the start.
+    We are pioneering in AI-enhanced knitwear design and visualization, facilitating the adjustment of knitting
+    patterns to individual needs, whether it be gauge discrepancies or yarn substitutions. This initiative benefits both
+    knitters and designers, providing an easy means to adapt patterns and create versatile designs that accommodate
+    varying gauges and yarn types.
+    To fuel our innovation, we leverage extensive databases, including Ravelry\footnote{
+        Ravelry, founded by \citeauthor{Ravelry} in \citeyear{Ravelry}, provides a comprehensive platform for fiber
+        artists to share patterns, discuss techniques, and showcase finished projects. It enables users to browse and
+        purchase patterns, track their own projects, and connect with a global community of enthusiasts. The platform
+        hosts millions of user-generated patterns, making it an invaluable resource for understanding the knitting
+        and crocheting community.
+    }, a platform crucial for analyzing current trends, popular designs, and common pattern modifications.
+    This deep understanding aids in the development of our generative AI applications, pushing the boundaries of
+    pattern design and visualization.
 
     \begin{description}
-        \item[Objective:] Leverage extensive databases like Ravelry\footnote{Ravelry is an extensive online
-        community and database dedicated to the arts of knitting, crocheting, spinning, and weaving. Founded in
-        \citeyear{Ravelry} by \citeauthor{Ravelry}, it provides a comprehensive platform for fiber artists to
-        share patterns, discuss techniques, and showcase finished projects. Users can browse and purchase
-        patterns, track their own projects, and connect with other enthusiasts across the globe. The platform
-        hosts millions of user-generated patterns, making it an invaluable resource for understanding current
-        trends, popular designs, and common modifications made to existing patterns. For our project, Ravelry
-        serves as a crucial data source, offering a rich dataset that can be analyzed to gain insights into user
-        preferences and behavior, and to train our generative AI models for pattern design and visualization.}
-        to understand trends, popular patterns, and scope of pattern modifications. Develop generative AI
-        applications for pattern design.
+        \item[Objective:] Develop generative AI applications for pattern instruction and modification of
+        knitwear designs.
         \item[Milestone 1:] Analyze Ravelry dataset (meta-data) for trends and pattern popularity.
         \item[Milestone 2:] Develop generative AI for Fairisle patterns, using images of lopapeysa for training.
         \item[Milestone 3:] Identify and work on public domain patterns for future generative AI applications.
@@ -178,44 +146,42 @@
 
     \section{Academic and Societal Value}
 
-    HiDef Textiles integrates innovation and education to generate societal impact.
-    Our initiatives span from major industrial applications to personal projects, ensuring wide-reaching relevance.
+    HiDef Textiles stands at the intersection of innovation, education, and societal impact, with initiatives that
+    range from major industrial applications to personal textile projects. Our commitment is to ensure wide-reaching
+    relevance and tangible benefits across diverse domains.
 
-    \subsection{Educational Integration and Student Participation}
+    Integrating our projects into industrial engineering courses offers unique, hands-on learning experiences for
+    students. We create opportunities for student engagement through smaller, practical projects, fostering a deep
+    understanding of the real-world applications of their academic pursuits. Furthermore, we aim to attract master's
+    students--hopefully funded--to make substantial contributions to our key initiatives, further intertwining
+    academic growth with practical innovation.
 
-    Incorporating our projects into industrial engineering courses,
-    such as Operations Research and Business Intelligence, facilitates unique learning experiences.
-    We actively encourage students to engage through smaller projects, enhancing their understanding of the
-    practical applications of their studies. The goal is to also attract a master's student, potentially funded,
-    to contribute significantly to one of our key projects.
+    Our dedication to community empowerment shines through our open-source tools, designed to demystify textile
+    processes and put control back into the users' hands. The HiDef Textiles web platform serves as a central hub for
+    this exchange, enabling sharing, collaboration, and continuous learning within a vibrant community.
 
-    \subsection{Community Empowerment and Tool Accessibility}
-
-    Our open-source tools serve the community, empowering users to take charge of their textile projects
-    while understanding the processes behind them.
-    The HiDef Textiles web platform is pivotal in this, providing a space for sharing, collaboration,
-    and continuous learning.
-
-    \subsection{Academic Contributions and Simplified Learning Resources}
-
-    While we focus on producing academic findings to contribute to scholarly journals, we equally
-    prioritize simplifying these findings. The aim is to transform them into educational resources,
-    making complex concepts accessible and understandable, thereby broadening their impact and applicability.
-
-    This comprehensive approach ensures that HiDef Textiles not only contributes to the academic world
-    but also fosters a community of informed users and enthusiastic learners,  bridging the gap between theory and
-    practice in textile arts.
-
+    Academic contributions and the dissemination of knowledge are central to our mission. We actively work to publish
+    our findings in scholarly journals while ensuring that these complex concepts are translated into simplified
+    learning resources. Our objective is to make knowledge accessible and understandable, broadening its impact and
+    ensuring that it serves not just the academic community but also the wider public interested in textile arts. In
+    doing so, HiDef Textiles bridges the gap between theory and practice, fostering a community of informed users,
+    enthusiasts, and lifelong learners in the textile arts.
 
     \section{Conclusion}
 
-    HiDef Textiles redefines textile manufacturing, balancing efficiency, accessibility, and sustainability
-    while honoring traditional craftsmanship.
-    We offer innovative learning avenues, promoting academic and societal progress.
+    At HiDef Textiles, we are on a mission to transform textile manufacturing, striking a harmonious balance between
+    efficiency, accessibility, and sustainability, all while preserving the invaluable heritage of traditional
+    craftsmanship. Our initiatives pave the way for innovative learning opportunities, driving forward both academic
+    excellence and societal well-being.
 
-    Integrating STEM into textile arts, we aim to attract a diverse audience,
-    particularly encouraging women to explore optimization and operations research within industrial engineering.
-    Our open-source platform fosters community, innovation, and a sustainable future in textiles and beyond.
+    By seamlessly integrating STEM disciplines into the realm of textile arts, we open doors to a diverse range of
+    participants. We are especially keen on inspiring women to delve into the fields of optimization and operations
+    research within industrial engineering, fostering gender diversity and inclusion in these critical areas of study.
+
+    Our open-source platform stands at the core of our community-building efforts, acting as a catalyst for innovation,
+    knowledge-sharing, and sustainable practices. It is a space where the textile community, and indeed the world at
+    large, can come together to push the boundaries of what is possible, ensuring a future for textiles that is as
+    rich and vibrant as its past.
 
     \newpage
     \bibliography{references}
